@@ -49,7 +49,9 @@ A user interface for uploading RFP documents, viewing extracted information, and
 <img width="595" height="464" alt="Screenshot 2026-09-27 134104" src="https://github.com/user-attachments/assets/3292a219-eb46-4be5-828d-12786e83676d" />
 <img width="593" height="361" alt="Screenshot 2026-09-27 134124" src="https://github.com/user-attachments/assets/1cc9f2a8-f854-41fa-9d9a-fe54d17d41a6" />
 
+
 4.Detailed RFP Analsis
+
 <img width="519" height="325" alt="Screenshot 2026-09-27 134232" src="https://github.com/user-attachments/assets/9114b030-9ea0-4a32-a105-d71b66e6ad45" />
 
 ## Technology Stack
