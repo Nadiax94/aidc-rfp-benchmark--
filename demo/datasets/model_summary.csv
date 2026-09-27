@@ -1,0 +1,4 @@
+model,rfps_evaluated,field_accuracy_pct,avg_field_similarity_pct,completeness_pct,hallucination_rate_pct,wrong_value_rate_pct,avg_latency_seconds,avg_total_tokens,raw_json_valid_pct,json_after_cleanup_pct
+Granite-8B-AWQ,5,46.67,51.97,80.49,20.0,39.59,35.92,31259,81.95,89.72
+OpenAI,5,59.17,58.36,82.24,3.33,29.87,15.67,24934,100.0,100.0
+Qwen-4B-AWQ,5,53.33,53.64,71.35,6.67,25.75,15.51,28706,63.89,93.06

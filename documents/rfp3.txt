@@ -1,0 +1,1283 @@
+ 
+Request for Proposals  
+For  
+Learning Management System (LMS)  
+Request for Proposals No.: CMH26-85  
+Issued: May 15, 2026  
+Submission Deadline: May 28, 2026 2:00 PM local time 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 1 of 25  
+TABLE OF CONTENTS  
+PART 
+1 
+– 
+INVITATION 
+AND 
+SUBMISSION 
+INSTRUCTIONS....................................................3 
+1.1 
+Invitation 
+to 
+Proponents...................................................................................................3 1.2 RFP 
+Contact....................................................................................................................3 
+1.3 
+Contract 
+for 
+Deliverables 
+.................................................................................................3 1.4 RFP Timetable 
+................................................................................................................4 
+1.5 
+Submission 
+of 
+Proposals 
+.................................................................................................4  
+PART 
+2 
+– 
+EVALUATION, 
+NEGOTIATION 
+AND 
+AWARD...........................................................7 
+2.1 
+Stages 
+of Evaluation and 
+Negotiation..............................................................................7 
+2.2 
+Stage 
+I 
+– 
+Mandatory Health & Safety Requirements........................................................7 2.3 
+Stage 
+II 
+– 
+Mandatory 
+Submission 
+Requirements 
+.............................................................7 
+2.4 
+Stage 
+III 
+– 
+Evaluation 
+......................................................................................................7 2.5 Stage IV – 
+Pricing............................................................................................................8 
+2.6 
+Stage 
+V 
+– 
+Ranking 
+and 
+Contract 
+Negotiations.................................................................8  
+PART 
+3 
+– 
+TERMS 
+AND 
+CONDITIONS 
+OF 
+THE 
+RFP 
+PROCESS.............................................10 
+3.1 
+General 
+Information 
+and 
+Instructions.............................................................................10 3.2 Communication 
+after 
+Issuance 
+of 
+RFP 
+..........................................................................11 
+3.3 
+Notification 
+and 
+Debriefing.............................................................................................12 3.4 Conflict 
+of Interest and Prohibited Conduct....................................................................12 3.5 
+Confidential 
+Information.................................................................................................14 
+3.6 
+Procurement 
+Process 
+Non-Binding................................................................................14 3.7 Governing Law 
+and 
+Interpretation..................................................................................15 
+3.8 
+Procurement 
+during 
+Litigation 
+with 
+the 
+City 
+of 
+Medicine 
+Hat 
+..........................................15  
+APPENDIX 
+A 
+– 
+FORM 
+OF 
+AGREEMENT 
+................................................................................16 APPENDIX B – SUBMISSION 
+FORM 
+......................................................................................17 
+APPENDIX 
+C 
+– 
+PRICING 
+.........................................................................................................20 
+APPENDIX 
+D 
+– 
+RFP 
+PARTICULARS.......................................................................................21  
+A. 
+THE 
+DELIVERABLES.......................................................................................................21 
+B. 
+MATERIAL 
+DISCLOSURES..............................................................................................21 
+C. 
+MANDATORY 
+HEALTH 
+& 
+SAFETY 
+REQUIREMENTS.....................................................21 
+D. 
+MANDATORY 
+SUBMISSION 
+REQUIREMENTS 
+..............................................................21 
+E. 
+MANDATORY 
+TECHNICAL 
+REQUIREMENTS.................................................................21 F. PRE-CONDITIONS 
+OF AWARD .......................................................................................21 G. RATED 
+CRITERIA............................................................................................................23  
+List of annexes or additional appendices   
+Proposal Form ............................................................................................................. (2 
+pages) 
+Scope 
+of 
+Work 
+............................................................................................................. 
+(5 
+pages) 
+Appendix E – System Requirements ............................................................. Excel 
+Spreadsheet 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 2 of 25  
+PART 1 – INVITATION AND SUBMISSION 
+INSTRUCTIONS 1.1 Invitation to Proponents  
+This Request for Proposals (the “RFP”) is an invitation by the City of Medicine Hat (the 
+“City”) to prospective proponents to submit proposals for Learning Management 
+System (LMS) as further  described in Appendix D (RFP Particulars) Section A (the 
+“Deliverables”).   
+The City of Medicine Hat (“the City”) is seeking proposals from qualified vendors to 
+provide a  modern, user-friendly, and secure Corporate Learning Management System 
+(LMS) to support  corporate training, onboarding, compliance, safety, professional 
+development, and certification  tracking for employees, volunteers, and other external 
+learners.  
+The LMS will streamline end-to-end content delivery, automate assignments and 
+reminders,  standardize reporting, and integrate with the City’s existing identity, 
+collaboration, and human  resources systems. The LMS will be used to support the 
+City’s internal training requirements  and is not intended to be used to sell, market, or 
+deliver training services to external  organizations, nor to function as an 
+educational-institution learning platform.  
+The LMS must be available 24 hours a day, 7 days a week, and support learning and  
+development for approximately 1,500 employees across various departments. The 
+proposed  solution must be scalable to accommodate future growth, including 
+increases in user licensing  and evolving training and development requirements.  
+1.2 RFP Contact  
+To contact the City in relation to this RFP, proponents must register with the City’s 
+bidding system  at https://medicinehat.bidsandtenders.ca and initiate the communication 
+electronically by clicking  on the “Submit a Question” button. The City will not accept 
+communications by any other means  except as specifically stated in this RFP.  
+For the purposes of this invitation, the RFP Contact is:  
+Joanne Bruneau-Carter, joabru@medicinehat.ca  
+Proponents and their representatives are not permitted to contact any employees, 
+officers,  agents, elected or appointed officials, or other representatives of the City, other 
+than the RFP Contact, concerning matters regarding this RFP. Failure to adhere to this 
+rule may result in the  disqualification of the proponent and the rejection of the 
+proponent’s proposal.  
+1.3 Contract for Deliverables  
+1.3.1 Type of Contract  
+The selected proponent will be requested to enter into direct contract negotiations to 
+finalize an  agreement with the City for the provision of the Deliverables. The terms and 
+conditions found in  Appendix A (Form of Agreement) are to form the basis for 
+commencing negotiations between the  City and the selected proponent. It is the City’s 
+intention to enter into an agreement with only one  (1) legal entity. 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 3 of 25  
+1.3.2 Term of Contract  
+The term of the agreement is to be for a period of five (5) years, with an option in favour 
+of the  City to extend the agreement on the same terms and conditions annually for an 
+additional two (2)  years.   
+1.4 RFP Timetable  
+1.4.1 Key Dates  
+Issue Date of RFP  
+May 15, 2026 
+Site Visit/Pre-Bid Meeting  
+N/A 
+Deadline for Questions  
+May 21, 2026 4:00 PM local time 
+Deadline for Issuing Addenda  
+May 25, 2026 4:00 PM local time 
+Submission Deadline  
+May 28, 2026 2:00 PM local time 
+Rectification Period  
+3 business days 
+Anticipated Ranking of Proponents  
+June 15, 2026 
+Contract Negotiation Period  
+7 calendar days 
+Anticipated Execution of Agreement  
+June 29, 2026 
+ 
+ 
+The RFP timetable is tentative only, and may be changed by the City at any time. For 
+greater  clarity, business days means all days that the City is open for business.  
+1.4.2 Site Visit / Pre-Bid Meeting   
+N/A  
+1.5 Submission of Proposals  
+1.5.1 Proposals to be Submitted at Prescribed Location  
+Proposals must be submitted to the City’s online bidding system 
+portal at:  https://medicinehat.bidsandtenders.ca/Module  
+Submissions by other methods will not be accepted.   
+1.5.2 Proposals to be Submitted on Time  
+Proposals must be submitted at the location set out above on or before the Submission 
+Deadline.  Proposals submitted after the Submission Deadline will be rejected.   
+Uploading large documents may take significant time, depending on the file size and 
+internet  connection speed. We strongly recommend that you give yourself sufficient 
+time and at least one  day before Closing Time to begin the uploading process and to 
+finalize your submission.   
+Proponents will receive an email confirmation receipt with a confirmation number upon 
+finalizing  their submission. 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 4 of 25  
+1.5.3 Proposals to be Submitted in Prescribed Format  
+All proponents shall have a bidding system vendor account and be registered as a plan 
+taker for  this opportunity, which will enable the proponent to download the solicitation 
+document, to receive  addenda email notifications, download addenda and submit their 
+proposals electronically through  the bidding system.   
+Submit one (1) PDF copy of the proposal, clearly identified with the RFP number, 
+title and  the name of the Proponent.   
+Proponents are cautioned that the timing of their submission is based on when the 
+proposal is  received by the bidding system, not when a proposal is submitted, as 
+transmission can be delayed  due to file transfer size, transmission speed, etc.  
+For the above reasons, it is recommended that you allow sufficient time to complete 
+your  submission and resolve any issues that may arise. The closing time and date shall 
+be determined  by the bidding system’s web clock.  
+If experiencing technical issues when submitting a proposal, proponents should contract  
+bids&tenders support at support@bidsandtenders.ca at least twenty-four (24) hours 
+prior to the  closing time and date. The bidding system will send a confirmation email to 
+the proponent advising  that their proposal was submitted successfully. If you do not 
+receive 
+a 
+confirmation 
+email, 
+contact  
+bids&tenders 
+support 
+at 
+support@bidsandtenders.ca.   
+To ensure receipt of the latest information and updates via email regarding this 
+solicitation, or if a  proponent has obtained this solicitation document from a third party, 
+the onus is on the proponent  to create a bidding system vendor account and register as 
+a plan taker for the opportunity at  https://medicinehat.bidsandtenders.ca.   
+Acknowledgement of Addenda  
+Acknowledgement of addenda is a mandatory requirement in the event that an 
+addendum is  issued. If a proponent has submitted a proposal and an addendum gets 
+issued, the bidding  system will withdraw all completed submissions and put them in an 
+incomplete status. The  proponent will be required to log in and resubmit.  
+1.5.4 Amendment of Proposals  
+Proponents may amend their submission prior to the closing time and date. The 
+proponent is  solely responsible to ensure the re-submitted proposal is received by the 
+bidding system no later  than the stated closing time and date.  
+1.5.5 Withdrawal of Proposals   
+At any time throughout the RFP process until the execution of a written agreement for 
+provision  of the Deliverables, a proponent may withdraw a submitted proposal. To 
+withdraw a proposal prior  to the Submission Deadline, a proponent should un-submit 
+the proposal through the “withdrawal  submission” function in the bidding system. To 
+withdraw a proposal after the Submission  Deadline, a notice of withdrawal, signed by 
+an authorized representative of the proponent, must  be sent to the RFP contact listed in 
+Section 1.2 of this RFP.  
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 5 of 25  
+[End of Part 1] 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 6 of 25  
+PART 2 – EVALUATION, NEGOTIATION AND AWARD  
+2.1 Stages of Evaluation and Negotiation  
+The City will conduct the evaluation of proposals and negotiations in the following 
+stages. If a  mandatory site visit/pre-bid meeting was scheduled, the City will only 
+consider proposals from those who attended.   
+2.2 Stage I – Mandatory Health & Safety Requirements  
+Stage I will consist of a review to determine which proposals comply with the mandatory 
+health &  safety requirements. If a proposal fails to satisfy the mandatory health & safety 
+requirements, the  City will issue the proponent a rectification notice identifying the 
+deficiency and providing the  proponent an opportunity to rectify the deficiency. If the 
+proponent fails to satisfy the mandatory  health & safety requirements within the 
+Rectification Period, its proposal will be rejected. The  Rectification Period will begin to 
+run from the date and time that the City issues a rectification  notice to the proponent. 
+The mandatory health & safety requirements are set out in Appendix D  (RFP 
+Particulars), Section C.   
+2.3 Stage II – Mandatory Submission Requirements  
+Stage II will consist of a review to determine which proposals comply with all of the 
+mandatory  submission requirements. If a proposal fails to satisfy all of the mandatory 
+submission  
+requirements, the City will issue the proponent a rectification notice 
+identifying the deficiencies  and providing the proponent an opportunity to rectify the 
+deficiencies. If the proponent fails to  satisfy the mandatory submission requirements 
+within the Rectification Period, its proposal will be  rejected. The Rectification Period will 
+begin to run from the date and time that the City issues a  rectification notice to the 
+proponent. The mandatory submission requirements are set out in  Appendix D (RFP 
+Particulars), Section D.   
+2.4 Stage III – Evaluation   
+Stage III will consist of the following two sub-stages:  
+2.4.1 Mandatory Technical Requirements   
+The City will review the proposals to determine whether the mandatory technical 
+requirements as  set out in Appendix D (RFP Particulars), Section E have been met. 
+Questions or queries on the  part of the City as to whether a proposal has met the 
+mandatory technical requirements will be  subject to the verification and clarification 
+process set out in Part 3.   
+2.4.2 Rated Criteria  
+The City will evaluate each qualified proposal on the basis of the rated criteria as set out 
+in  Appendix D (RFP Particulars), Section G.  
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 7 of 25  
+2.5 Stage IV – Pricing   
+Stage IV will consist of a scoring of the submitted pricing of each qualified proposal in 
+accordance  with the price evaluation method set out in Appendix C (Pricing). The 
+evaluation of price will be  undertaken after the evaluation of mandatory requirements 
+and rated criteria has been completed.   
+2.6 Stage V – Ranking and Contract Negotiations  
+2.6.1 Ranking of Proponents  
+After the completion of Stage IV, all scores from Stage III and Stage IV will be added 
+together  and the proponents will be ranked based on their total scores. The top-ranked 
+proponent will  receive a written invitation to enter into direct contract negotiations to 
+finalize the agreement with  the City. In the event of a tie, the selected proponent will be 
+the proponent selected by way of  coin toss.  
+2.6.2 Contract Negotiation Process  
+Any negotiations will be subject to the process rules contained in the Terms and 
+Conditions of the  RFP Process (Part 3) and will not constitute a legally binding offer to 
+enter into a contract on the  part of the City or the proponent, and there will be no legally 
+binding relationship created with any  proponent prior to the execution of a written 
+agreement. The terms and conditions found in the  Appendix A (Form of Agreement) are 
+to form the basis for commencing negotiations between the  City and the selected 
+proponent. Negotiations may include requests by the City for supplementary  
+information from the proponent to verify, clarify, or supplement the information provided 
+in its  proposal or to confirm the conclusions reached in the evaluation, and may include 
+requests by  the City for improved pricing or performance terms from the proponent.   
+2.6.3 Time Period for Negotiations  
+The City intends to conclude negotiations and finalize the agreement with the 
+top-ranked  proponent during the Contract Negotiation Period, commencing from the 
+date the City invites the  top-ranked proponent to enter negotiations. A proponent invited 
+to enter into direct contract  negotiations should therefore be prepared to satisfy the 
+pre-conditions of award listed in Appendix  D (RFP Particulars), Section F, provide 
+requested information in a timely fashion and conduct its  negotiations expeditiously.  
+2.6.4 Failure to Enter into Agreement  
+If the pre-conditions of award listed in Appendix D (RFP Particulars), Section F are not 
+satisfied  or if the parties cannot conclude negotiations and finalize the agreement for 
+the Deliverables  within the Contract Negotiation Period, the City may discontinue 
+negotiations with the top-ranked  proponent and may invite the next-best-ranked 
+proponent to enter into negotiations. This process  will continue until an agreement is 
+finalized, until there are no more proponents remaining that  are eligible for negotiations, 
+or until the City elects to cancel the RFP process.   
+2.6.5 Notification of Negotiation Status   
+Other proponents that may become eligible for contract negotiations may be notified at 
+the  commencement of the negotiation process with the top-ranked proponent.  
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 8 of 25  
+[End of Part 2] 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 9 of 25  
+PART 3 – TERMS AND CONDITIONS OF THE RFP 
+PROCESS 3.1 General Information and Instructions  
+3.1.1 Proponents to Follow Instructions  
+Proponents should structure their proposals in accordance with the instructions in this 
+RFP.  Where information is requested in this RFP, any response made in a proposal 
+should reference  the applicable section numbers of this RFP.  
+3.1.2 Proposals in English  
+All proposals are to be in English only.   
+3.1.3 No Incorporation by Reference   
+The entire content of the proponent’s proposal should be submitted in a fixed format, 
+and the  content of websites or other external documents referred to in the proponent’s 
+proposal but not  attached will not be considered to form part of its proposal.  
+3.1.4 Past Performance  
+In the evaluation process, the City may consider the proponent’s past performance or 
+conduct on  previous contracts with the City or other institutions.   
+3.1.5 Information in RFP Only an Estimate  
+The City and its advisers make no representation, warranty or guarantee as to the 
+accuracy of  the information contained in this RFP or issued by way of addenda. Any 
+quantities shown or data  contained in this RFP or provided by way of addenda are 
+estimates only, and are for the sole  purpose of indicating to proponents the general 
+scale and scope of the Deliverables. It is the  proponent’s responsibility to obtain all the 
+information necessary to prepare a proposal in  response to this RFP.  
+3.1.6 Proponents to Bear Their Own Costs  
+The proponent will bear all costs associated with or incurred in the preparation and 
+presentation  of its proposal, including, if applicable, costs incurred for interviews or 
+demonstrations.   
+3.1.7 Proposal to be Retained by the City   
+The City will not return the proposal or any accompanying documentation submitted by 
+a  proponent.  
+3.1.8 No Guarantee of Volume of Work or Exclusivity of Contract   
+The City makes no guarantee of the value or volume of work to be assigned to the 
+successful  proponent. The agreement to be negotiated with the selected proponent 
+may not be an exclusive  contract for the provision of the described Deliverables. The 
+City may contract with others for goods and services the same as or similar to the 
+Deliverables or may obtain such goods and  services internally. 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 10 of 25  
+3.2 Communication after Issuance of RFP  
+3.2.1 Proponents to Review RFP  
+Proponents should promptly examine all of the documents comprising this RFP and 
+may direct  questions or seek additional information in writing through the bidding 
+system question and  answer function on or before the Deadline for Questions. No such 
+communications are to be  directed to anyone or by any other means than submission 
+through the bidding system. The City  is under no obligation to provide additional 
+information, and the City is not responsible for any  information provided by or obtained 
+from any source other than the RFP Contact or the bidding  system. It is the 
+responsibility of the proponent to seek clarification through the bidding system on  any 
+matter it considers to be unclear. The City is not responsible for any misunderstanding 
+on the  part of the proponent concerning this RFP or its process.  
+3.2.2 All New Information to Proponents by Way of Addenda   
+This RFP may be amended only by addendum in accordance with this section. If the 
+City, for any  reason, determines that it is necessary to provide additional information 
+relating to this RFP, such  information will be communicated to all proponents by 
+addendum. Each addendum forms an  integral part of this RFP and may contain 
+important information, including significant changes to  this RFP. Proponents are 
+responsible for obtaining all addenda issued by the City through the  bidding system and 
+shall acknowledge receipt of any addenda through the bidding system by  checking a 
+box for each addenda and any applicable attachment.  
+It is the responsibility of the proponent to have received all addenda that are issued. 
+Proponents  
+should check online at https://medicinehat.bidsandtenders.ca prior to 
+submitting their proposal  and up until closing time and date in the event additional 
+addenda are issued.   
+If a proposal is submitted prior to the closing time and date and an addenda have been 
+issued,  the bidding system will change the proposal status to INCOMPLETE STATUS 
+and WITHDRAW  the submission. Proponents can view status changes in the “My Bids” 
+section of the bidding  system.  
+The proponent is solely responsible to:  
+• Make any required adjustment to their submission;  
+• Acknowledge the addenda; and  
+• Ensure the re-submitted proposal is received by the bidding system no later than 
+the  stated closing time and date.  
+3.2.3 Post-Deadline Addenda and Extension of Submission Deadline  
+If the City determines that it is necessary to issue an addendum after the Deadline for 
+Issuing  Addenda, the City may extend the Submission Deadline for a reasonable period 
+of time.  
+3.2.4 Verify, Clarify, and Supplement  
+When evaluating proposals, the City may request further information from the proponent 
+or third  parties in order to verify, clarify, or supplement the information provided in the 
+proponent’s  
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 11 of 25  
+proposal, including but not limited to clarification with respect to whether a proposal 
+meets the  mandatory technical requirements set out in Appendix D (RFP Particulars), 
+Section E.   
+The City may revisit, re-evaluate, and rescore the proponent’s response or ranking on 
+the basis  of any such information.  
+3.3 Notification and Debriefing  
+3.3.1 Notification to Other Proponents   
+Once an agreement is executed by the City and a proponent, the other proponents may 
+be notified  directly in writing and will be notified by public posting of the outcome of the 
+procurement process.  
+3.3.2 Debriefing  
+Proponents may request a debriefing after receipt of a notification of the outcome of the  
+procurement process. All requests must be in writing to the RFP Contact and must be 
+made within  ten (10) days of such notification. The time and place for each individual 
+debriefing will be as  mutually agreed by the City and the proponent.  
+The purpose of debriefing is to provide feedback to Proponents of the strength and 
+areas for  
+improvements of its proposal submission to help proponents better 
+understand the competitive  bidding process and the quality of their submissions so as 
+to enhance the quality of their  submissions in future. Information regarding other 
+proponents’ submissions will not be provided.  
+3.3.3 Procurement Protest Procedure  
+If a proponent wishes to challenge the RFP process, it should provide written notice to 
+the RFP Contact in accordance with applicable procurement protest procedures. The 
+notice must provide  a detailed explanation of the proponent’s concerns with the 
+procurement process or its outcome.  
+3.4 Conflict of Interest and Prohibited Conduct  
+3.4.1 Conflict of Interest  
+For the purposes of this RFP, the term “Conflict of Interest” includes, but is not limited 
+to, any  situation or circumstance where:  
+(a) in relation to the RFP process, the proponent has an unfair advantage or engages in  
+conduct, directly or indirectly, that may give it an unfair advantage, including but 
+not limited  to (i) having, or having access to, confidential information of the City 
+in the preparation of  its proposal that is not available to other proponents; (ii) 
+having been involved in the  development of the RFP, including having provided 
+advice or assistance in the  development of the RFP; (iii) receiving advice or 
+assistance in the preparation of its  response from any individual or entity that 
+was involved in the development of the RFP;  (iv) communicating with any 
+person with a view to influencing preferred treatment in the  RFP process 
+(including but not limited to the lobbying of decision makers involved in the  RFP 
+process); or (v) engaging in conduct that compromises, or could be seen to  
+compromise, the integrity of the open and competitive RFP process or render 
+that process  non-competitive or unfair; or 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 12 of 25  
+(b) in relation to the performance of its contractual obligations under a contract for the  
+Deliverables, the proponent’s other commitments, relationships, or financial 
+interests (i)  could, or could be seen to, exercise an improper influence over the 
+objective, unbiased,  and impartial exercise of its independent judgement; or (ii) 
+could, or could be seen to,  compromise, impair or be incompatible with the 
+effective performance of its contractual  obligations.  
+3.4.2 Disqualification for Conflict of Interest  
+The City may disqualify a proponent for any conduct, situation, or circumstances, 
+determined by  the City, in its sole and absolute discretion, to constitute a Conflict of 
+Interest as defined above.  
+3.4.3 Disqualification for Prohibited Conduct  
+The City may disqualify a proponent, rescind an invitation to negotiate or terminate a 
+contract  subsequently entered into if the City determines that the proponent has 
+engaged in any conduct prohibited by this RFP.  
+3.4.4 Prohibited Proponent Communications  
+Proponents must not engage in any communications that could constitute a Conflict of 
+Interest  and should take note of the Conflict of Interest declaration set out in Appendix 
+B - Submission  Form.   
+3.4.6 No Lobbying  
+Proponents must not, in relation to this RFP or the evaluation and selection process, 
+engage  directly or indirectly in any form of political or other lobbying whatsoever to 
+influence the selection  of the successful proponent(s).   
+3.4.7 Illegal or Unethical Conduct  
+Proponents must not engage in any illegal business practices, including activities such 
+as bid rigging, price-fixing, bribery, fraud, coercion, or collusion. Proponents must not 
+engage in any  unethical conduct, including lobbying, as described above, or other 
+inappropriate  communications; offering gifts to any employees, officers, agents, elected 
+or appointed officials,  or other representatives of the City; deceitfulness; submitting 
+proposals containing  misrepresentations or other misleading or inaccurate information; 
+or any other conduct that  compromises or may be seen to compromise the competitive 
+process provided for in this RFP.  
+3.4.8 Past Performance or Past Conduct   
+The City may prohibit a supplier from participating in a procurement process based on 
+past  performance or based on inappropriate conduct in a prior procurement process, 
+including but not  limited to the following:   
+(a) illegal or unethical conduct as described above;   
+(b) the refusal of the supplier to honour its submitted pricing or other commitments; or  
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 13 of 25  
+(c) any conduct, situation or circumstance determined by the City, in its sole and 
+absolute  discretion, to have constituted an undisclosed Conflict of Interest.   
+3.5 Confidential Information  
+3.5.1 Confidential Information of the City   
+All information provided by or obtained from the City in any form in connection with this 
+RFP either  before or after the issuance of this RFP  
+(a) is the sole property of the City and must be treated as confidential;  
+(b) is not to be used for any purpose other than replying to this RFP and the 
+performance of  any subsequent contract for the Deliverables;  
+(c) must not be disclosed without prior written authorization from the City; and (d) 
+must be returned by the proponent to the City immediately upon the request of the 
+City. 3.5.2 Confidential Information of Proponent  
+A proponent should identify any information in its proposal or any accompanying 
+documentation  supplied in confidence for which confidentiality is to be maintained by 
+the City. The confidentiality  of such information will be maintained by the City, except as 
+otherwise required by law or by order  of a court or tribunal. Proponents are advised that 
+their proposals will, as necessary, be disclosed,  on a confidential basis, to advisers 
+retained by the City to advise or assist with the RFP process,  including the evaluation 
+of proposals. If a proponent has any questions about the collection and  use of personal 
+information pursuant to this RFP, questions are to be submitted to the RFP  Contact.  
+3.6 Procurement Process Non-Binding  
+3.6.1 No Contract A and No Claims  
+This procurement process is not intended to create and will not create a formal, legally 
+binding  bidding process and will instead be governed by the law applicable to direct 
+commercial  negotiations. For greater certainty and without limitation:   
+(a) this RFP will not give rise to any Contract A–based tendering law duties or any other 
+legal  obligations arising out of any process contract or collateral contract; and   
+(b) neither the proponent nor the City will have the right to make any claims (in contract, 
+tort,  or otherwise) against the other with respect to the award of a contract, 
+failure to award a  contract, or failure to honour a proposal submitted in response 
+to this RFP.   
+3.6.2 No Contract until Execution of Written Agreement  
+This RFP process is intended to identify prospective suppliers for the purposes of 
+negotiating  potential agreements. No legal relationship or obligation regarding the 
+procurement of any good  or service will be created between the proponent and the City 
+by this RFP process until the  
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 14 of 25  
+successful negotiation and execution of a written agreement for the acquisition of such 
+goods  and/or services.   
+3.6.3 Non-Binding Price Estimates  
+While the pricing information provided in proposals will be non-binding prior to the 
+execution of a  written agreement, such information will be assessed during the 
+evaluation of the proposals and  the ranking of the proponents. Any inaccurate, 
+misleading, or incomplete information, including  withdrawn or altered pricing, could 
+adversely impact any such evaluation or ranking or the  decision of the City to enter into 
+an agreement for the Deliverables.  
+3.6.4 Cancellation  
+The City may cancel or amend the RFP process without liability at 
+any time. 3.7 Governing Law and Interpretation  
+These Terms and Conditions of the RFP Process (Part 3):   
+(a) are intended to be interpreted broadly and independently (with no particular 
+provision  intended to limit the scope of any other provision);   
+(b) are non-exhaustive and will not be construed as intending to limit the pre-existing 
+rights of  the parties to engage in pre-contractual discussions in accordance with 
+the common law  governing direct commercial negotiations; and   
+(c) are to be governed by and construed in accordance with the laws of the province of 
+Alberta and the federal laws of Canada applicable therein.  
+3.8 Procurement during Litigation with the City of Medicine Hat  
+As per the City of Medicine Hat Procurement Policy, the City of Medicine Hat 
+Administrative  Committee, at their sole and absolute discretion, may debar a proponent 
+who is engaged in  litigation or commercial arbitration against the City, or whose 
+corporate affiliate is engaged in  litigation or commercial arbitration against the City, from 
+submitting a proposal and/or being  awarded a contract.  
+[End of Part 3] 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 15 of 25  
+APPENDIX A – FORM OF AGREEMENT  
+• Negotiated Vendor Software Agreement   
+The vendor's agreement must be included with the proposal submission for review. 
+The award  of the contract is contingent upon the parties reaching a mutual 
+agreement on the final terms and conditions.  
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 16 of 25  
+APPENDIX B – SUBMISSION FORM  
+1. Proponent Information  
+Please fill out the following form, naming one person to be the proponent’s contact for 
+the  RFP process and for any clarifications or communication that might be necessary. 
+Full Legal Name of   
+Proponent: 
+ 
+Any Other Relevant 
+Name  under which 
+Proponent  Carries on 
+Business: 
+ 
+Street Address: 
+ 
+City, Province/State: 
+ 
+Postal Code: 
+ 
+Phone Number: 
+ 
+Company Website (if any): 
+ 
+Proponent Contact   
+Name and Title:  
+ 
+Proponent Contact Phone: 
+ 
+Proponent Contact Email: 
+ 
+ComplyWorks ID No.:  
+N/A 
+ 
+ 
+2. Acknowledgment of Non-Binding Procurement Process  
+The proponent acknowledges that the RFP process will be governed by the terms and 
+conditions  of the RFP, and that, among other things, such terms and conditions confirm 
+that this procurement  process does not constitute a formal, legally binding bidding 
+process (and for greater certainty,  does not give rise to a Contract-A bidding process 
+contract), and that no legal relationship or  obligation regarding the procurement of any 
+good or service will be created between the City and  the proponent unless and until the 
+City and the proponent execute a written agreement for the  
+Deliverables.   
+3. Ability to Provide Deliverables  
+The proponent has carefully examined the RFP documents (including addenda) and has 
+a clear  and comprehensive knowledge of the Deliverables required. The proponent 
+represents and  warrants its ability to provide the Deliverables in accordance with the 
+requirements of the RFP for  the rates set out in its proposal.   
+4. Non-Binding Pricing  
+The proponent has submitted its pricing in accordance with the instructions in the RFP 
+and in  Appendix C - Pricing in particular. The proponent confirms that the pricing 
+information provided is  accurate. The proponent acknowledges that any inaccurate, 
+misleading, or incomplete  information, including withdrawn or altered pricing, could 
+adversely impact the acceptance of its  proposal or its eligibility for future work.  
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 17 of 25  
+5. Execution of Contract  
+The undersigned will, within seven (7) days of receipt of a Notice of Award, duly execute 
+and  return to the City the Articles of Agreement/Consulting Agreement and provide the 
+required  bonding, health and safety certification and insurance certificate. The City 
+reserves the right to  rescind the Notice of Award if these conditions are not met in 
+which case a written notice will be  issued by the City’s Procurement Services.  
+6. No Prohibited Conduct  
+The proponent declares that it has not engaged in any conduct prohibited by 
+this RFP. 7. Conflict of Interest  
+The proponent must declare all potential Conflicts of Interest, as defined in section 3.4.1 
+of the  RFP. This includes disclosing the names and all pertinent details of all individuals 
+(employees,  advisers, or individuals acting in any other capacity) who (a) participated in 
+the preparation of the  proposal; AND (b) were employees of the City within twelve (12) 
+months prior to the Submission  
+Deadline.  
+If the box below is left blank, the proponent will be deemed to declare that (a) there was 
+no Conflict  of Interest in preparing its proposal; and (b) there is no foreseeable Conflict 
+of Interest in  performing the contractual obligations contemplated in the RFP.   
+Otherwise, if the statement below applies, check the box.   
+❑ The proponent declares that there is an actual or potential Conflict of Interest 
+relating to  the preparation of its proposal, and/or the proponent foresees an 
+actual or potential  Conflict of Interest in performing the contractual obligations 
+contemplated in the RFP.   
+If the proponent declares an actual or potential Conflict of Interest by marking the box 
+above, the  proponent must set out below details of the actual or potential Conflict of 
+Interest:  
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 18 of 25  
+8. Disclosure of Information   
+The proponent hereby agrees that any information provided in this proposal, even if it is 
+identified  as being supplied in confidence, may be disclosed where required by law or 
+by order of a court  or tribunal. The proponent hereby consents to the disclosure, on a 
+confidential basis, of this  proposal by the City to the advisers retained by the City to 
+advise or assist with the RFP process,  
+including with respect to the evaluation this proposal.   
+Signature of Proponent Representative  
+Name of Proponent Representative  
+Title of Proponent Representative  
+Date  
+I have the authority to bind the proponent. 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 19 of 25  
+APPENDIX C – PRICING  
+1. Instructions on How to Provide Pricing  
+(a) Proponents should provide the information requested under section 3 below 
+(“Required  Pricing Information”) by completing the attached form and including 
+it in their proposals.  
+(b) Rates must be provided in Canadian funds, inclusive of all applicable duties and 
+taxes  except for GST, which should be itemized separately.  
+(c) Rates quoted by the proponent must be all-inclusive and must include all labour and  
+material costs, all travel and carriage costs, all insurance costs, all COVID-19 
+related costs  (including without limitation all cross border isolation/quarantine 
+costs, schedule delay  costs and personal protective equipment costs), all costs 
+of delivery, all costs of  installation and set-up, including any pre-delivery 
+inspection charges, and all other  overhead, including any fees or other charges 
+required by law.  
+(d) The effects (if any) of any addenda issued must be included in all 
+pricing.  2. Evaluation of Pricing  
+Pricing is worth 15 points of the total score.  
+Pricing will be scored based on a relative pricing formula using the rates set out in the 
+pricing  form. Each proponent will receive a percentage of the total possible points 
+allocated to price for  the particular category it has submitted a proposal for, which will 
+be calculated in accordance with  the following formula:  
+ᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾ 
+ᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾ ÷ ᢾᢾᢾᢾᢾᢾᢾᢾ ᢾᢾᢾᢾ ᢾᢾᢾᢾ ᢾᢾᢾᢾ ′ 
+ᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾ × ᢾᢾᢾᢾℎ = ᢾᢾᢾᢾᢾᢾᢾᢾ ᢾᢾᢾᢾ ᢾᢾᢾᢾ 
+ᢾᢾᢾᢾ ′ ᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾᢾ ᢾᢾᢾᢾ ᢾᢾᢾᢾᢾᢾᢾᢾ 3. 
+Required Pricing Information   
+See attached Proposal Form 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 20 of 25  
+APPENDIX D – RFP PARTICULARS  
+A. THE DELIVERABLES  
+Refer to the attached Scope of Work & Functional Requirements for further 
+information.  B. MATERIAL DISCLOSURES  
+N/A  
+C. MANDATORY HEALTH & SAFETY REQUIREMENTS  
+N/A  
+D. MANDATORY SUBMISSION REQUIREMENTS  
+1. Submission Form (Appendix B)  
+Each proposal must include a Submission Form (Appendix B) completed and signed by 
+an  authorized representative of the proponent.  
+2. Pricing (Appendix C)  
+Each proposal must include pricing information that complies with the instructions 
+contained in  Appendix C - Pricing.   
+3. Bid Security   
+N/A  
+4. Other Mandatory Submission Requirements  
+N/A  
+E. MANDATORY TECHNICAL REQUIREMENTS  
+Refer to the Functional Requirements, Scope of Work, and the 
+Evaluation Criteria F. PRE-CONDITIONS OF AWARD  
+1. City of Medicine Hat Business License  
+Contractors performing work for the City within the city limits must have a valid City of 
+Medicine  Hat Business License. The successful proponent will be required to submit 
+proof of this Business  License upon notice of award. The Contractor’s license does not 
+cover subcontractor activities.  All subcontractors are required to take out their own 
+business licence in their own name. 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 21 of 25  
+2. Certificate of Insurance  
+The successful proponent will be required to provide the insurance set forth in the 
+agreement and  the cost of such insurance shall be included in the bid price. A 
+Certificate of Insurance will be  required as verification.  
+2.1 The Contractor shall indemnify, defend, and save harmless the City, its servants, 
+agents,  employees and elected officials from and against any and all losses, 
+claims, demands,  payments, suits, judgments, charges, expenses, actions, 
+causes of actions and costs  (including costs on a solicitor and its own client 
+basis) suffered by any or all of them in  respect to any and all claims, demands, 
+suits, judgments, charges, actions or causes of  action lawfully brought or made 
+by any person against the City, its servants, agents,  employees and elected 
+officials where such losses, claims, demands, payments, suits,  judgments, 
+expenses, charges, actions, causes of action or costs result from or occur by  
+reason of any error, omission or wilful or negligent act or breach of this 
+Agreement arising  out of the performance of the Services by the Contractor or 
+its servants, agents,  employees or subconsultants. This Article 2.1 shall survive 
+expiration or termination of this  Agreement.   
+2.2. The Contractor shall maintain, in full force the following insurance:   
+2.2.1. Commercial General Liability Insurance in respect to the Services and 
+operations of the Contractor for bodily injury and/or property damage with 
+policy limits. Not  less than Two Million Dollars ($2,000,000.00) per 
+occurrence with a property  damage deductible not exceeding Two 
+Thousand Five Hundred ($2,500.00)  Dollars. The insurance shall 
+include, to the satisfaction of the City:   
+2.2.1.1 The City of Medicine Hat as an Additional Insured;  
+2.2.1.2 Standard non-owned automobile liability;  
+2.2.1.3 Broad Form Products and Completed Operations Liability;  
+2.2.1.4 Cross liability;  
+2.2.1.5 Employer’s liability insurance with limits of liability of not 
+less than two million dollars ($2,000,000.00) per employee for 
+each   
+accidental injury to, or death of, an employee of the Consultant or   
+of a sub-consultant, engaged in the Services;  
+Or  
+Contingent Employer’s liability  
+2.2.2. Professional Errors and Omissions Liability Insurance in respect to the 
+Services  
+with policy limits of not less than One Million Dollars 
+($1,000,000.00) per claim with  a 12-month maintenance period, a 
+deductible of not more than $25,000 and with  an aggregate limit of not 
+less than $2,000,000.   
+2.2.3. Cyber Liability Insurance, where applicable, providing cyber liability 
+insurance,  including, without limitation, coverage for cyber-related errors 
+and omissions,  media liability, network and information security liability, 
+regulatory fines, penalties  
+with associated forensic investigation 
+expenses, and security breach remediation  
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 22 of 25  
+and notification, for a minimum of $2,000,000 per occurrence for claims 
+for first  and third-party costs or damages resulting from any unauthorized 
+access or  disclosure, theft, dissemination, and/or use of confidential 
+information or personal  information stored or transmitted in any form 
+resulting from any cyber events  (including but not limited to network 
+security breaches, privacy events,  ransomware attacks) or arising during 
+the performance of the Services. The policy  will name the City as an 
+additional named insured, except with errors and  omissions. If the policy 
+is written on a claims-made basis, then coverage shall be  maintained for 
+a period of two years following the performance of the Services.   
+The above insurance limits do not constitute a limit on the Contractor’s 
+liability to  the City. Any payment of deductible or self-insured retention 
+shall be the sole  responsibility of the Contractor.  
+2.2.4. Automobile Liability insurance (Owner’s Form) in respect of all vehicles 
+used in the  performance of the Contract, with limits of no less than Two 
+Million ($2,000,000.00)  Dollars inclusive per occurrence for bodily injury, 
+death, and damage to property.   
+2.3. The aforementioned insurance shall be in a form and with insurers acceptable to 
+the City.  Certificates of Insurance or Certified copies of the policies shall be 
+provided to the City by  the Contractor or the Contractor's broker upon request 
+by the City, and evidence of  renewal shall be provided to the City not less than 
+thirty (30) days prior to the expiry dates  of the policies.   
+2.4. All required insurance policies shall be with insurers licensed to underwrite 
+insurance in  Alberta, signed by representatives licensed to do so for insurance in 
+Alberta.   
+2.5. The Contractor shall be responsible for the payment of all premium, defense costs, 
+and  
+deductible amounts relating to the said insurance policies and the 
+Contractor shall  maintain the aforementioned insurance from the date of this 
+Agreement until the Services  are fully completed.   
+2.6. Insurance provided by the Contractor will be primary and non-contributing.   
+2.7. Neither the Contractor nor the City shall be liable to the other for, and each party 
+releases  the other party from and against, any indirect, special, incidental, 
+punitive or consequential  
+damages including but not limited to loss of 
+production, loss of revenue and profits, loss  of business, business interruption, 
+and loss of use of assets, whether such damages arise  in pre-contractual 
+warranty, contract, tort, strict liability, indemnity or any other theory of  legal 
+liability.   
+3. Performance Security  
+N/A  
+4. Other Pre-Conditions of Award  
+Cybersecurity Vendor Assessment (CVA) - a process executed by our 
+Information  Technology (IT) department to perform a technical assessment of 
+your product and  information security practices. The questionnaire used is 
+intended to help IT better  
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 23 of 25  
+understand your company’s information security practices and how they 
+apply to  the product being sold.   
+G. RATED CRITERIA  
+The following sets out the categories, weightings, and descriptions of the rated criteria 
+of the RFP.  Proponents who do not meet a minimum threshold score for a category will 
+not proceed to the  next stage of the evaluation process.  
+Product Demonstration:  
+The evaluation will be conducted in two stages. In Stage 1, all proposals will be 
+evaluated against  the rated criteria for a subtotal of 100 points, including a technical 
+component worth 50 points.  Proponents must achieve a minimum technical score of 
+35 out of 50 points to meet the  technical threshold.  
+The top-ranked proponents that meet the technical threshold, up to a maximum of 
+six, may  be invited to participate in Stage 2, at the City’s discretion. Stage 2 will consist 
+of a product  demonstration.  
+Stage 2 demonstrations will be scored out of 30 points and added to the Stage 1 
+scores to  determine the final ranking (Total = 130 points). 
+Rated Criteria Category  
+Weighti
+ng  
+(Points) 
+Minimum   
+Threshol
+d 
+Stage 1 Initial Evaluation 
+Technical Capability (Appendix E) – Initial 
+50  
+35 
+Evaluation • Score based on compliance with 
+requirements.  
+Vendor Experience & References  
+• Relevant LMS experience: years providing this service,  
+implementations, Municipal/government implementations,  
+references similar in scope & size over last 5 years 
+(minimum  of 3), roles & responsibilities – both the 
+implementation &  support teams’ resumes that will be 
+assigned to this project. 
+15  
+N/A 
+Implementation & Support  
+• Provide a detailed plan & schedule, including timeline &  
+milestones including but not limited to start/completion 
+date,  City resources required & expectations within the 
+schedule,  system configuration, integration, testing, 
+training & support,  launch & monitor. 
+20  
+N/A 
+Pricing (See Appendix C for details)  
+• Proposal Compensation Form  
+15  
+N/A 
+Subtotal:  
+100 
+ 
+Stage 2: Demo Evaluation 
+Product Demonstration  
+• User Management & Experience (10)  
+30  
+N/A 
+ 
+ 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 24 of 25  
+o Intuitive navigation, accessibility, compliance, ease 
+of  use for administrators, leaders & staff, reporting,   
+analytics.  
+• Functionality Alignment (10)  
+o Live demonstration of required features (content  
+management, registration & assignments, 
+content   
+delivery, content creation, certifications & 
+compliance,  assessments/quizzes).   
+ 
+ 
+• Technical & Integration (10)  
+o Evidence of technical & security requirements, 
+smooth  integration with City systems (Azure AD, M365,   
+ERP/Unit4). 
+Total Points  
+130 
+ 
+ 
+ 
+Each proponent should provide the following in its proposal:  
+A. Appendix B - Submission Form – Completed and signed (3 pages)  
+B. Proposal Compensation Form – Appendix C (see attached pricing form) C. 
+The vendor's agreement must be included with the proposal submission for 
+review.  
+D. Transmittal Letter – a letter briefly stating the Proponent’s understanding of the 
+purpose  and objective of the project, the benefits they bring to the project, any 
+potential issues or  constraints and how they would be dealt with. Any additions 
+to the RFP or proposed  deletions must be separately identified in the letter.  
+E. Proponent Qualifications, Resumes, and Relevant Experience.  
+F. Proponents are to confirm receipt of any RFP Addenda, if applicable.  
+G. Any Assumptions section that lists all assumptions the Proponent has about 
+information or arrangements to be provided by the City.  
+H. Letters of reference from past clients confirming the scope and performance of 
+the proponent on those projects.  
+I. Other relevant information the Proponent deems necessary to support their Proposal. 
+RFP (Consecutive Negotiations) – CMH26-85 – Learning Management   
+System (LMS)  
+April 2026 Page 25 of 25  
+PROPOSAL FORM  
+People Services   
+Learning Management System   
+RFP - CMH26-85  
+SEE APPENDIX C (PRICING) “INSTRUCTIONS ON HOW TO PROVIDE 
+PRICING” SUBMITTED BY:  
+Costs should include all licensing, implementation, configuration, training, and support 
+necessary  to meet the requirements outlined in the Scope of Work.  
+All prices must be in Canadian Dollars (CAD), exclusive of GST. Proponents 
+must clearly  separate one-time implementation costs from annual recurring 
+costs. 
+Category  
+Description  
+One-Time   
+Cost (CAD) 
+Annual 
+Cost  
+(CAD) 
+Software   
+Licensing  
+• Initial license fee  
+• Annual Maintenance fee • 
+Administrator license fee (per  
+user)  
+• User license fee (per user) 
+$  
+$  
+$  
+$ 
+$  
+$  
+$ 
+Implementation 
+&  System   
+Configuration  
+Project setup, system   
+configuration, data 
+migration, testing, go-live 
+support. 
+$  
+$ 
+Security &   
+Integration 
+Security controls, data 
+residency  options, audits, 
+Integration with  Entra 
+ID/Azure AD, MFA, M365,  
+ERP. 
+$  
+$ 
+Training &   
+Documentation 
+Administrator & end-user   
+training, documentation.  
+$  
+$ 
+Service &   
+Support  
+Annual ongoing support 
+for  Administrators & 
+Users.  
+$  
+$ 
+Maintenance   
+Support 
+System updates, training,   
+consulting.  
+$  
+$ 
+Optional 
+Features  / 
+Modules 
+• Advanced functionality or  
+future enhancements   
+(itemize).  
+• Support for add-ons. 
+$  
+$  
+$ 
+$  
+$  
+$ 
+Total One-Time Costs (Excluding GST)  
+$ 
+Total Annual Costs (Excluding GST)  
+$ 
+Year 1 Total (One-Time + Annual)  
+$ 
+ 
+ 
+PROPOSAL FORM  
+People Services   
+Learning Management System   
+RFP - CMH26-85 
+Annual Costs  
+Cost  
+Year 2  
+$ 
+Year 3  
+$ 
+Year 4  
+$ 
+Year 5  
+$ 
+ 
+ 
+Scope of Work  
+RFP CMH26-85 – Learning Management System (LMS)  
+1) Background & Objectives  
+The City of Medicine Hat (“the City”) seeks a modern, user-friendly, secure Corporate 
+Learning Management System (LMS) to support corporate training, onboarding,  
+compliance, safety, professional development, and certification tracking for employees,  
+volunteers, and other external learners. The LMS will streamline the end-to-end process  
+for content delivery, automate assignments and reminders, standardize reporting, and  
+integrate with the City’s existing identity, collaboration, and HR systems. The LMS will  
+be used for the City’s internal training needs and is not intended to be used to sell,  
+market or deliver training services to external organizations or as an educational 
+institution learning platform. The LMS should be available 24 hours a day, 7 days a  
+week with the ability to support learning and development for 1500 employees across  
+various departments. The proposed LMS must be scalable to accommodate future  
+growth, ensuring it can seamlessly handle an increase in users (license fees) and  
+training and development requirements.  
+Primary Objectives:  
+• Centralize learning delivery and records (including compliance-related training).  
+• Support blended learning (self-paced eLearning, virtual instructor-led, and  
+classroom).  
+• Provide course development platform.  
+• Provide robust analytics and compliance reporting.  
+• Simplify administration at scale.  
+• Integrate with Microsoft 365 (Azure AD SSO, Teams, SharePoint) and the City’s  
+HRIS.  
+• Meet applicable Canadian public sector privacy and accessibility requirements. 
+2) Solution Requirements  
+User Management & Administration:  
+User Management: Role-Based Access Control (RBAC) - Admin, Instructor,  
+Manager/Supervisor, Learner; configurable roles & permissions;   
+organizational/departmental hierarchies; team dashboards.   
+Compliance Tracking: Track compliance training, certifications, manage expiration  
+dates, and support audit trails. 
+Scope of Work  
+RFP CMH26-85 – Learning Management System (LMS)  
+Performance Tracking: Detailed performance tracking for both learners and courses,  
+with integration into advanced analytics.  
+Reporting, Dashboards & Analytics: Real-time and scheduled reports, exports  
+(CSV/XLSX), custom fields; manager dashboards for team compliance; API-based data  
+access.   
+External User Management and Access: Ability to securely create, manage, and issue  
+training and courses to users outside the internal city tenant, including temporary staff,  
+volunteers, contractors, vendors, and external agencies.  
+Customer Support: 24/7 customer support services, with clear SLAs. Performance at  
+99.9% uptime, fast load times.  
+User Interface & Experience:  
+Customization, Branding and Visual Identity: Customize the look and feel to match  
+organizational branding/white-labeling, including configurable dashboards and  
+departmental customization.  
+Mobile Compatibility: Ensure functionality and accessibility on mobile devices, with a  
+mobile-responsive design with offline options preferred.  
+Social Learning: Features to support social learning, such as discussion forums and  
+peer reviews.  
+Accessibility: Comply with accessibility standards (e.g. WCAG 2.1 AA, ACA, CHRA)  
+and support assistive technologies such as screen reader, keyboard navigation,  
+captioning support; accessible quiz and video players.  
+Content Management:  
+Course & Content Management: Create, upload, and manage courses, curricula, and  
+learning paths; version control; prerequisites; due dates and expiry/recertification. 
+Organize and manage courses, modules, learning paths, archiving & content versioning.   
+Registration Management: Define registration rules, including course size, waitlists,  
+enrollment notification workflows, attendance tracking. MS Teams integration for virtual  
+sessions.  
+Assignments & Automation: Auto-enroll by role/department/location; automated  
+reminders; escalation to managers for overdue training.   
+Content Delivery: Support blended learning (self-paced eLearning, virtual instructor-led,  
+and classroom). Deliver course content efficiently, including support for multimedia  
+formats and use of Content Delivery Network (CDN). 
+Scope of Work  
+RFP CMH26-85 – Learning Management System (LMS)  
+Assessments & Quizzes: Create, deliver and manage assessments, quizzes, and  
+surveys.   
+Learning Catalog & Search: Browsable catalog, tags, filters, keyword search;  
+configurable enrollment flows and approvals.   
+Learning Path: Create learning paths either mandated or recommended (optional).  
+Certifications & Compliance: Issuance and management of certifications, including  
+integration with compliance tracking. Certification paths, renewal/recertification windows,  
+grace periods, automated reassignments; audit-ready records.  
+Real-time Updates: Real-time content updates and notifications for learners.  
+Content creation: Course development platform standards & formats: Support SCORM  
+1.2/2004, xAPI (Tin Can), video, PDF, and web content. Optional: AICC, cmi5.   
+Gamification: Badges, points, leaderboards (configurable).  
+Integrations:   
+Integration and compatibility: integrate with other systems (e.g. content authoring  
+tools, third-party apps like Microsoft Viva, SharePoint, Email/Outlook, Unit4 Enterprise  
+Resource Planning System/HRIS and Finance System), with robust API support. Bi 
+directional data sync for organizational structure, roles, employment status, and learning  
+completions.  
+API Support: Robust API support for integration with other city systems, data sources,  
+and Learning Tools Interoperability (LTI). (Note if need middleware). API documentation  
+required.  
+Interoperability: Support for SCORM, xAPI, AICC, and LTI standards for seamless  
+content integration.  
+Technical Requirements:   
+Security & Privacy: Ensure data security. Ensure all sensitive data is encrypted both at  
+rest and in transit to protect against unauthorized access.  
+Single Sign On (SSO) and/or Multi-Factor Authentication (MFA): Secure login with  
+single sign-on or multi-factor authentication.  
+Vendor Cybersecurity Compliance: Compliance with industry security best practices  
+(SOC2, ISO, etc.)  
+PIPA Compliance: Vendor server preferred within Canada to comply with 
+PIPA. Incident Response Plan: Vendor has an incident response plan. 
+Scope of Work  
+RFP CMH26-85 – Learning Management System (LMS)  
+Business Continuity Plan: Vendor has a business continuity and disaster recovery  
+(BCP/DR) plan.  
+Data Retention Policy: Clear data retention policy, including post-contract data  
+management.  
+Data Storage: Option for cloud storage in Canada or on-premises storage.  
+Scalability: Ability to scale with the growing needs of the organization, including high  
+availability, load balancing, and elastic scaling.  
+Deployment: Flexible deployment options (cloud-based, on-premises, hybrid).  
+Vulnerability Management: Regular pen tests, patch cadence, vulnerability disclosure  
+program.  
+Sandbox Environment: Continue to provide a sandbox environment throughout the  
+lifecycle of the contract.  
+Third-Party suppliers or subcontractors: Disclosure of third-party suppliers or  
+subcontractors involved in service delivery.  
+Security Incident Breaches: Disclosure of any past security incidents or breaches and  
+remediation actions taken.  
+3) Implementation Services  
+Project Management & Governance  
+• Vendor to provide a dedicated Project Manager, implementation plan, schedule,  
+and risk/issue logs.  
+• RACI covering City, Vendor, and (if applicable) third parties.  
+Discovery & Design  
+• Workshops to confirm requirements, use cases (onboarding, compliance),  
+content strategy, roles/permissions, and reporting needs.  
+• Integration design with Azure AD, Microsoft 365, and Unit4 Enterprise Resource  
+Planning System/HRIS and Finance System.  
+Configuration & Build  
+• Tenant setup; branding; roles and permissions; course structures; catalogs;  
+email templates; notifications; Teams/SharePoint/HRIS integrations; reporting  
+library. 
+Scope of Work  
+RFP CMH26-85 – Learning Management System (LMS)  
+Data Migration  
+• Migration of users, organization hierarchy.  
+• Vendor to provide mapping templates, test plan, and reconciliation process.  
+Testing  
+• SIT (system/integration testing) and UAT with City test scripts; defect triage;  
+performance testing; accessibility verification.  
+Training & Change Management  
+• Admin training (advanced and day-to-day), instructor training, manager training,  
+and learner quick guides.  
+• Training materials in editable formats (PowerPoint/Word/PDF); short video  
+tutorials preferred.  
+Go-Live & Hypercare  
+• Cutover plan, rollback criteria, and communication plan.  
+• Hypercare for at least 30 days post go-live with defined response/resolution  
+targets.  
+4) Support & SLAs  
+Includes support channels, SLA response/resolution timelines, maintenance windows,  
+release schedules.  
+5) Deliverables & Milestones  
+Covers project plan, design, sandbox configuration, migration, UAT, training, go-live, and  
+hypercare.  
+6) Roles & Responsibilities  
+Vendor: Solution, configuration, migration, training, support.  
+City: Governance, content readiness, access, UAT.  
+7) Terms & Conditions  
+Data ownership, confidentiality, audit rights, penalties, change control. 
+ 
+ 
+ 

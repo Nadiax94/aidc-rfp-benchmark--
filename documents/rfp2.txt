@@ -1,0 +1,1812 @@
+ 
+​
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REQUEST FOR PROPOSAL 
+RFP 197 - 2027 
+ 
+Learning Management System (LMS)  
+Platform & Support 
+ 
+Date Issued:                       ​
+August 11, 2026 
+Question Closing Time:             ​
+September 2, 2026 before 2:00:00 PM MT 
+Closing Date and Time:                    ​ September 9, 2026 before 2:00:00 PM MT  
+ 
+ 
+​
+  
+ 
+ 
+ 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 2    
+ 
+TABLE OF CONTENTS 
+ 
+TABLE OF CONTENTS​
+2 
+SECTION A – INTRODUCTION​
+3 
+1. Invitation for Proposal​
+5 
+2. Definition of Terms​
+5 
+3. General Requirements​
+6 
+3.1 Background Information​
+6 
+3.2 Objectives​
+7 
+3.3 Contract Start Date and Contract Renewals​
+8 
+4. Process and Rules Regarding Proposals​
+8 
+4.1 Submission of Proposal and Acceptance Period​
+8 
+4.2 Trade Agreements​
+9 
+4.3 Proposal Acceptance/Rejection​
+9 
+4.4 Limitation of Legal Rights and Limitation of Liability​
+10 
+4.5 Questions​
+10 
+4.6 Addenda​
+10 
+4.8 Amendments to Proposals​
+11 
+4.9 Proposal Opening​
+11 
+4.11 Clarifications​
+11 
+4.12 Authority​
+11 
+4.14 Format of Proposal​
+12 
+4.15 Compliance with Terms and Conditions​
+13 
+4.16 Quantity Requirements​
+13 
+4.17 Pricing​
+13 
+5. Information for Proponents​
+13 
+5.1 Insurance​
+13 
+5.2 Workers Compensation Board​
+14 
+6. Timeline​
+14 
+7. Proposal Evaluation​
+14 
+7.1 Mandatory Requirements​
+14 
+7.2 Evaluation Criteria​
+14 
+7.3 Short List​
+15 
+7.4 Execution of Agreement​
+15 
+SECTION B – SPECIFIC REQUIREMENTS​
+16 
+8. Capability and Resources​
+16 
+SECTION C– PROPONENT'S RESPONSE DOCUMENTS​
+18 
+9. Certification​
+18 
+SECTION D – SCOPE OF WORK & PRICING SCHEDULE - SPECIFICATIONS​
+19 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 3    
+ 
+SCOPE OF WORK​
+19 
+PRICING SCHEDULE​
+22 
+SECTION E – OLDS COLLEGE SERVICES AGREEMENT​
+23 
+OLD COLLEGE SERVICES AGREEMENT​
+24 
+ 
+ 
+ 
+ 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 4    
+ 
+SECTION A – INTRODUCTION 
+ 
+Purpose 
+This Request for Proposal (RFP) is intended to identify interested suppliers and allow them the 
+opportunity to competitively submit a Proposal to this RFP, as a Proponent.  
+ 
+Olds College of Agriculture and Technology (Olds College) is seeking to enhance its existing learning 
+management system (LMS) capabilities; either through the enhancement of third-party support for its 
+existing Moodle LMS, or via a new LMS system, to support an improved student learning experience, 
+increased instructor support, and the ability to expand institutional access to distance learning 
+markets.  
+Values Statement 
+At Olds College we value:  
+●​ Empowerment of learners 
+●​ Rural community development 
+●​ Teamwork 
+●​ Continuous improvement in all College operations 
+Mission Statement  
+Alberta's agriculture community has the talent, knowledge and thought leadership to lead globally. This 
+result will be produced in a manner that demonstrates stewardship and sustainability. 
+ 
+Social Purpose 
+The Social Purpose of Olds College is “Transforming agriculture for a better world”. 
+Everything we do at Olds College is done to advance all aspects of the agriculture industry.  By 
+transforming the agriculture industry, we will make the world a better place.  All of our programs and 
+actions align to our social purpose.  It is the why behind everything we do. 
+Strategic Plan - Strategic Drivers 
+In 2018, Olds College launched a strategic plan: Growing 2025. The plan was developed and built on the 
+college’s social purpose to “Transform agriculture for a better world,” and reaffirms that everything we 
+do at Olds College is done to advance the agriculture industry, both here at home and throughout the 
+globe. 
+For more information about Growing 2025: the Olds College Strategic Plan 
+ 
+About Olds College  
+"For more than 100 years Olds College has delivered hands-on training, innovative learning programs, 
+and graduates who are in-demand and have the skills and tools needed to succeed. Olds College 
+continues to embrace this model of practical, hands-on technical education where students learn by 
+doing. Virtually every program has some element of practical experience, which helps prepare our 
+students for successful careers in the real world. 
+ 
+Today, Olds College is known for high-tech, hands-on agriculture education and innovative applied 
+research that lays the foundation for solving real-world problems in farming, food and land. Olds College 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 5    
+ 
+Centre of Innovation and Smart Farm are accelerating the development and adoption of technologies 
+and practices that result in improved productivity, profitability and sustainability of the agriculture and 
+agri-food industry through industry-driven applied research. 
+ 
+Olds College has become a leader in agriculture technology over the past five years. This is evident by 
+the success of our Smart Farm, incredible growth of our applied research program, and the addition of 
+new credentials in agriculture technology. 
+ 
+For more information about Olds College please visit www.olds college.ca/about-us/index.html 
+ 
+  
+1.​
+Invitation for Proposal 
+Olds College invites your firm to submit a Proposal for the provision of Learning Management System 
+(LMS) Platform & Support, as set out in this Request for Proposal. 
+ 
+Request for Proposal No.:​
+197 - 2027 
+Description:​
+Learning Management System (LMS) Platform & Support 
+Date Issued:                                   ​
+August 11, 2026 
+Question Closing Time:             ​
+September 2, 2026 before 2:00:00 PM MT 
+Closing Date and Time:                     ​ September 9, 2026 before 2:00:00 PM MT 
+                                     
+2.​
+Definition of Terms 
+Whenever used in this RFP, or any other forms which might be part of a Proposal or of the Agreement 
+document, the following words shall be deemed to have meanings as indicated below: 
+ 
+2.1.​ “ATIA” means the Access to Information Act 
+ 
+2.2.​ “Agreement” means a contract(s) that may be entered into by Olds College with a successful 
+Proponent(s) for the Learning Management System (LMS) Platform & Support described in this 
+RFP; 
+ 
+2.3.​ “Closing Date” means the day, specified above, on which the RFP will close; 
+ 
+2.4.​ “Closing Time” means the time, specified above, at which the RFP will close; 
+ 
+2.5.​ “Contractor” and “Supplier” means a Learning Management System (LMS) Platform & 
+Support provider to whom an Agreement is awarded by Olds College for any or all of the 
+Learning Management System (LMS) Platform & Support described in the RFP; 
+ 
+2.6.​ “Control” means that Olds College has the authority to manage the Record as per the POPA and 
+ATIA Acts, including its creation, use, disclosure and disposal; 
+ 
+2.7.​ “Learning Management System (LMS) Platform & Support” or “Project”, “Solution” means the 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 6    
+ 
+goods and services to be provided by the Contractor under the Agreement, as more fully 
+described in Section D - Scope of Work and Pricing Schedule; 
+ 
+2.8.​ “Custody” means that a party has physical possession of the Record as per the POPA and ATIA 
+Acts; 
+ 
+2.9.​ “Evaluation Committee” means the evaluation committee, comprised of representatives 
+selected by Olds College, in its sole discretion, to evaluate Proposals; 
+ 
+2.10.​
+“Olds College” means The Board of Governors of Olds College; 
+ 
+2.11.​
+“Owner” means Olds College; 
+ 
+2.12.​
+“POPA” means the Protection of Privacy Act 
+ 
+2.13.​
+“Proponent” means a person or firm submitting a Proposal to Olds College pursuant to this 
+RFP; 
+ 
+2.14.​
+“Proposal” means the offer of a Proponent to provide the Learning Management System 
+(LMS) Platform & Support, as requested by this RFP; 
+ 
+2.15.​
+“Record” means information in any form, including proposals, reports, documents, letters, 
+meeting minutes and all other correspondence, papers and any other information that is 
+written, photographed, recorded or stored in any manner, but does not include the software or 
+any mechanism that processes such records; 
+ 
+2.16.​
+“RFP” or “Request for Proposal” means this request for proposal including all forms 
+included in the RFP; and 
+ 
+ 
+3.​
+General Requirements 
+ 
+3.1​ Background Information 
+The purpose and intent of this RFP is to solicit proposals from qualified vendors to enhance the 
+College’s existing learning management system (LMS) capabilities; either through the enhancement of 
+third-party support for its existing Moodle LMS, or via a new LMS system.  
+ 
+The College is planning to commence either the enhancement of its existing LMS, or begin the process 
+of implementing a new LMS, by the 1st of February, 2027. 
+ 
+Olds College is home to over 3400 students across 40+ programs that occur throughout the year.  
+ 
+The College currently utilizes Moodle LMS, an open-source learning management system providing 
+educators and institutions with a customizable platform to create online courses, track student progress, 
+and manage collaborative learning environments.  
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 7    
+ 
+Core Features Include 
+●​ Course Creation: Build structured learning paths using interactive tools, text pages, multimedia, 
+and lesson modules. 
+●​ Assessments & Grading: Administer graded and ungraded quizzes, track assignments, and utilize 
+integrated grade books with custom rubrics. 
+●​ Collaboration & Engagement: Foster collaboration, knowledge sharing, and engagement through 
+interactive tools that facilitate multiple means of student engagement and expression, such 
+as discussion forms, wikis, workshops, and gamification elements  
+●​ Accessibility & Privacy: Meet WCAG standards with built-in accessibility checks, secure data 
+controls, and compliance tools. 
+The College leverages a third-party firm to support the current open-source LMS; along with a small 
+team of in-house LMS professionals to provide ongoing support to instructors and students.  
+Note, the College utilizes Ellucian Banner as its Student Information System (SIS). Any proposed LMS 
+enhancement or new LMS option would need to integrate with this SIS. 
+3.2​ Objectives 
+Olds College is seeking to achieve the following objectives through any Agreement that may result from 
+this RFP, and as detailed further in Section D: Scope of Work and Pricing Schedule, which includes the 
+specifics of this Project, including: 
+ 
+Enhancing the College’s existing learning management system (LMS) capabilities; either through the 
+enhancement of third-party support for its existing Moodle LMS, or via a new LMS system, to support: 
+ 
+Student Experience 
+●​ Supporting enhanced student access to learning, including online options  
+●​ Ensuring a consistent, high-quality experience across all online programs 
+●​ Creating  flexible online learning pathways that foster social presence and student perseverance. 
+●​ Providing expanded access to new technology that facilitates learning - such as mobile device 
+access & artificial intelligence functionality  
+Instructor Experience 
+●​ Supporting instructors in delivering quality instruction 
+●​ Streamlining administrative workflows to expand instructor time for increased student 
+engagement and course development  
+●​ Supporting timely student assessment and feedback practices  
+●​ Providing technology tools that support proactive student interventions  
+●​ Increased integration of course development and media tools 
+Market Expansion 
+●​ Allowing for broader dissemination of College programming to distance markets; including 
+supporting Campus Alberta Central and populations with limited access to the Olds Campus 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 8    
+ 
+ 
+Institutional Sustainability  
+●​ Acting as an enrolment and revenue generation tool for both credit and non-credit programming 
+pathways to support institutional sustainability  
+ 
+3.3​ ​ Contract Start Date and Contract Renewals 
+ 
+3.3.1​ Olds College anticipates the start date for the contract resulting from this RFP on February 
+1st, 2027.   
+ 
+3.3.2​ Olds College will enter a contract for services for five (5) years. There will also be the 
+opportunity to renew the contract for two (2) separate three (3) years renewals, based solely 
+on the College’s discretion. 
+ 
+3.3.3  ​The total contract term, if optional renewals are activated, may be up to a maximum of a 
+eleven (11) years period. 
+ 
+ 
+4.​
+Process and Rules Regarding Proposals 
+ 
+4.1​ Submission of Proposal and Acceptance Period 
+Proponents must submit an electronic copy by email. Submissions must be clearly marked with the 
+Proponent’s name and address, the Proposal name and number and the Closing Date and Time.   
+ 
+Proposals will NOT be accepted by facsimile transmission or in-person hard copy submissions. 
+ 
+Proposals shall be addressed to: ​
+          Olds College 
+Purchasing Department 
+4500 - 50 Street 
+Olds, AB  T4H 1R6 
+submissions@oldscollege.ca 
+ 
+All Proposals must be submitted no later than the Closing Date and Time. The official time of receipt of 
+Proposals shall be as determined by the time recorder clock used to time and date stamp Proposals upon 
+submission to Olds College. Olds College will not accept Proposals received after the Closing Date and 
+Time. 
+ 
+Olds College reserves the right in its sole discretion to extend the Closing Date and Time and the 
+acceptance period for any reasonable length of time. Notwithstanding this right and any timelines as 
+may be identified herein, all Proposals shall be open for acceptance by Olds College for a period of not 
+less than 90 days after the Closing Date and Time. 
+ 
+Alberta Purchasing Connection 
+Electronic copies of the RFP Documents may be obtained by Proponents from the Alberta Purchasing 
+Connection (APC) website at: http://www.purchasingconnection.ca/. The electronic version of the 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 9    
+ 
+procurement documents found on the Alberta Purchasing Connection website is the only official version 
+of the RFP Documents.  
+ 
+Alberta Purchasing Connection is the only third party source sanctioned by the Olds College for the 
+electronic posting of documents relating to this RFP. Any addenda issued pursuant to this procurement 
+process will be posted to the Alberta Purchasing Connection website. 
+ 
+Olds College is not responsible for any failure of the Alberta Purchasing Connection website, though 
+Proponents are encouraged to notify Olds College of any website issues.  
+ 
+4.2​ Trade Agreements 
+Procurements falling within the scope of the New West Partnership Trade Agreement and the Canadian 
+Free Trade Agreement are subject to the applicable provisions of these Agreements, but the rights and 
+obligations of the parties are governed by the specific terms of each particular procurement. 
+ 
+4.3​ Proposal Acceptance/Rejection 
+This RFP is a request for proposal only and is not an offer to buy or lease any equipment, property or 
+services.  Neither the provision of this RFP to a Proponent nor acceptance or receipt of a Proposal will 
+imply any obligation or commitment on the part of Olds College to enter into an Agreement or contract 
+of any kind in respect of any or all contents of this RFP.  Olds College may cancel this invitation at any 
+time, in whole or in part, for any reason whatsoever and without incurring any liability to anyone who 
+has submitted a Proposal or intends to submit a Proposal. 
+ 
+Olds College is not obligated in any way to pay for costs of any kind or nature whatever, that may be 
+incurred by a Proponent or any associated third parties, in the preparation of Proposals, making 
+presentations, demonstrations or samples before or after the Closing Date and Time. All such associated 
+costs shall be the sole responsibility of the Proponent. All Proposals and supporting documentation will 
+be retained by and will become the property of Olds College, subject to claims of confidentiality in the 
+Proposal and support documentation. In addition to all other rights reserved by Olds College in this RFP, 
+Olds College has the right, in its sole and unfettered discretion, to: 
+ 
+●​
+Assess the relative merit and advantages of each of the Proposals, based on the scoring set out  
+in this RFP, 
+●​
+Reject or accept any Proposal, including the right to accept non-compliant Proposals or to reject 
+all Proposals, 
+●​
+Waive any irregularities or informalities contained in any Proposal, 
+●​
+Accept the withdrawal of any Proposal as permitted under this RFP, 
+●​
+Decide not to accept any proposal from a Proponent(s) or not to enter into any Agreement with 
+any Proponent(s), 
+●​
+Decide to negotiate with any Proponent(s) or to enter into an Agreement with any Proponent(s), 
+irrespective of whether the Proposal submitted by the Proponent(s) is incomplete, irregular, 
+conditional, non-compliant or fails to provide all the information required in this RFP, and 
+●​
+During the negotiation phase after the RFP Closing Date and Time, negotiate terms and 
+conditions with any Proponent that may be different than those contained within this RFP or the 
+Proposal of the Proponent, without being required to offer such terms and conditions to the 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 10    
+ 
+other Proponents. 
+ 
+4.4​ Limitation of Legal Rights and Limitation of Liability 
+By submitting a Proposal, each Proponent agrees that, in the event that a court should find that Olds 
+College is liable for anything arising in connection with this RFP, a Proponent providing a Proposal, the 
+selection of a successful Proponent, any negotiations following the provision of a Proposal, or any 
+representation made by Olds College; the Proponent shall not be entitled to claim for damages or other 
+legal relief whatsoever, and in particular, the Proponent waives any claim for lost profits or any other 
+claim, in the event that no Agreement is entered into between a Proponent and Olds College. 
+ 
+4.5​ Questions 
+It is the sole responsibility of a Proponent to clarify the interpretation of any items in this RFP.  
+Proponents may submit questions to Olds College with regard to this RFP via electronic mail only, to the 
+contact information noted below, at any time up to the deadline date for questions noted in Section 1. 
+Questions received after that deadline will not be answered by Olds College.  
+ 
+Answers provided to any substantive questions received will be issued as an addendum in accordance 
+with Section 4.6. Olds College reserves the right at its sole discretion to not answer non-substantive 
+questions. All questions shall be directed to: 
+Olds College 
+4500 50 Street 
+Olds, AB 
+Purchasing Department 
+purchasing@oldscollege.ca 
+ 
+Olds College will not be bound by, and the Proponent agrees not to rely upon, any information given 
+or statements made by persons other than the above authorized Olds College representative. 
+ 
+4.6​ Addenda 
+Olds College reserves the right to issue addenda with regard to this RFP for any reason including without 
+limitation, to amend or revise the RFP, to respond to questions, to disclose changes in the schedule, to 
+extend the Closing Date and Time, to modify the Proposal format or requirements, or any other matter. 
+Answers to all substantive questions will be provided in the form of written addenda. Addenda to this 
+RFP shall be deemed part of this RFP. 
+ 
+All addenda related to this RFP will be issued by Olds College by the deadline indicated in Section 1 and 
+will be posted electronically to the Alberta Purchasing Connection site where the RFP was originally 
+posted. 
+ 
+Proponents shall be solely responsible to ascertain that they have received all addenda prior to 
+submitting their Proposal. Olds College is not responsible in any way to ensure the completeness of 
+information received by Proponents. 
+ 
+4.7​ Withdrawal of Proposal 
+Proponents may withdraw their Proposals, by notice via email only, at any time prior to the Closing Date 
+and Time. After the Closing Date and Time, Proposals remain open for acceptance in accordance with 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 11    
+ 
+the acceptance period stated above in Section 4.1. 
+ 
+Negligence or errors on the part of the Proponent in preparing the Proposal confers no right of 
+withdrawal on the Proponent in respect of the Proposal. 
+ 
+4.8​ Amendments to Proposals 
+Proponents may modify their Proposals at any time up to the Closing Date and Time, by written 
+amendments submitted to the email address noted in Section 4.1.  Amendments shall clearly indicate 
+the name of the Proponent, the date of Proposal, and reference the RFP number. Amendments to 
+Proposals will not be accepted after the Closing Date and Time. 
+ 
+4.9​ Proposal Opening 
+All Proposals received before the Closing Date and Time will be opened by Olds College only.  Any 
+Proposals submitted after the Closing Date and Time, will not be opened or accepted. 
+ 
+Proponents will not be scored or short listed until such time as the Selection Committee has had an 
+opportunity to examine and evaluate all compliant Proposals. 
+ 
+4.10​ Selection Committee 
+Upon receipt of Proposals and after the Closing Date and Time, the Selection Committee will review each 
+compliant Proposal, ensure each Proponent’s compliance with the terms and conditions of this RFP, and 
+score each compliant Proposal based on the evaluation criteria within this RFP document.  
+ 
+Proponents will be evaluated by the Selection Committee based on the quality and completeness of 
+information given in the Proposal. 
+ 
+The determination of the members of the Selection Committee is at the sole discretion of Olds College 
+and the identity of persons forming part of the selection committee will not be made known to the 
+Proponents. 
+ 
+4.11​ Clarifications 
+Olds College reserves the right in its sole discretion to request clarification from a Proponent after the 
+Closing Date and Time to seek further information from the Proponent without any obligation to notify 
+or seek further information from any or all other Proponents. Olds College also reserves the right to 
+verify any and all information provided by the Proponents in their Proposals through third party 
+investigations or any other means without notice to the Proponent. 
+ 
+4.12​ Authority 
+Nothing in this RFP shall be construed as authority for any selected Proponent(s) to make commitments 
+which shall bind Olds College to otherwise act on behalf of Olds College, except as Olds College may 
+expressly authorize in writing. 
+ 
+4.13​ Information Disclosure 
+Olds College is a public body and is subject to the privacy and disclosure provisions of the Protection of 
+Privacy Act (POPA) and Access to Information Act (ATIA).  All information provided by Olds College to the 
+Proponents and all information provided by the Proponents to Olds College in Proposals will be subject 
+to the POPA and ATIA privacy and disclosure provisions.  
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 12    
+ 
+ 
+Proponents should be aware that all Records collected, created, maintained or prepared in the 
+performance of services under an Agreement arising from this RFP will be subject to the access and 
+privacy provisions of the POPA and ATIA. 
+ 
+While the ATIA allows persons a right to access Records in Olds College Custody or Control, it also 
+prohibits Olds College from disclosing personal or business information of third parties where disclosure 
+would be harmful to that third parties business interests, or would be an unreasonable invasion of that 
+third parties personal privacy as defined in sections 19 and 20 of the ATIA. Proponents are encouraged to 
+identify what portions of their Proposals are confidential and what harm could reasonably be expected 
+from its disclosure. 
+ 
+The purpose of collecting personal information required to be provided in Proposals for this RFP, is to 
+enable Olds College to ensure the accuracy and reliability of the Proposals, and to evaluate the 
+Proposals. This information is required by Olds College to carry out its operations. 
+ 
+It is recommended that Proponents advise persons whose personal information is being provided in 
+Proposals to Olds College for this RFP, that the privacy of their personal information as well as its 
+possible disclosure by Olds College to third parties, upon request, will be governed by the POPA and 
+ATIA. 
+ 
+All Proponents shall make themselves aware of the requirements of the POPA and ATIA since the 
+successful Proponent will be required to meet the requirements of the POPA for all personal information 
+that the Proponent has access to, collects, uses or destroys as a consequence of carrying out its 
+obligations in respect of the provision of the Learning Management System (LMS) Platform & Support. 
+ 
+ 
+4.14​ Format of Proposal 
+Proposals should be prepared concisely (edit as applicable: in 30 pages or less) and in the order below.  
+ 
+All Proposals should have every page numbered in sequential order.   
+ 
+ 
+Description 
+1 
+Proposal Certification Document (Section C) 
+Acceptance of Service Agreement Terms and Conditions (Section C - Item 9) 
+2 
+Company Experience 
+3 
+Staff/Resources Experience 
+4 
+Proposed Project Solution and Approach 
+5 
+Pricing 
+6 
+The Proponent should also provide: 
+●​ References  (Item 8.6) 
+ 
+The Proposal format should also provide a clear description of the Proponent’s capability to satisfy the 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 13    
+ 
+requirements of this RFP as identified in: 
+a)​ Section 7 “Proposal Evaluation”, section 7.1 Mandatory Requirements,  
+b)​ Section B - Specific Requirements, and  
+c)​ Section D - Scope of Work and Pricing Schedule.  
+ 
+4.15​ Compliance with Terms and Conditions 
+Proponents shall carefully read all documentation forming part of the RFP and submit Proposals 
+complying with all terms and conditions contained in the RFP. Proponents shall make all investigations 
+necessary to properly understand and provide for all conditions which may affect the supply of the 
+Learning Management System (LMS) Platform & Support described. 
+ 
+Unless the Proponent has indicated in their Proposal specific exceptions of non-compliance with any 
+of the conditions contained in the RFP, the submission of a Proposal by a Proponent shall be construed 
+by Olds College to mean that the Proponent agrees to abide by and carry out all terms and conditions 
+set forth in the RFP documents. 
+ 
+Submission of a Proposal to this RFP, shall be construed as acceptance of all the terms and conditions 
+of the attached Agreement. 
+ 
+4.16​ Quantity Requirements 
+Any quantities or estimated requirements provided under this RFP are estimates only to be used by Olds 
+College for the sole purpose of evaluating Proposals. Olds College does not warrant, represent or 
+guarantee that these estimated quantities will constitute the actual quantity(ies) for the Learning 
+Management System (LMS) Platform & Support to be received. Proposals should address variations in 
+quantity and the resulting change in quoted prices, if any. 
+ 
+4.17​ Pricing 
+Proponents shall submit pricing in their Proposal, as requested in Schedule D - Scope of Work and Pricing 
+Schedule, as follows: 
+●​ in Canadian dollars, and 
+●​ Prices must remain fixed and applicable to all goods and services, as detailed within this RFP,  
+throughout the entire term of the 5 year agreement. 
+ 
+5.​
+Information for Proponents 
+ 
+5.1​ Insurance 
+It is an Olds College requirement that for any Agreement entered into as a result of this RFP the 
+Contractor shall, at its own expense and without limiting its obligations, provide and maintain policies of 
+insurance as outlined below: 
+ 
+●​ Comprehensive General Liability insurance in an amount of not less than two million dollars 
+($2,000,000) inclusive per occurrence against third party claims for bodily injury, personal 
+injury, and property damage (including loss of use thereof).  Such insurance shall cover all 
+operations of the insured and include, but not being limited to: products and completed 
+operations liability, blanket written contractual liability, owners and contractors protective 
+liability, owners and employees as additional insured, and 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 14    
+ 
+●​ Insurance on property of others on an “all risks” basis, including theft, and in an amount 
+sufficient to cover such property in the Contractor’s care, custody and control. 
+ 
+5.2​ Workers Compensation Board 
+Proponents are advised that it is an Olds College requirement that for any Agreement entered into as a 
+result of this RFP, upon request, the Contractor shall provide a “Letter of Clearance” from the Workers’ 
+Compensation Board indicating its account is in good standing. 
+ 
+ 
+6.​
+Timeline 
+ 
+Event 
+Date 
+Issue RFP 
+August 11, 2026 
+Deadline for Questions 
+September 2, 2026 at 2:00:00 PM MT 
+Closing Date and Time 
+September 9, 2026 at 2:00:00 PM MT 
+RFP Evaluations & product demos 
+September 10 - November 15, 2026 
+Vendor Interviews 
+September 15 - November 15, 2026 (or 
+TBD) 
+RFP Award  
+November 30, 2026 
+Agreement Start Date 
+February 1, 2027 (or TBD) 
+ 
+The above timeline is subject to change at the sole discretion of Olds College. In the event a change is 
+made to the timeline, Proponents will be informed by written Addenda posted on APC. After the closing 
+date has been posted on APC, all qualified proponents with successful submissions will be notified 
+directly by the email address provided in their submission.. 
+ 
+ 
+7.​
+Proposal Evaluation 
+ 
+7.1​ Mandatory Requirements 
+The following are mandatory requirements. Proposals not clearly meeting these mandatory 
+requirements will be considered non-compliant and will not be evaluated, and therefore will be 
+rejected from the evaluation process.  
+ 
+7.1.1   Certification 
+ 
+Certification document - Section C Item 9 “Proposal Certification Document” must be completed 
+in full and signed by the Proponent. 
+ 
+Any proposals not including this information will not be considered for evaluation. 
+ 
+7.2​ Evaluation Criteria 
+Only proposals meeting the mandatory requirement in section 7.1., will be further evaluated and 
+assessed using the following criteria and point rated system.  
+ 
+The most important criteria are indicated by the highest weighting indicated on the following chart.  The 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 15    
+ 
+company’s performance measures, quality standards and other criteria used as measurements for 
+evaluation of services including:  
+ 
+ 
+Scored (Desirable) Criteria 
+Maximum 
+Points 
+A. 
+Company Experience 
+15 
+B. 
+Staff/Resource Experience 
+5 
+C. 
+Proposed Solution and Approach 
+40 
+D. 
+Pricing  
+40 
+ 
+●​
+Total Cost of Proposal (see Section D - Pricing Schedule for breakdown) 
+ 
+E. 
+Reference Checks and Interview 
+ 
+ 
+●​
+Outcome of reference checks - satisfactory​ 
+yes/no 
+ 
+Total Points Available  
+100 
+ 
+ 
+7.3​ Short List 
+Olds College may establish a shortlist of Proponents upon completion of an initial round of evaluations. 
+Olds College reserves the right to request presentations relating to a Proposal from short-listed 
+Proponents as may be required. 
+ 
+7.4​ Execution of Agreement 
+The successful Proponent(s) will be required to execute the Agreement attached as Section E of this RFP 
+or Olds College will consider any successful Proponent's standard Customer Agreement, where such 
+Agreement will incorporate the terms and conditions of this RFP and the successful Proposal.   
+  
+Once any written Agreement has been entered into as a result of this RFP process,  the terms and 
+conditions of this RFP and the successful Proposal will supersede the terms and conditions of this RFP 
+and the successful Proposal. 
+ 
+ 
+ 
+ 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 16    
+ 
+SECTION B – SPECIFIC REQUIREMENTS 
+In order for its Proposal to be considered further in the evaluation process the Proponent must respond, 
+in detail, to each of the following requirements, as set out specifically in Section D: Scope of Work and 
+Pricing Schedule.  
+ 
+In the event the Proponent has a unique capability, credential or service that is not expressly stated in 
+this RFP, Proponents are encouraged to attach any appropriate supporting material. 
+ 
+ 
+8.​
+Capability and Resources 
+ 
+8.1​ Company Experience (15 Points) 
+Proponents should provide the following information in their Proposals: 
+a)​ a brief company history, including the length of time the company has been in business and the 
+number of years providing the goods and services requested in this RFP;  
+b)​ a copy of the Proponent’s organizational structure, reporting structure, number of employees, 
+etc.; 
+c)​ an outline of the Proponent’s experience in providing the goods and services set out in this RFP, 
+including providing LMS systems and support; or support for the existing Moodle LMS (if 
+applicable) 
+d)​ the Proponent’s experience working with post-secondary institutions previously, including with 
+institutions that utilize Ellucian Banner  
+ 
+8.2​ Staff/Resource Experience (5 points) 
+Proponents should provide the following information in their Proposals: 
+a)​ Staff and resource experience and qualifications,  
+b)​ Proposed subcontracted resources - experience and qualifications (if applicable) 
+c)​ A staffing model that designates personnel assigned to the project, including:  
+i.​ resumes for any staff members proposed to work on the Project, and  
+ii.​ identification of any work to be subcontracted. 
+ 
+8.3​ Proposed Solution and Approach (40 points) 
+Proponents should provide the following information in their Proposals: 
+a)​ how the Proponent’s proposed solution uniquely fits Olds College’ requirements as set out in 
+this RFP and as set out specifically in Section D: Scope of Work and Pricing Schedule.  
+1)​Modules and features available 
+2)​Ability to develop and manage content 
+3)​Assessment capabilities and management 
+4)​Communication & engagement support and features 
+5)​System accessibility & user experience  
+6)​Mobile access & functionality  
+7)​Capabilities of artificial intelligence tools 
+8)​Data Analytics 
+9)​Integrations 
+10)​Security provisions 
+11)​Proposed implementation plan, including data migration 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 17    
+ 
+12)​Ongoing customer support model  
+ 
+b)​ the proposed methodology the Proponent recommends to address the Project, including 
+providing all the goods and services requested in Section D: Scope of Work and Pricing Schedule, 
+of this RFP, 
+c)​ a work plan and schedule which includes how a Proponent proposes to successfully complete 
+the project by any indicated deadline, including milestones and key dates and the Proponent’s 
+plan for any possible supply chain delays,  
+d)​ any other relevant information to providing the goods and services set out in this RFP, and/or 
+additional value-added goods or services proposed. 
+○​ Ellucian Banner integration  
+○​ other typical, common post-secondary software that your solution can integrate with. 
+ 
+8.4​ Pricing (40 points) 
+Proponents should provide the following information in their Proposals: 
+a)​ comprehensive project pricing, for all goods and services they propose to supply as a solution, 
+under this RFP as attached in Section D: Scope of Work and Pricing Schedule. 
+ 
+The following information should be provided, but will not be scored: 
+8.5​ Acceptance of Service Agreement Terms and Conditions 
+Proponents should provide the following information in their Proposals: 
+a) Explicit acceptance of all contractual terms and conditions in the attached Service Agreement. 
+(This is set out in the “Proposal Certification Document” in Section C for your convenience.) 
+ 
+8.6​ References 
+Proponents should provide three references, where their company has provided the goods and services 
+similar to those outlined in this RFP, including:  
+●​ name and title; 
+●​ name of company; 
+●​ phone number and email address; 
+●​ types of goods and services provided; and 
+●​ duration and value of agreement. 
+Olds College reserves the right to contact references without further approval from the Proponent. 
+ 
+References must be satisfactory for proposals to be considered compliant, but will not be scored. 
+ 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 18    
+ 
+SECTION C– PROPONENT'S RESPONSE DOCUMENTS 
+ 
+9.​
+  Certification 
+Failure to complete and sign this form means Olds College will reject your Proposal. 
+ 
+ 
+ 
+Proposal  
+Certification Document 
+ 
+ 
+_____________________________________ of _________________________________________ 
+(Company Name) ​
+​
+​
+​
+(Business Address)  
+ 
+The undersigned have reviewed this RFP, 197-2027 Learning Management System (LMS) Platform & 
+Support, including all Addenda and examined all conditions affecting the provision of the goods and 
+services. 
+ 
+We are satisfied that we fully understand the intent of this RFP and declare that:  
+(i) we accept all terms and conditions set out in the RFP; 
+(ii) we accept all terms and conditions set out in the Agreement attached to the RFP, to govern a 
+potential Agreement with Olds College resulting from this Proposal;  
+(ii) we have access to adequate personnel, equipment, facilities and resources to fulfill the requirements 
+of the RFP; and  
+(iii) the content of our Proposal is true and accurate. 
+ 
+This Company hereby offers to Olds College the goods and services as detailed in our Proposal in 
+accordance with the terms and conditions set out in this RFP, 197-2027 Learning Management System 
+(LMS) Platform & Support. 
+ 
+ 
+Signed on: _________________________, 20____ 
+ 
+Company Name: ______________________________________________________________________ 
+ 
+Signature of Authorized Company Representative: __________________________________________ 
+ 
+Name and Title: _______________________________________________________________________  
+(Please Print or Type)  
+ 
+Phone Number: _____________________ 
+Email Address: ______________________
+ 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 19    
+ 
+SECTION D – SCOPE OF WORK & PRICING SCHEDULE - SPECIFICATIONS 
+ 
+ 
+SCOPE OF WORK 
+ 
+Detailed LMS System Requirements  
+Functional Requirements - Student Experience and Quality Instruction 
+ 
+#1 
+Development & Management of Learning Content 
+●​ Contains a course organizational structure and ability to manage courses (e.g. templates) 
+○​ Ability to copy course templates and share internally 
+○​ Ability to copy course content from one course to another  
+●​ Ability to develop course learning materials in the system  
+○​ Access to a repository of learning documents and tools 
+○​ Authoring tools for developing content within the LMS - presentations, videos, 
+discussion boards, etc. 
+○​ Ability to easily link media in courses 
+●​ Ability to incorporate existing content into the system 
+○​ Supports integration and use of Google Drive and Documents 
+●​ Ensures calendar functionality (including ease of integration with various external calendars) for 
+individual students’ comprehensive  activities and milestones 
+●​ Supports integration of external learning content  (eg. digital textbooks such as Vital Source, 
+McGraw-Hill) 
+●​ Directly supports H5P 
+#2 
+Assessment 
+●​ Ability to develop and manage gradebooks in an efficient manner 
+○​ Weighted grading, outcome-based rubrics, etc. 
+●​ Student access to grade information 
+●​ Access to a variety of assessment templates and tools 
+○​ Ability to build various types of quiz questions to measure knowledge and skills in 
+various ways, including interactive questions types. 
+●​ Ability to develop assessment tools 
+●​ Ability for students to submit work in multiple formats via the system  
+○​ E.g. Written documents, videos, pictures 
+●​ Ability for instructors to provide timely formative and summative feedback  
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 20    
+ 
+#3 
+Engagement & Communication  
+●​ Tools that support collaboration, knowledge sharing, and engagement while protecting privacy 
+and security 
+●​ Integrated ability to facilitate communication between instructors and students and between 
+students 
+○​ Emails, discussion boards, peer-feedback loops, and virtual classrooms (preference for 
+Google Meet, inbuilt virtual classroom), etc. 
+●​ Learning environment that empowers student growth and perseverance.  
+●​ Ability to enhance and streamline instructor/student engagement with multiple means of 
+student expression and multiple means of accessing information,  
+●​ Tools that empower students for appropriate management of attention and time 
+#4 
+Artificial Intelligence  
+●​ Incorporation of artificial intelligence (AI) tools that support student experience, instructor 
+efficiency and customer support, such as:  
+○​ Utilizing AI to individualize content or experiences for students  
+○​ Ability to leverage AI agents to provide communication prompts within courses 
+○​ Leveraging AI to provide timely customer support 24 hours a day 
+○​ Generating analytics on students and courses to support student success 
+○​ Ability to generate draft assessment and course content for instructor review  
+#5 
+Support for Multiple Delivery Modalities 
+●​ Ability to support in-person, online and blended delivery learning approaches synchronously and 
+asynchronously 
+○​ Providing course content in a manner which reflects and supports the specific delivery 
+modality  
+○​ Features which facilitate different course and program delivery options while supporting 
+student engagement 
+#6 
+Academic Integrity 
+●​ Incorporates or supports integration of tools that support academic integrity 
+○​ Proctoring and/ or AI evaluation tools that support fairness, accountability, security, 
+transparency, data privacy and relevance 
+Technical Requirements 
+#1 
+Accessibility 
+●​ System that prioritizes ease of use and straightforward navigation 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 21    
+ 
+○​ Streamlined menu system 
+○​ Intuitive navigation  
+○​ Ability to customize system menus and content for the institution  
+○​ Meets the Web Content Accessibility Guidelines (WCAG) 
+#2 
+Mobile Learning 
+●​ Allowing learners to access courses at any time and from any location using their mobile devices 
+●​ Providing mobile access in a streamlined and simplified manner  
+#3 
+Integrations 
+●​
+Ability to integrate with existing College systems 
+○​ Ellucian Banner (state whether Ellucian ILP will be necessary, or whether there would be 
+a custom developed integration methodology available as an alternative) 
+●​
+Allowing for external integrations which will support student experience and system functionality 
+○​ Ease of integration for external applications or other tools 
+●​ Automated course enrolment and permission provisioning for students and instructors 
+●​ Support for Application Programming Interface (APIs) 
+#4 
+Security 
+●​ Maintaining data security standards to safeguard sensitive learning materials and learner 
+information 
+●​ Safeguards against data breaches  
+●​ Ability to adhere to Province of Alberta information privacy standards (POPA) 
+●​ Proponents must be able to provide a HECVAT cybersecurity & privacy assessment. 
+●​
+SAML based Single Sign-On (SSO) integration  
+●​
+State whether the platform supports “local” Multi-Factor Authentication (MFA) support or 
+whether MFA is dependent on the above SSO integration 
+#5 
+Data Migration (as applicable) 
+●​ Ensuring data migration capabilities for importing and exporting content to ensure a seamless 
+transition 
+○​ Including the ability to migrate preexisting LMS data into the system in a streamlined 
+manner 
+#6 
+Cloud-Based System 
+●​ Providing an LMS in a cloud-based, rather than on-premise, platform 
+●​ Preference will be given to a Canadian host location 
+●​ Describe your approach to server resourcing ensuring adequate scaling to deal with periods of 
+heavy load (exam week), the approach you use to resolve slow system responsiveness 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 22    
+ 
+#7 
+Data Analytics 
+●​ Providing robust data analytics on courses, programs and learners; including associated reporting 
+features 
+○​ Including enrollment trends, learner success metrics, etc. 
+○​ Student online activity in a course/program easily available to Instructors in real time  
+#8 
+Customer Support  
+●​ Ability for the institution to secure support for broader system issues 
+●​ Provision of robust transitional training support to ensure our college support team consistently 
+has access to responsive technical support  
+#9 
+Implementation 
+●​ Providing robust implementation support for any system transition 
+○​ Including transition of content, training, etc.  
+ 
+ 
+PRICING SCHEDULE 
+Proponents should provide pricing for all the goods and services, as well as any other additional costs 
+related to the  software that will be incurred with all the goods and services requested in this RFP, (as 
+applicable). 
+ 
+●​ Olds College prefers that Proponents use this chart for description of their pricing.  
+●​ Any proposed pricing must include the following information at a minimum.  
+ 
+ 
+Quantity 
+Description 
+Unit Price 
+Amount 
+ 
+Implementation Costs 
+ 
+ 
+ 
+One-Time Implementation or Enhancement costs 
+-​
+list any one-time costs associated with training, 
+data migration, and other implementation or 
+enhancement costs  
+ 
+ 
+ 
+sub total  
+ 
+ 
+Ongoing LMS Licensing and/or Support Costs 
+ 
+ 
+ 
+Annual Software Subscription and/or Ongoing Support 
+Costs  
+Please list individual modules / options with separate pricing 
+for each module/ option 
+-​
+module 1 
+ 
+ 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 23    
+ 
+-​
+module 2 
+-​
+module 3 
+-​
+module 4 
+-​
+module 5 
+ 
+Years 1 to 5 - annual software subscription 
+(list any other applicable costs) 
+ 
+ 
+ 
+ 
+sub total  
+ 
+ 
+GST 5%  
+ 
+ 
+TOTAL  
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 24    
+ 
+SECTION E – OLDS COLLEGE SERVICES AGREEMENT 
+ 
+Note: The attached Olds College Services Agreement is being provided for the Proponent’s information 
+and review.  
+ 
+The terms and conditions contained in this agreement, are in addition to those identified in all other 
+sections of this RFP. The successful Proponent, if any, will be required to execute this Agreement. 
+ 
+OLD COLLEGE SERVICES AGREEMENT 
+ 
+ 
+This Agreement is made this _____ day of _________________________, 20____. 
+ 
+BETWEEN:  
+ 
+The Board of Governors of Olds College  
+(“Olds College”) 
+ 
+and 
+ 
+_______________________________  
+(the "Contractor") 
+ 
+THE PARTIES AGREE AS FOLLOWS: 
+ 
+Definitions 
+  
+a.​ “Agreement” means this Agreement inclusive of its attached Schedules,  
+ 
+b.​ “College Persons” means a person on Olds College campus that the Contractor may encounter, 
+whether Olds College staff, agents or students. 
+ 
+c.​ “Developed Product” means all works, writings, creations, inventions, techniques, 
+improvements, methods, software programs, designs and other original works, and all creations 
+in the nature of intellectual property, including without limitation all other creations of a nature 
+capable of protection under patent, trade mark or copyright legislation, developed or created by 
+the Contractor in the performance of the Services, and any and all moral rights and copyright 
+which may subsist or exist in the same and any and all drawing, specifications, source codes, 
+algorithms, derivatives evidencing or comprising the same and all summaries, derivative and 
+copies of the same, and all enhancements and versions of the same. 
+ 
+d.​ ‘’Olds College’’, means a college duly established pursuant to the laws of the Province of 
+Alberta. 
+ 
+e.​ “Sensitive Information” means and includes all information of a confidential nature,  
+whether in electronic, written or other form, including without limitation:  
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 25    
+ 
+a)​ student, supplier or employee records;  
+b)​ security infrastructure of Olds College;  
+c)​ source codes, software and other intellectual property owned by or licensed to Olds 
+College;  
+d)​ financial or other business records,  
+e)​ third-party business confidences, 
+f)​ information concerning planned policies or proposals involving Olds College; 
+g)​ and any other information, including personal information, pertaining to any College 
+Persons or Olds College’s finances, operations or intellectual property. 
+ 
+v. “Services” means the goods and services described in the Section D - Scope of Work & Pricing 
+Schedules attached to this Agreement, and which are to be supplied and provided by the 
+Contractor. 
+ 
+Agreement to Provide Goods and Services  
+1. ​
+Throughout the Term of this Agreement, the Contractor agrees to perform, provide and supply  
+to and for Olds College, those goods and services described in Schedule "A" (the “Services”), of  
+the description, at the times and places and in accordance with the requirements and  
+specifications set out in Schedule “A”. 
+ 
+Term  
+2. ​
+Subject to earlier termination as set out in this Agreement, the term of this Agreement is ____  
+year(s) starting  ________, 20___ and ending __________, 20___ .  
+a.​ In the event that this Agreement has been executed after the commencement of the 
+said Term, the provisions of this Agreement shall be deemed retroactive to the start date 
+in this section. 
+ 
+Renewal Term  
+3. ​
+Olds College shall, subject to section 4 (b), have the option to renew the said Term for two  
+further terms of ____  years each (“Renewal Term(s)”), upon written notice to the Contractor 
+served thirty (30) days prior to the expiry of each Term, for a total of ____ years. 
+ 
+4.​
+Pricing/Fees 
+a.​ Olds College agrees to pay the price of the fees for the Services as specified in Schedule “A”.  
+i.​
+Unless otherwise stated, all fees are exclusive of goods and services taxes. 
+ii.​
+All fee pricing is inclusive of all other taxes and assessments, and inclusive of all third 
+party charges, supplies, travel, transport, salaries, parts, fuel, permits, application fees 
+and office expenses, and the Contractor shall be solely responsible for the payment of all 
+these. 
+ 
+b.​ In the event that the Term of this Agreement is renewed or deemed to be renewed under 
+section 3, the pricing for the Services shall remain the same throughout the Renewal Term. 
+i.​
+For a price change, the Contractor must within the first sixty (60) days of such Renewal 
+Term give written notice to Olds College requesting an increase in pricing. If this 
+happens, Olds College has an additional sixty (60) days within which to reject or accept 
+such increased pricing.  
+ii.​
+In the event that Olds College rejects such pricing, including failure to submit timely 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 26    
+ 
+notice, the Contractor shall have the option to at any time thereafter (unless the parties 
+agree to other pricing) terminate this Agreement upon ninety (90) days’ notice to Olds 
+College. 
+ 
+c.​ Olds College may use a set off against any monies owing to the Contractor, where the Contractor 
+is in breach of this Agreement or where Olds College is otherwise entitled to claim indemnity or 
+other compensation from the Contractor. 
+ 
+Quantities  
+5. ​
+Except to the extent otherwise stated in Schedule “A”, Olds College has no obligation to  
+order or retain any minimum quantity of goods or Services, and may obtain identical goods or 
+services or both from other suppliers. 
+ 
+Billing & Payment  
+6. ​
+The Contractor shall only invoice once in each calendar month. Unless otherwise stipulated in  
+Schedule “A”, invoices are payable within thirty (30) days of receipt. 
+a.​ If the Services are defective or deficient, or if the Contractor has not complied with the 
+terms and conditions of the Agreement for any other reason, Olds College may withhold 
+payment, even for other Services, until such deficiencies have been rectified to the 
+reasonable satisfaction of Olds College.  
+b.​ All billing shall contain a detailed and itemized description of the Services provided and 
+the manner in which the invoiced fees and other charges have been calculated.  
+i.​
+Where expenses are chargeable, invoices or other supporting evidence of such 
+charges shall be included. 
+c.​ Upon Olds College request, the Contractor shall provide such further and better 
+particulars concerning the Services. The Contractor shall not bill for time expended in 
+billing accounts or in providing further or supporting information. 
+d.​ Olds College payment of any particular invoice is not an admission that the amount paid 
+was properly owing. Such payment shall not constitute acceptance of the Services 
+provided or the quality or sufficiency of them, or the amount charged for them. Olds 
+College shall at all times remain free to question any account, seek repayment or make 
+any other claim relating to payment, as it deems appropriate. 
+ 
+Authorized Personnel  
+7. ​
+In the course of providing the Services, the Contractor acknowledges that the following  
+persons are the only representatives authorized by Olds College to give instructions and  
+directions to the Contractor and to receive confidential advice and information from the 
+Contractor:  
+ 
+Vice President, ________________________:​
+​
+____________________ (name) 
+Director, _____________________________: ​ ​
+____________________ (name) 
+ 
+Incidental Goods (if applicable)  
+8. ​
+Without limitation to section 4(a), and exceptions listed in Schedule “A”, the supply of Services  
+under this Agreement shall be deemed to include all goods and supplies utilized, or reasonably 
+required to be utilized by the Contractor. 
+ 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 27    
+ 
+Disclosures  
+9. ​
+The Contractor shall fully and promptly disclose to Olds College all conflicts of interest and all  
+other information in the knowledge of the Contractor, whether presently known or acquired  
+afterwards, that could reasonably be expected to influence Olds College’s decision to follow, rely  
+upon, abide by or implement the Contractor’s advice or decisions. 
+ 
+Honest Dealing and Good Faith 
+10.​
+The Contractor represents and agrees that: 
+a.​ all statements and representations of fact made by the Contractor in, or during the 
+course of any business communications, including Proposals from the Contractor, if 
+applicable, resulting in this Agreement, are true and accurate,  
+b.​ all opinions expressed by the Contractor were genuinely held, and  
+c.​ there were no omissions, misstatements or understatements of any material facts or 
+matters which if known to Olds College might reasonably be expected to have materially 
+influenced the decision of Olds College to enter into this  Agreement,  
+d.​ it owes a duty of good faith to Olds College. 
+ 
+Contractor’s Staff and Resources 
+11.​
+The Contractor agrees that Contractor employees shall perform the entirety of its Services and  
+shall only use such other agents, employees, advisors, sub-contractors and other personnel as 
+are pre-approved in writing by Olds College. 
+ 
+Contractor - No Authority for Olds College 
+12.​
+The Contractor has no decision making responsibility or managerial or executive authority over  
+or in respect of Olds College’s affairs whatsoever. 
+a.​ The Contractor shall not expressly or impliedly hold out to any person that the 
+Contractor has any authority whatsoever to make decisions on Olds College’s behalf. 
+ 
+Mutual Termination Notice  
+13. ​ Either party may terminate this Agreement at any time upon the provision of 30 days notice to  
+the other party. 
+ 
+ Immediate Termination  
+14. ​
+The College may immediately terminate this Agreement, without prejudice to any other right or  
+remedy the College may have, if: 
+a.​ the Contractor commits an act of bankruptcy or is adjudged bankrupt or makes a general 
+assignment for the benefit of creditors, acting reasonably, by giving notice of such 
+termination to the Contractor or to the Contractor’s receiver or trustee in bankruptcy, or 
+b.​ if a receiver is appointed over all or a material portion of the business and assets of the 
+Contractor, or,  
+c.​ if the Contractor has abandoned performance of the Services or, 
+d.​ has made an assignment of this Agreement without the prior written consent of the 
+College, or 
+e.​ if the Contractor commits a material breach of this Agreement, as determined by the 
+College, or 
+f.​
+if the Contractor fails to perform any portion of the Services in accordance with this 
+Agreement or,  
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 28    
+ 
+g.​ is otherwise in breach of this Agreement. 
+ 
+Insurance 
+15.​
+Unless waived in writing by College, the Contractor shall at its own cost, obtain and maintain in  
+full force and effect for the Term of this Agreement, general liability insurance in a form 
+satisfactory to Olds College in the minimum amount of $5,000,000 per occurrence or such 
+greater or lesser amount as Olds College may require or permit. 
+a.​ Upon request from Olds College, the Contractor shall provide a certified copy of the 
+insurance policy to Olds College. 
+ 
+Notice 
+16.​
+Any notice required or permitted to be given in this Agreement shall be valid if served, mailed or  
+electronically mailed to the respective addresses set out below: 
+ 
+Olds College representative: 
+ 
+___________________________________ 
+ 
+Contractor: 
+___________________________________ 
+ 
+Notice served by prepaid registered mail upon either party to such addresses shall be deemed 
+received five clear business days after posting. Notice served by any other means shall be 
+effective upon actual receipt. Either party may change its address for service upon notice to the 
+other. 
+ 
+Quality of Services  
+17. ​
+The Contractor represents and covenants to and with Olds College that:  
+a.​ the Contractor and its employees and permitted sub-contractors have all equipment, 
+expertise, knowledge and training required to perform the Services skillfully, 
+competently, safely and without danger to themselves or to others;  
+b.​ the Contractor and its employees and permitted sub-contractors shall perform the 
+Services skillfully, competently, safely and without danger to any persons or property 
+whatsoever;  
+c.​ the Contractor and its employees and permitted sub-contractors shall honestly and 
+diligently perform the Services in good faith with a view to the best and exclusive 
+interests of Olds College and at all times exercise the professionalism, care, diligence and 
+skill that a reasonably prudent person would exercise in comparable circumstances; 
+d.​ the Contractor shall hire, train, maintain, utilize and properly supervise sufficient, 
+qualified and competent personnel to carry out its duties hereunder; 
+e.​ the Contractor shall obtain, comply with and satisfy all such licensing, approvals, 
+consents and legislative and regulatory approvals as may be required by any 
+governmental or other authority having jurisdiction over the Contractor's operations; 
+f.​
+when so directed by Olds College, and except as otherwise stipulated in this Agreement, 
+the Contractor shall only use equipment, goods or products which have been approved 
+by Olds College, such approval not to be unreasonably withheld provided however that 
+it is understood and agreed that nothing herein shall absolve the Contractor from 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 29    
+ 
+making prudent selections of such equipment, goods or products and from giving Olds 
+College prudent advice with respect to Olds College’s approval of the same; and 
+g.​ if and to the extent required and applicable, all goods and products to be provided or 
+delivered hereunder shall contain, and shall contain unrestricted licenses to Olds College 
+to use, all software and other intellectual property required for the normal and lawful 
+operation of any such goods and products in accordance with the requirements 
+hereunder. 
+ 
+Standards   
+18. ​
+The Contractor agrees that it shall at all times:  
+a.​ keep and maintain its equipment, vehicles and personnel in a clean, safe, and tidy 
+condition and generally in such condition as shall meet the reasonable requirements and 
+directions of Olds College as established from time to time,  
+b.​ if the Contractor or its employees or contractors come into contact with any College 
+Persons, deal with such persons in a reputable, honest, courteous, non-offensive, fair 
+and businesslike fashion and shall, as applicable, honour all commitments, verbal or 
+otherwise, if any, made by them to such College Persons,  
+c.​ provide the Services in accordance with high industry standards as to quality 
+with the intent that the Services will meet or exceed all reasonable requirements of Olds 
+College (and its College Persons, as applicable) on an efficient and competitive basis, 
+d.​ use its best efforts to achieve the reasonable performance standards established from 
+time to time by Olds College (after consultation the Contractor); disclose conflicts of 
+interest as required under, and generally to abide by, Olds College’s conflict of interest 
+policies as in effect from time to time, and 
+e.​ generally conduct itself in such a fashion as to positively promote and preserve a 
+reputation associated with Olds College consistent with reputability, high ethics, 
+competence, good quality, and integrity,  
+f.​
+allow a performance review by Olds College periodically, to ascertain whether the 
+Contractor is complying with performance standards and the Contractor shall, if such 
+performance review is not satisfactory to Olds College, use its best efforts to 
+immediately improve its performance to the standard required. 
+ 
+Comply with Laws  
+19. ​
+Without limitation to the foregoing, the Contractor shall at all times comply with all federal,  
+provincial and municipal laws. 
+a.​ The Contractor shall also comply with all rules and regulations of any duly constituted 
+authority, affecting or in any way relating to the Contractor's business and activities, 
+including without limitation, laws and regulations pertaining to licensing, public health, 
+human rights, fire safety, employment practices and occupational health and safety. 
+ 
+Deficiencies  
+20.​
+Any deficiencies in the Services shall be rectified promptly and entirely at the Contractor's  
+expense. 
+ 
+Goods Supplied – (if applicable) 
+21. ​
+The Contractor represents and warrants to Olds College that all goods supplied in the provision  
+of the Services (if any):  
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 30    
+ 
+a.​ shall be free of defects, shall be of good and merchantable quality and shall be fit for the 
+purpose intended,  
+b.​ shall, as required, be supplied to Olds College with complete and accurate instructions 
+pertaining to use and safety,  
+c.​ when properly used (and in accordance with any instructions provided), shall be safe 
+and shall not present a danger to any persons or property, 
+d.​ where applicable, have been approved for use in Canada by the Canadian Standards 
+Association and by any other authority having jurisdiction,  
+e.​ shall, as applicable, be transferred to Olds College free and clear of all charges and 
+encumbrances, and 
+f.​
+that their sale, resale, use, lease or distribution to Olds College under this Agreement 
+otherwise complies with all applicable laws and regulations throughout Canada and 
+does not offend the patent or proprietary rights of any person. 
+ 
+Use of Olds College Assets  
+22. ​
+If and to the extent that the provision of the Services requires the occupation, possession or  
+other use of Olds College’s premises, equipment or other assets, the Contractor shall not occupy, 
+possess or make use of the same except as expressly permitted by Olds College under this 
+Agreement and in any event for no purpose other than the provision of the Services. 
+a.​ Without limitation to the foregoing, the Contractor shall not suffer or permit the same 
+to be used for any unlawful purpose or activity or suffer or permit any lien or 
+encumbrance to be made against the same. 
+b.​ Without limitation to section 25 of this Agreement, the Contractor shall fully indemnify 
+and save harmless Olds College and other College Persons from and against any and all 
+claims, loss or damage of, against or to such property during, or in the course of, such 
+occupation, possession or use, however caused (other than through the negligence of 
+Olds College itself). 
+ 
+Supply Shortages  
+23. ​
+Subject to any contrary commitments agreed to by the Contractor prior to the date of this  
+Agreement, and previously disclosed to Olds College in writing, in the event of a shortage of  
+labour or other supplies or other circumstance which prevents the Contractor from satisfying 
+requests for services from all of its customers within the times requested, the Contractor shall 
+prefer Olds College and, in particular, shall fully supply Olds College with its requirements before 
+supplying other customers. 
+ 
+Non-Exclusive Service  
+24. ​
+The Contractor is entitled to provide services to other parties provided that the provision  
+of such other services does not, in Olds College’s opinion, conflict with the Contractor's  
+obligations to Olds College under this Agreement, and does not in any other manner adversely  
+impact upon the quality, quantity or timeliness of the Services to be provided to Olds College,  
+and provided further that, in the event of conflict, Olds College’s requirements are given first  
+priority. 
+ 
+Hours and Location of Service   
+25. ​
+The Contractor may perform its Services during such reasonable hours and work from such  
+locations as are sufficient to adequately meet its obligations, unless otherwise stipulated in this 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 31    
+ 
+Agreement.  
+a.​ The Contractor shall be responsible for providing its own overhead, office space, 
+equipment, vehicles, staffing and materials as may be necessary for the performance of 
+its Services under this Agreement, without further charge or fee to Olds College and no 
+additional fees or reimbursements shall, without prior express arrangement of Olds 
+College, be payable.  
+b.​ In the event that Olds College shall permit the Contractor to make use of Olds College’s 
+own facilities from time to time, it is understood and agreed that such permission is at 
+all times revocable at Olds College’s discretion. 
+ 
+Contractor - Independent Contractor 
+26. ​
+The Contractor is an independent contractor and is not a partner, legal representative, employee  
+or agent of Olds College for any purpose whatsoever.  
+a.​ The Contractor shall have no authority to, and agrees that it will not make, any 
+warranties or representations, enter into any contracts, assume or create any 
+obligations, or make any commitment or commitments, on behalf of Olds College 
+without the prior express written consent of Olds College. 
+b.​ In the event that any third party, including any governmental authority, shall allege that 
+the Contractor or any of its sub-contractors, agents or employees are employees of Olds 
+College, or that Olds College is vicariously liable for the actions of the Contractor or any 
+of its sub-contractors, agents or employees, the Contractor agrees to fully indemnify and 
+save harmless Olds College from and against any and all costs and expenses, including 
+solicitor client costs, in defending against such allegation and from and against any and 
+all judgments, assessments, reassessments, fines, penalties and other claims levied or 
+obtained against Olds College in consequence of such allegations. 
+ 
+Release 
+27. ​
+Olds College shall not be liable for any death, injury or damage to the persons or property of the  
+Contractor or of its officers, employees, agents or contractors, except where such damage, loss 
+or injury has resulted from the proven gross negligence of Olds College, its agents, or employees. 
+a.​ Without limitation to the foregoing, Olds College shall not in any event be liable to the 
+Contractor for any consequential damages or third party liabilities.  
+b.​ In any and all events, no facts, acts, omissions, circumstances or states of affair 
+(collectively “Actionable Occurrences”) shall be alleged or claimed upon in, or as the 
+basis for, any action or counterclaim in tort (including negligence), breach of contract or 
+any other cause as against Olds College or, without Olds College’s written consent, as 
+against any other College Person unless, and except only to the extent that, the 
+Contractor has notified Olds College of such Actionable Occurrences and the intention to 
+claim upon them, in writing no more than 180 days after the date of such Actionable 
+Occurrence (even if the same are not discovered or discoverable until after the 
+expiration of such time and even if Olds College otherwise had actual and previous 
+knowledge of the same) and the Contractor hereby releases Olds College from any 
+claims arising from Actionable Occurrences not so notified to Olds College within such 
+time.  
+ 
+ 
+Employees  
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 32    
+ 
+28. ​
+The Contractor shall hire or provide from its employees such managers, supervisors and workers  
+as are required to perform the Services and shall be solely responsible for, and shall pay when 
+due, all wages, benefits, safety programs, Workers' Compensation, source deductions and payroll 
+administration associated with such employees and, without limitation shall be responsible for 
+the supervision, selection, training and dismissal (with proper notice or payment in lieu) of any 
+and all such employees. 
+ 
+Intellectual Property  
+29.​
+The Contractor acknowledges and agrees that it shall not acquire any rights to any good will,  
+trade-mark, copyright or other form of intellectual property owned by Olds College.  
+a.​ The Contractor shall not use the trademarks or logos of Olds College in any manner 
+except that the Contractor may identify itself as the independent contractor of Olds 
+College in a form and manner permitted in writing from time to time by Olds College.  
+b.​ All Developed Products are and shall be the property of Olds College (and are assigned 
+to Olds College) and all moral rights in the same are waived by the Contractor.  
+c.​ Upon the completion of the Services, the Contractor shall deliver to Olds College any 
+and all of the drawings, specifications, models, source codes and copies of or relating to 
+the Developed Product in whatever form they may be found to exist whether they are 
+printed, electronically stored, or exist in any other form whatsoever. 
+ 
+Confidentiality 
+30.​
+The Contractor and each of its employees and sub-contractors shall keep all sensitive  
+information strictly confidential and shall not disclose or release such information or any portion 
+of it, to any person whatsoever, except to Olds College and except as may be required at law. 
+a.​ Without limitation to the foregoing, the Contractor shall, if requested by Olds College, 
+execute and deliver Olds College’s standard vendor confidentiality Agreement including 
+any variations, if any, as Olds College reasonably determines are advisable having regard 
+to the nature of the Services.  
+b.​ The Contractor further agrees as follows, in the event that: 
+i.​
+inadvertently or otherwise, the Contractor obtains or gains access to any 
+sensitive information that was not required for the performance of this 
+Agreement,  
+ii.​
+sensitive information in any form that the Contractor once had in its possession 
+or control is lost, or stolen or is otherwise acquired by a third party without the 
+consent of Olds College, or 
+iii.​
+the Contractor has reasonable cause to believe that trespassers, hackers or any 
+other third party has, by theft, through electronic means or otherwise, gained 
+access to sensitive information without the consent of Olds College, then the 
+Contractor shall promptly so advise Olds College and, if requested, provide a 
+written report concerning such incident in such detail as Olds College shall 
+reasonably require. 
+c.​ In regards to the Services, where Olds College deems it practical and appropriate, the  
+Contractor may be required to, and in such event shall, promptly advise Olds College in 
+writing of each occasion that the Contractor accesses Olds College’s electronic files, 
+records or systems outside of normal business hours or from any off site location and 
+shall not in any event do so without prior authorization. 
+d.​ Sensitive Information shall not in any form or by any means, electronically or otherwise,  
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 33    
+ 
+be removed from Olds College’s premises without its express consent. 
+e.​ Upon request of Olds College, or in any event, upon termination or expiry of this 
+Agreement, the Contractor shall promptly return to Olds College any and all Sensitive 
+Information and any and all copies, abstracts, summaries or derivations thereof, and in 
+whatever form, written, electronic or otherwise that are in the Contractor’s possession 
+or control. 
+f.​
+The Contractor’s obligations of confidentiality as they pertain to Sensitive Information 
+continue after termination of this Agreement. 
+ 
+Enforcement/Injunctions  
+31. ​
+The Contractor agrees that in the event that the Contractor contravenes this Agreement or any  
+portion of it, or engages in any activity which, on the face of it, contravenes this Agreement 
+(including, without limitation, sections 14 or 20) the Contractor acknowledges and agrees that 
+damages alone would be an insufficient remedy and that interim and permanent injunctions 
+would (without limitation to any claim for damages) be an appropriate remedy. 
+a.​
+The Contractor further agrees that if Olds College seeks such an injunction, whether on  
+an interim basis or otherwise the Contractor will waive any entitlement to require an 
+undertaking as to damages and releases Olds College from any damages resulting from 
+such injunction. 
+ 
+Incident Reporting  
+32.​
+In performing the Services, the Contractor shall immediately report to Olds College, by phone,  
+any breach of this Agreement or any occurrence or situation that is or has been harmful or could  
+be potentially harmful to any person or property, or that may delay the completion or that may 
+impair the quality of any of the Services. 
+a.​
+Following immediate phone notification, the Contractor shall promptly complete and  
+submit to Olds College written reports that may be reasonably requested by Olds College 
+or its insurer relating to same. 
+ 
+Risk – Goods Only (if applicable) 
+33. ​
+All goods supplied by the Contractor under the terms of this Agreement shall be entirely at the  
+risk of the Contractor until such time as possession of such goods has been delivered over to 
+Olds College. 
+a.​ Where the goods of Olds College or of any other Person come into the possession of the 
+Contractor during the performance of this Agreement, all such goods shall be entirely at 
+the risk of the Contractor from the time the Contractor takes possession of the same to 
+the time that possession of such goods has been delivered over to Olds College or such 
+College Person, as the case may be. 
+b.​ The Contractor shall hold Olds College and other College Persons harmless from and 
+against any claims arising out of the damage to the same, however caused, unless such 
+losses have been proven to be caused by the negligence of Olds College or such College 
+Persons. 
+ 
+ 
+Security  
+34. ​
+The Contractor acknowledges that Olds College is in a uniquely vulnerable and sensitive position  
+in respect of any actual or perceived risk of harm to the person or property of Olds College or 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 34    
+ 
+any of its employees or students. 
+a.​ Consequently the Contractor agrees that where Olds College in its unfettered discretion 
+determines that any employee, sub-contractor or other representative of the Contractor 
+in performing any of the Contractor’s duties under this Agreement, has engaged in (or, 
+with or without definitive proof, has been perceived to have been engaged in or at risk 
+of engaging in) practices or behaviours deemed offensive by Olds College including, 
+without limitation: 
+i. practices involving harassment,  
+ii. bullying,  
+iii. the issuance of verbal or implied threats,  
+iv. the violation of laws or regulations or acts of dishonesty,  
+v. or any other act deemed offensive, 
+such employee, contractor or other representative will be replaced by the Contractor at 
+the request of Olds College. 
+b.​ In any request to replace any such employee, contractor or representative it shall not be  
+necessary for Olds College to give any cause or explanation for its request. 
+ 
+Indemnity  
+35. ​
+The Contractor shall indemnify and save harmless Olds College and other College Persons from  
+and against any and all direct and consequential losses, expenses (including legal expenses on a 
+solicitor and client basis) and claims (including claims brought by third parties) suffered, brought 
+or incurred as a result of:  
+a.​ any breach by the Contractor of this Agreement,  
+b.​ any deficiencies in the Services,  
+c.​ any harm or loss of or to the property of Olds College or of others as a result of, or 
+arising out of, performing the Services;  
+d.​ any debt, charge or liability owed by the Contractor to a third party, including any 
+governmental agency or other third party; or  
+e.​ the negligence or any other wrongful act of or by the Contractor or any assignee, agent, 
+contractor, or employee of the Contractor. 
+ 
+Continuing Obligations  
+36. ​
+Any reference in this Agreement to termination whether by expiry or termination,  shall be read  
+as preserving all rights, obligations and liabilities existing, arising, accrued or accruing at or prior 
+to the time of such expiry or termination.  
+a.​ Without restricting the generality of the foregoing, sections 5, 14, 16, 19, 20, 25 and 29 
+of this Agreement, shall survive its termination or expiry. 
+ 
+Assignment/Sub-contractors  
+37.  ​
+The Contractor may not assign this Agreement without the express written consent of Olds  
+College which said consent may be arbitrarily withheld. Except as may be otherwise expressed in  
+the Agreement, sub-contractors may not be used in the provision of Services without Olds  
+College’s prior written consent. 
+ 
+Non-Waiver  
+38.​
+Any waiver by Olds College of any default or breach by the Contractor shall not operate as or in  
+any way constitute a waiver or condonation of any subsequent default or breach under this 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 35    
+ 
+Agreement. 
+ 
+Holdover 
+39. ​
+In the event that the Contractor continues to provide Services after the expiry of the original  
+Term of the Agreement or acquiescence of Olds College, the terms and conditions of this 
+Agreement shall continue to apply to such goods and Services except that, unless and until Olds 
+College expressly agrees otherwise in writing, there shall be no implied extension of the said 
+Term. Any of Olds College’s obligations under this Agreement shall be terminable at will and 
+without prior notice. 
+ 
+Force Majeure  
+40. ​
+Neither party is liable for any loss, detention, default, damage or delay in fulfilling the obligations  
+under this Agreement caused by or resulting from conditions or causes beyond its reasonable 
+control, including, but not limited to, any act of God, fire, flood, acts of any government 
+authority, enemy or hostile actions, sabotage, war, blockades, insurrections, riots, epidemics, 
+washouts, nuclear and radiation activity or fallout, civil disturbances, explosions, or other 
+casualty (“Force Majeure”).  
+a.​ Olds College may terminate this Agreement, without liability or waiver of breaches by 
+the Contractor unrelated to the Force Majeure, if such Force Majeure continues for 
+longer than 30 days. 
+ 
+Funding Changes  
+41.​
+The Contractor acknowledges that Olds College is a publicly funded institution reliant upon the  
+funding policies and procedures of governments.  
+a.​ The Contractor agrees that Olds College shall be at liberty to terminate this Agreement 
+upon a minimum of 60 days’ notice to the Contractor if: 
+i.​
+due to any change in legislation, regulations, grants, funding amounts, funding 
+policies, expenditure directives or restrictions, or other occurrence of a legal or 
+financial nature beyond the control of Olds College, that in the reasonable 
+opinion of Olds College make the continuation of this Agreement on the pricing 
+or terms of this Agreement unlawful, economically unfeasible or otherwise 
+inadvisable or imprudent.  
+ 
+Freedom of Information and Protection of Privacy Act  
+42. ​
+The Contractor agrees that, in adherence to the Freedom of Information and Protection of  
+Privacy Act (“FOIP Act”), the Contractor is required to comply with the provisions of the FOIP Act 
+pertaining to all information and records relating to, obtained, created, generated, collected, or 
+provided under or pursuant to this Agreement.  
+a.​ The Contractor acknowledges that Olds College is subject to the requirements of the 
+FOIP Act and that all information and records pertaining to this Agreement will be 
+maintained in confidence or disclosed by Olds College in accordance with the FOIP Act. 
+b.​ The Contractor agrees to fully cooperate with Olds College in any manner that Olds 
+College requires for the purpose of assisting Olds College to meet its obligations under 
+the FOIP Act or other law or legislation with respect to the records within the 
+Contractor’s custody or control. 
+c.​ Notwithstanding anything else in this Agreement, the Contractor shall fully indemnify 
+and save Olds College harmless from any loss, damages, or costs (including solicitor and 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 36    
+ 
+his own client costs) arising from the actions of, or failure to act on the part of the 
+Contractor, or its employees, agents, or subcontractors, with respect to the 
+requirements of this section. 
+ 
+Amendments   
+43. ​
+Both parties agree that the terms and conditions of this Agreement may only be amended,  
+waived or varied by Agreement in writing, and executed by all parties to this Agreement. 
+ 
+Governing Law 
+44. ​
+The laws of the Province of Alberta shall govern and apply to this Agreement and to any acts or  
+occurrences happening in or as a result of the performance of this Agreement. Each party  
+attorns to the jurisdiction of the courts of the Province of Alberta. 
+ 
+Schedules 
+45.​
+Schedules form an integral part of this Agreement, including the Schedules attached to this  
+Agreement, Schedule A - Description of Services and Fees. 
+a.​ All representations, warranties and covenants given in the main body of this Agreement 
+are in addition to and not in replacement of the provisions of the Schedules. 
+​
+ 
+Interpretation of Agreement 
+46. ​
+Any obligation of the Contractor in this Agreement shall be read so as to extend to every  
+employee, officer and contractor of the Contractor, whether expressly stated or not, so that any 
+act of such employees, officers or contractors shall, for the purposes of this Agreement, be 
+deemed to be an act of the Contractor.  
+a.​ Nothing in this Agreement lessens Olds College's rights and entitlements under common 
+law. If any section of this Agreement, or portion of a section is unenforceable for any 
+reason (including uncertainty) then such provision may at Olds College's option be 
+severed and the rest of this Agreement shall be of full force and effect. 
+b.​ Generally, but without limitation to the foregoing, any portion or portions of such 
+section or portion, may be deleted by Olds College at any time if so doing is required to 
+preserve the enforceability of the remainder of such paragraph, sentence, clause or 
+portion.  
+ 
+47. ​
+The headings used in this Agreement are for convenience only and shall not be used in  
+interpretation.  
+ 
+48.​
+This Agreement shall be interpreted in the manner most beneficial to the interests of  
+Olds College.  
+ 
+49.​
+This Agreement contains the entirety of any representations, warranties or covenants by  
+ 
+or on behalf of Olds College pertaining to the subject matter. 
+ 
+50.​
+The individual sections in this Agreement and its Schedules shall be construed  
+independently and, whether expressly so stated or not, the interpretation of one section shall 
+not limit any of the rights and protections given Olds College under any other section.  
+ 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 37    
+ 
+51. ​
+As regards all of the Contractor’s obligations, time is of the essence.  
+ 
+52. ​
+This Agreement shall be binding upon and ensure to the benefit of Olds College and the  
+Contractor and their respective heirs, executors and permitted assigns. 
+ 
+ 
+IN WITNESS WHEREOF the parties hereto have executed this Agreement effective the date first above 
+written. 
+ 
+ 
+OLDS COLLEGE  
+ 
+Per: _______________________________________ 
+ 
+Address for Notice: 
+4500-50th Street,  
+Olds Alberta, T4H 1R6 
+ 
+ 
+CONTRACTOR: 
+ 
+ Per: ________________________________________ 
+ 
+Address for Notice:  
+ 
+ 
+RFP 197/2027 – Learning Management System (LMS) Platform & Support                 Page | 38    
+ 
+Schedule “A”  
+ 
+Description of Services & Fees 
+ 
+To be completed after the Agreement has been awarded to the successful Proponent, based on the 
+proposed services and goods in their Proposal. 
+ 
+ 

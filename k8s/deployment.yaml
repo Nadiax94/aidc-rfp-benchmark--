@@ -1,0 +1,80 @@
+apiVersion: apps/v1
+kind: Deployment
+
+metadata:
+  name: rfp-dual-serving
+  namespace: team
+  labels:
+    app: rfp-dual-serving
+
+spec:
+  replicas: 1
+  strategy:
+    type: Recreate
+  selector:
+    matchLabels:
+      app: rfp-dual-serving
+
+  template:
+    metadata:
+      labels:
+        app: rfp-dual-serving
+
+    spec:
+      containers:
+        - name: rfp-dual-model-server
+          image: layan0003/rfp-vllm-base:latest
+          imagePullPolicy: Always
+
+          command:
+            - /bin/bash
+            - -c
+
+          args:
+            - |
+              echo "Starting Granite..."
+
+              python3 -m vllm.entrypoints.openai.api_server \
+                --model=drawais/Granite-4.1-8B-AWQ-INT4 \
+                --host=0.0.0.0 \
+                --port=8000 \
+                --gpu-memory-utilization=0.16 \
+                --max-model-len=4096 \
+                --max-num-seqs=64 &
+
+              echo "Waiting for Granite to finish initialization..."
+
+              until curl -s http://localhost:8000/v1/models > /dev/null; do
+                sleep 5
+              done
+
+              echo "Granite ready. Starting Qwen..."
+
+              python3 -m vllm.entrypoints.openai.api_server \
+                --model=cyankiwi/Qwen3.5-4B-AWQ-4bit \
+                --host=0.0.0.0 \
+                --port=8001 \
+                --gpu-memory-utilization=0.16 \
+                --max-model-len=4096 \
+                --max-num-seqs=64 &
+
+              echo "Waiting for Qwen to finish initialization..."
+
+              until curl -s http://localhost:8001/v1/models > /dev/null; do
+                sleep 5
+              done
+
+              echo "Both models are ready."
+
+              wait
+
+          ports:
+            - name: granite
+              containerPort: 8000
+
+            - name: qwen
+              containerPort: 8001
+
+          resources:
+            limits:
+              nvidia.com/gpu: "1"

@@ -1,0 +1,2247 @@
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 1 of 33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+THE UNIVERSITY OF SASKATCHEWAN 
+ 
+REQUEST FOR PROPOSAL 
+ 
+RFP No:    CP-730126 
+ 
+Commodity:    Generative Artificial Intelligence (AI) Software 
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 2 of 33 
+ 
+TABLE OF CONTENTS 
+1.0 
+PROCEDURES AND INSTRUCTIONS .......................................................................................................4 
+1.1 
+PURPOSE ....................................................................................................................................................4 
+1.2 
+DEFINITIONS...............................................................................................................................................4 
+1.3 
+ISSUING OFFICE ........................................................................................................................................4 
+1.4 
+THE UNIVERSITY’S AUTHORIZED REPRESENTATIVES ........................................................................5 
+1.5 
+KEY DATES .................................................................................................................................................5 
+1.6 
+CLOSING DATE AND TIME .........................................................................................................................5 
+1.7 
+SUBMISSIONS AND DELIVERY METHOD .................................................................................................5 
+1.8 
+PROPOSALS ...............................................................................................................................................6 
+1.9 
+INQUIRIES AND CHANGES ........................................................................................................................6 
+1.10 
+TRADE AGREEMENTS ...............................................................................................................................6 
+1.11 
+NON-RESIDENT WITHHOLDING TAX (NRWT) .........................................................................................7 
+1.13 
+PROPONENT PRESENTATIONS ...............................................................................................................7 
+1.14 
+CONFLICT OF INTEREST ...........................................................................................................................7 
+1.15 
+CONFIDENTIALITY .....................................................................................................................................7 
+1.16 
+IRREVOCABLE OFFER ...............................................................................................................................8 
+1.17 
+SELECTION PROCESS AND CRITERIA ....................................................................................................8 
+1.18 
+CONTRACTUAL OBLIGATION ...................................................................................................................9 
+1.19 
+DISPUTE RESOLUTION .............................................................................................................................9 
+1.20 
+RIGHT TO NEGOTIATE ...............................................................................................................................9 
+1.21 
+SUSPENSION OF RFP PROCESS .......................................................................................................... 10 
+2.0 
+GUIDELINES FOR PROPOSAL .............................................................................................................. 11 
+2.1 
+GENERAL OUTLINE ................................................................................................................................. 11 
+2.2 
+SIGNING AUTHORITY ............................................................................................................................. 11 
+2.3 
+SUSTAINABILITY ..................................................................................................................................... 11 
+2.4 
+PRICING STRUCTURE ............................................................................................................................ 12 
+2.5 
+FINANCIAL CAPABILITY .......................................................................................................................... 12 
+3.0 
+CONTRACTUAL PROVISIONS ............................................................................................................... 13 
+3.1 
+PARTIES OF CONTRACT ........................................................................................................................ 13 
+3.2 
+DEFINITIONS............................................................................................................................................ 13 
+3.3 
+PURPOSE ................................................................................................................................................. 13 
+3.4 
+ENTIRE AGREEMENT ............................................................................................................................. 14 
+3.5 
+TERM ........................................................................................................................................................ 14 
+3.6 
+AMENDMENTS ** ..................................................................................................................................... 14 
+3.7 
+CHANGES IN THE SERVICE ................................................................................................................... 14 
+3.8 
+TERMINATION.......................................................................................................................................... 14 
+3.9 
+INDEMNITY ............................................................................................................................................... 15 
+3.10 
+LIABILITY .................................................................................................................................................. 15 
+3.11 
+INSURANCE ............................................................................................................................................. 15 
+3.12 
+PERMITS, LICENSES, NOTICES, LAWS AND RULES ........................................................................... 15 
+3.13 
+CONSULTANT'S PERSONNEL ................................................................................................................ 16 
+3.14 
+INDEPENDENT CONTRACTOR **........................................................................................................... 16 
+3.15 
+SCOPE OF SERVICE ............................................................................................................................... 16 
+3.16 
+ROLES AND RESPONSIBILITIES ............................................................................................................ 16 
+3.17 
+RIGHT TO EXIT......................................................................................................................................... 16 
+3.18 
+SERVICE AND SUPPORT ........................................................................................................................ 16 
+3.19 
+PRICING STRUCTURE ............................................................................................................................ 17 
+3.20 
+PAYMENT TERMS ................................................................................................................................... 17 
+3.21 
+AUDITS ..................................................................................................................................................... 17 
+3.22 
+REPORTS ................................................................................................................................................. 17 
+3.23 
+COPYRIGHT LICENCE/RIGHT TO USE .................................................................................................. 17 
+3.24 
+OPERATIONAL PROBLEM RESOLUTION .............................................................................................. 18 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 3 of 33 
+ 
+3.25 
+ALTERNATE DISPUTE RESOLUTION .................................................................................................... 18 
+3.26 
+UNIVERSITY POLICIES, PROCEDURES AND REGULATIONS ** ......................................................... 18 
+3.27 
+EXTERNAL MARKETING ** ..................................................................................................................... 18 
+3.28 
+NOTICES .................................................................................................................................................. 18 
+3.29 
+CONFIDENTIALITY AND PRIVACY ** ..................................................................................................... 19 
+3.30 
+COUNTERPART EXECUTION ** ............................................................................................................. 19 
+3.31 
+SURVIVAL ** ............................................................................................................................................. 19 
+3.32 
+ASSIGNMENT ** ....................................................................................................................................... 20 
+3.33 
+GOVERNING LAWS ** .............................................................................................................................. 20 
+APPENDIX A: 
+VALIDATION OF PROPOSAL AND ACCEPTANCE OF CONTRACTUAL PROVISIONS ....... 21 
+APPENDIX B: 
+BACKGROUND/ SCOPE OF SERVICE...................................................................................... 22 
+APPENDIX C:   QUESTIONNAIRE ........................................................................................................................ 24 
+APPENDIX D: 
+PRICING STRUCTURE ............................................................................................................... 26 
+APPENDIX E: 
+SOFTWARE AS A SERVICE VENDOR FORM .......................................................................... 28 
+(IF APPLICABLE, THIS FORM CANNOT BE REVISED) ...................................................................................... 28 
+SOFTWARE AS A SERVICE (SAAS) VENDOR FORM ................................................................................................... 28 
+PART I: GENERAL INFORMATION ............................................................................................................................. 28 
+PART II: PRIVACY ................................................................................................................................................... 28 
+PART III: SECURITY AND EVENTS AUDITS ................................................................................................................ 29 
+PART IV: AUTHENTICATION/AUTHORIZATION ........................................................................................................... 30 
+PART V: BUSINESS CONTINUITY AND DISASTER RECOVERY ..................................................................................... 30 
+PART VI: BACKUPS ................................................................................................................................................ 31 
+PART VIII: EXIT ...................................................................................................................................................... 31 
+APPENDIX F: USASK AFFILIATES ...................................................................................................................... 33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 4 of 33 
+ 
+1.0 
+PROCEDURES AND INSTRUCTIONS 
+ 
+1.1 
+PURPOSE 
+ 
+The University of Saskatchewan, as represented by Procurement, is requesting Proposals for the 
+provision and/or installation of Generative Artificial Intelligence (AI) Software (see Appendix B) in 
+accordance with conditions stated herein.  Through this Request for Proposal USask seeks to: 
+ 
+a) Select multiple Proponents to provide all or a portion of supplies and/or services as exemplified in the 
+Bid List (see Appendix B).   
+b) Specify the conditions that would govern any resulting Contract. 
+c) Determine pricing structure. 
+ 
+The term of Contract shall commence on or around September 1, 2025 and shall remain in effect until 
+August 31, 2030, unless otherwise terminated in accordance with the terms outlined herein.  USask 
+reserves the right to extend the Contract for one additional three year and one additional two year 
+extension, for a maximum potential Contract period of ten (10) years, or for subsequent project stages, or 
+re-tender the Generative Artificial Intelligence (AI) Software.   
+ 
+The Proponent may submit a Proposal(s) to USask, not later than four (4) months prior to the expiration 
+date of the Contract, for the optional extensions to the Contract.  
+ 
+1.2 
+DEFINITIONS 
+ 
+Throughout this Request for Proposal, terminology is used as follows and appears in italicized text 
+beginning with a capital letter  
+ 
+a) Affiliates – USask specialized units, centres of excellence, global institutes, subsidiaries, and related 
+entities listed in Appendix F. 
+b) AI – Artificial Intelligence  
+c) Service Provider – The successful Proponent with whom USask may enter into a Contract. 
+d) Contract – The agreement resulting from this RFP process. 
+e) Owner or USask or University – The University of Saskatchewan, as represented by Procurement. 
+f) 
+Project Manager – The Proponent’s representative responsible for the delivery of the Service. 
+g) Proponent – Each company receiving this Request for Proposal. 
+h) Request for Proposal or RFP – Request for Proposal No. CP-730126 including all attached and 
+referenced documents and subsequent addenda. 
+i) 
+Site Representative  – The University’s representative responsible for liaising with the Service 
+Provider . 
+j) 
+Subcontractor/Subconsultant – Any firm/individual that the Service Provider may contract with to 
+perform a portion or all of the Service. 
+k) Service – The provision of Generative Artificial Intelligence (AI) Software.    
+l) 
+Proposal – Documents submitted by Proponents in response to this RFP. 
+m) Portal - USask’s public procurement portal at https://usask.bonfirehub.ca 
+ 
+1.3 
+ISSUING OFFICE 
+ 
+Procurement 
+ 
+University of Saskatchewan 
+ 
+110 Maintenance Rd,   
+  
+Saskatoon, SK S7N 5C5 
+Attention: 
+Dennis Orellana  
+Procurement Services Lead  
+ 
+Communicating of All RFP Documents and Addenda, USask will use the Bonfire Hub website 
+(https://usask.bonfirehub.ca) for the following activities: 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 5 of 33 
+ 
+ 
+To post the RFP 
+ 
+To receive any questions or inquires 
+ 
+To issue any associated addenda 
+ 
+To post award notice (including value of award) 
+To contact USask or ask questions in relation to this RFP, Proponents must register with USask’s public 
+procurement portal at https://usask.bonfirehub.ca (the “Portal”) and initiate the communication 
+electronically through the Opportunity Q&A. USask will not accept any Proponent’s communications by 
+any other means, except as specifically stated in this RFP.  
+ 
+1.4 
+THE UNIVERSITY’S AUTHORIZED REPRESENTATIVES 
+ 
+The only persons who are or shall be authorized to speak or act for USask with respect to this RFP, are 
+those whose positions or names have been specifically designated in Section 1.3 – Issuing Office.  
+Throughout this RFP process, Proponents may not contact USask departments or end users 
+unless directed by persons designated in Section 1.3 – Issuing Office. 
+ 
+1.5 
+KEY DATES 
+ 
+The following schedule of key dates is provided only as a guide to Proponents and may not be strictly 
+adhered to.  The one exception is Section 1.5 d - Proposals due date, which will only be changed by 
+written addendum. 
+ 
+a) 
+Issuance of RFP 
+July 11, 2025 
+b) 
+Written inquiries up to 
+July 25, 2025
+c) 
+Response to inquiries/notification of errors and/or omission 
+August 1, 2025
+d) 
+Proposals due
+August 12, 2025
+e) 
+Evaluation and clarification of Proposals; Proponents shortlisted 
+~August 2025
+f) 
+Acceptance of successful Proposal (if any)* 
+~September 2025
+g) 
+Commencement date of Contract/Issue date of Purchase Order 
+~September/October 2025
+ 
+*indicates optional items for the Key Dates. 
+ 
+1.6 
+CLOSING DATE AND TIME 
+ 
+Your submission must be uploaded, submitted, and finalized prior to the Closing Time indicted in 
+the Portal. We strongly recommend that you give yourself sufficient time and at least ONE (1) day 
+before Closing Time to begin the uploading process and to finalize your submission.  
+ 
+USask does not assume any responsibility for delayed or rejected Proposals.  Proponents acknowledge 
+that all risks associated with Proposals are their sole responsibility, and that late Proposals, regardless of 
+the reason, will be rejected.   
+ 
+In the event that one (1) or more files cannot be opened (e.g., are corrupted), the Proponent will not have 
+an opportunity to resend such files after closing.   
+ 
+1.7 
+SUBMISSIONS AND DELIVERY METHOD  
+ 
+Proposals must be submitted through the online Bonfire Portal at: https://usask.bonfirehub.ca 
+Submissions by other methods will not be accepted. Internet Explorer 11, Microsoft Edge, Google 
+Chrome, or Mozilla Firefox. JavaScript must be enabled. 
+ 
+Browser cookies must be enabled. Respondents should contact Bonfire at Support@GoBonfire.com for 
+technical questions related to submissions or visit Bonfire’s help forum 
+https://bonfirehub.zendesk.com/hc. 
+ 
+Submission materials should be prepared in the file formats listed under Requested Information 
+for this opportunity in the Bonfire Portal. The maximum upload file size is 1000 MB. Documents 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 6 of 33 
+ 
+should not be embedded within uploaded files, as the embedded files will not be accessible or evaluated.  
+ 
+1.8 
+PROPOSALS 
+ 
+This RFP states the instructions for submitting Proposals, and the procedures and criteria by which 
+Proponents will be selected.  No local customs or trade practices are adopted unless explicitly referenced 
+hereunder.  Where discretion in the process and criteria set out hereby exists, no restrictions shall be 
+implied as to the exercise of such discretion.  
+ 
+This Request for Proposal including all attached or referenced documents and subsequent addenda are 
+for the sole purpose of preparing a Proposal response.  Due to the vagaries of electronic transmissions, 
+USask cannot guarantee the accuracy of the files received.  In the event of a conflict in content, the 
+original documents held by Procurement – USask shall govern.  Proponents must not alter any portion of 
+these documents except by adding any requested information.  The University of Saskatchewan accepts 
+no responsibility for damages that may be caused by these files and shall not be liable for any loss of 
+profits, loss of use, interruptions of business, or for direct, indirect, special, incidental, or consequential 
+damages of any kind as a result of the use of these electronic files. 
+ 
+Proponent's costs to develop the Proposal, the costs for investigative work performed prior to the 
+execution of any contract, and costs for any presentations, and/or equipment demonstrations are entirely 
+the obligation of the Proponent and shall not be charged in any part to USask. 
+ 
+The Proponent's Proposal and all supporting information become the property of USask.  All such 
+documentation may be reproduced by USask, provided that such reproduction is made solely for review 
+by evaluators including any third-party evaluation, internal use or for any purpose required by law. 
+ 
+1.9 
+INQUIRIES AND CHANGES 
+ 
+It is the responsibility of each Proponent to inquire about any requirements of this RFP that needs 
+clarification. To contact USask or ask questions in relation to this RFP, Proponents must register with the 
+USask’s public procurement portal at https://usask.bonfirehub.ca (the “Portal”) and initiate the 
+communication electronically through the Opportunity Q&A. USask will not accept any Proponents 
+communications by any other means, except as specifically stated in this RFP. 
+ 
+USask shall not be bound and the Proponents agree not to rely upon any written or verbal statements or 
+representations of any other persons, whether employed by USask or not, in the preparation and 
+submission of their Proposals.  This RFP, and any subsequent modifications thereto, is designated as the 
+sole reference for the preparation of Proposals and takes precedence over any and all information 
+obtained from any source, either verbal or written.  All addenda will be issued, posted to 
+https://usask.bonfirehub.ca, and shall be incorporated into and become part of this RFP. 
+ 
+Amendments to Proposals will be accepted if received prior to the RFP closing date and time (see 
+Section 1.6 – Closing Date and Time).  Amendments received after the RFP closing date and time will not 
+be considered except as may be allowed by USask pursuant to Section 1.17 – Selection Process and 
+Criteria.  Proposals may be withdrawn upon written request from the Proponent prior to the closing date 
+and time only.   
+ 
+To maintain confidentiality of Proposals, amendments to pricing structure should indicate only the 
+incremental difference and not the revised total. 
+ 
+1.10 
+TRADE AGREEMENTS  
+ 
+This RFP is subject to the rules and guidelines set out in the  New West Partnership Agreement (see 
+website:  http://www.newwestpartnershiptrade.ca/the_agreement.asp) , the Canadian Free Trade 
+Agreement  (see website:  https://www.cfta-alec.ca), and the Canada-European Union Comprehensive 
+Economic and Trade Agreement (see website:  http://www.international.gc.ca/trade-commerce/trade-
+agreements-accords-commerciaux/agr-acc/ceta-aecg/index.aspx?lang=eng). 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 7 of 33 
+ 
+ 
+1.11 
+NON-RESIDENT WITHHOLDING TAX (NRWT)  
+ 
+The acquisition of the services outlined in this RFP may be subject to Non-Resident Withholding Tax (see 
+website: http://www.cra-arc.gc.ca/tx/nnrsdnts/cmmn/rndr/menu-eng.html) 
+ 
+1.12 
+SASKATCHEWAN ADVANCED EDUCATION COLLABORATIVE (SAEC) 
+University of Saskatchewan is a member of the Saskatchewan Advanced Education Collaborative 
+(SAEC).  The SAEC is comprised of the University of Regina, University of Saskatchewan, and 
+Saskatchewan Polytechnic.  As a member of the SAEC, each identified organization makes its 
+competitively sourced contracts available for the use of the other members on a completely voluntary 
+basis, if deemed advantageous to do so. Proponents to this RFP acknowledge that Proposals will be 
+honored for any goods or services provided to SAEC members in accordance with this RFP.  Any 
+additional benefits as a result of increased usage or scope must also apply to other SAEC members in 
+accordance with this RFP and resulting Contract(s). The Proponent agrees and acknowledges that 
+information from their Proposal and any resulting Contract(s) may be shared with other members of the 
+SAEC. 
+1.13 
+PROPONENT PRESENTATIONS  
+ 
+Proponents may be contacted after the RFP closing to arrange for presentations to clarify Proposals, 
+product demonstrations and/or an inspection of their operations.  This may or may not be requested. 
+ 
+Proponent’s costs for any presentations are entirely the obligation of the Proponent and shall not be 
+charged in any part to USask. 
+ 
+1.14 
+CONFLICT OF INTEREST 
+ 
+Proponents must identify any potential conflicts of interest that may arise as a result of their response to 
+this RFP and/or subsequent award of Contract.  Non-disclosure of any potential conflicts of interest may 
+be sufficient cause to disqualify the Proposal or terminate any subsequent Contract. 
+ 
+1.15 
+CONFIDENTIALITY 
+ 
+The Proponent acknowledges that USask is a Local Authority within the meaning of The Local Authority 
+Freedom of Information and Protection of Privacy Act (the “Act”).  The Proponent may review the Act 
+(which may be obtained at www.qp.gov.sk.ca) and shall assume responsibility for marking documents 
+which the Proponent wishes to remain confidential under the Act.  The Proponent shall clearly mark 
+“Confidential” on all information regarding the items and conditions, financial and/or technical aspects of 
+the Proponent’s Proposal response, which in the Proponent’s opinion are of a proprietary or confidential 
+nature at the relevant item or page.  USask shall use reasonable efforts to hold all information marked 
+“Confidential” by the Proponent in strict confidence but shall not be liable for any inadvertent disclosure or 
+disclosure by law.  Similarly, information about USask obtained by a Proponent and declared by USask 
+representatives to be confidential must not be disclosed unless authorized by USask.  Upon request, 
+USask will provide its standard form non-disclosure agreement to assist in maintaining Proponent’s 
+confidential information. 
+ 
+It is agreed that these reciprocal obligations of non-disclosure will survive the termination of any contract 
+that might arise between the parties. 
+ 
+This RFP and all drawings, designs, specifications and other data appended or related to it, are the 
+property of the University of Saskatchewan and are supplied only for the purpose of enabling each 
+Proponent to prepare and submit a Proposal in response thereto.  The information contained, referenced 
+or appended to the RFP, is not to be disclosed or released for any other use or purpose and must be 
+returned to USask when requested. 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 8 of 33 
+ 
+ 
+1.16 
+IRREVOCABLE OFFER  
+ 
+Proposals shall constitute valid and irrevocable offers which are open for acceptance by USask for a 
+period of sixty (120) days following the closing date and time specified in Section 1.6 – Closing Date and 
+Time.   
+ 
+USask reserves the right to accept the Proposal which it deems most advantageous and the right to reject 
+any or all Proposals, in whole or in part, whether the prices offered be the lowest or not.  Further, USask 
+in its sole discretion, may accept or reject any Proposal which in the opinion of USask is incomplete, 
+obscure, irregular, contains exceptions or counter offers or, which is non-compliant with the terms of the 
+RFP.  USask is under no obligation to award a Contract and reserves the right to terminate the Proposal 
+process at any time, and to withdraw from discussions with any or all of the Proponents who have 
+responded. 
+ 
+1.17 
+SELECTION PROCESS AND CRITERIA 
+ 
+It is the intent of USask to select the most effective Proposal(s) that meet the requirements and provides 
+the best overall value to the University.  USask may or may not, conduct discussions, request further 
+information or clarifications, either in succession or concurrently, with selected Proponents on the content 
+of their Proposal(s) without becoming obligated to clarify or seek further information from any or all other 
+Proponents.   
+ 
+USask may collect information about the services being proposed from other sources, in addition to 
+Proponents’ responses to the RFP.  Information gathering may include visits to, or communications with, 
+other universities or organizations, where similar services have been provided.  References supplied by 
+the Proponent may also be checked. 
+ 
+At its discretion, USask may engage the services of a third-party technical consultant to review, evaluate 
+and recommend the Proposal, which best addresses the requirements of this RFP.  USask will not be 
+limited as to its criteria for evaluation of Proposals. 
+ 
+Proposals shall be evaluated based on the following criteria: 
+ 
+ 
+Point Weighting 
+ 
+a) TECHNICAL & AI PLATFORM SERVICES 
+30 
+ 
+AI Chat and Data Analysis Services 
+ 
+Compliance with Intellectual Property and Privacy Regulations 
+ 
+Infrastructure Protection 
+ 
+Security and Data Protection Requirements 
+ 
+Compatibility with USask’s digital infrastructure 
+ 
+Ability to support desired agreement options and user management strategies 
+ 
+b) OPTIONAL SERVICES 
+5 
+ 
+AI Model Customization and Integration 
+ 
+AI Enabling Infrastructure 
+ 
+c) PROFESSIONAL SERVICES 
+5 
+ 
+AI Consulting and Support Services 
+ 
+d) PROPONENT QUALIFICATIONS 
+10 
+ 
+Demonstrated corporate structure and ownership 
+ 
+Willingness to accommodate USask requirements & acceptance of preferred contractual 
+provisions. 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 9 of 33 
+ 
+ 
+Demonstrated ability to work in a large university environment or an organization of similar 
+complexity. 
+ 
+Relevant experience, competence, and reliability in handling similar projects. 
+ 
+e) SUPPORT & MANAGEMENT 
+10 
+ 
+Ability to provide a dedicated support representative 
+ 
+Upgradable and have a regular schedule for updates 
+ 
+Scalable to meet its expanding operational needs 
+ 
+Service Level Agreement meets USask requirements.  
+ 
+f) 
+COST  
+30 
+ 
+Cost of the Services 
+ 
+Transparent and/or fixed pricing structure (with reasonable and supported exceptions) 
+ 
+g) UNIVERSITY BENEFIT & SUSTAINABILITY                                             
+  5 
+ 
+Value added benefits. 
+ 
+h) INDIGENOUS PARTICIPATION                                                                                                   
+     5 
+ 
+Indigenous Ownership. 
+ 
+Indigenous persons training and development, including scholarships or skills training. 
+ 
+ 
+TOTAL OF 100 Points 
+ 
+ 
+1.18 
+CONTRACTUAL OBLIGATION 
+ 
+USask has outlined both mandatory and preferred contractual provisions (see Section 3.0 – Contractual 
+Provisions and Appendix B – Validation of Proposal and Acceptance of Contractual Provisions) that will 
+govern the selection of a Proponent(s) and any subsequent Contract issued.  These contractual terms 
+will be incorporated into any Contract between the successful Proponent(s) and USask.  
+Mandatory contractual provisions cannot be modified in the Proponent's Proposal and shall be deemed to 
+be specifically incorporated by reference in any Proposal submitted by the Proponent(s).  Preferred 
+contractual provisions are desirable to USask but may be modified upon request.  A Proponent may reject 
+or make changes to the preferred contractual provisions by explicitly stating so in their Proposal.  The 
+change will be considered in the selection process.  Preferred contractual provisions not explicitly 
+rejected or amended by a Proponent, shall be incorporated by reference in any submitted Proposal 
+without further opportunity to comment or amend by the Proponent.   
+ 
+UNLESS A PROPONENT EXPRESSLY AND SPECIFICALLY PROVIDES OTHERWISE IN THEIR 
+WRITTEN SUBMISSION, THE PROPOSAL SHALL AUTOMATICALLY BE DEEMED TO INCLUDE THE 
+PROPONENT’S AGREEMENT TO THE PREFERRED CONTRACTUAL PROVISIONS OF THIS RFP.  IF 
+A PROPONENT CANNOT ACCEPT ANY OF THESE PROVISIONS, THE PROPONENT MUST SET 
+OUT THE OBJECTION IN THEIR PROPOSAL.  FAILING WHICH, ALL PREFERRED CONTRACTUAL 
+PROVISIONS SHALL BE INCORPORATED BY REFERENCE IN THE CONTRACT. 
+ 
+1.19 
+DISPUTE RESOLUTION 
+ 
+If required, the Proponent shall have access to appropriate dispute resolution processes.  The Proponent 
+may request a copy of the dispute resolution process options from Procurement.  The dispute resolution 
+process will not delay Contract award. 
+ 
+1.20 
+RIGHT TO NEGOTIATE 
+ 
+Should USask in its sole discretion, not receive any Proposal satisfactory to USask, USask reserves the 
+right to negotiate a contract for all or part of the Service with any one (1) or more of the Proponents 
+without becoming obligated to offer to negotiate with all Proponents. 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 10 of 33 
+ 
+ 
+1.21 
+SUSPENSION OF RFP PROCESS 
+ 
+In the event USask discovers new relevant information regarding the requirements of the Service or the 
+Request for Proposal or that Proponents have received unequal access to relevant information, USask 
+reserves the right in its sole discretion, to suspend the RFP process, either before or after Proposals have 
+been received, issue new information in writing to all Proponents and then continue the RFP process. 
+ 
+In the event USask chooses to suspend the RFP process, those Proponents who have submitted bids will 
+be provided with new information and allowed an additional five (5) days to change their Proposals should 
+they choose to do so, or to withdraw altogether.  Thereafter, USask will continue the RFP process with 
+the remaining Proponents, with all other requirements of the RFP applying as if the RFP process had not 
+been suspended. 
+ 
+ 
+END OF SECTION 1.0 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 11 of 33 
+ 
+2.0 
+GUIDELINES FOR PROPOSAL 
+ 
+In order to receive a uniform format of responses from all Proponents, the following guidelines for formatting the 
+Proposal have been outlined.   
+ 
+2.1 
+GENERAL OUTLINE  
+ 
+a) A table of contents of all presented material. 
+b) An outline of your corporate structure and ownership, complete with a list of the names of all the 
+owners of the company and/or officers of the corporation, and a company organizational chart. 
+c) A complete description of the duration and extent of your company's experience, competence and 
+reliability in handling similar projects. 
+d) A list of proposed personnel, corresponding job function, title, qualifications and experience required 
+to facilitate any subsequent Contract. 
+e) A clear indication of services that will be provided.  
+f) 
+The pricing structure, in Canadian dollars (see Section 2.4 – Pricing structure), for all proposed 
+equipment and/or services. 
+g) A sample of Proponent’s service/maintenance agreement. 
+h) Submission of relevant references.  Provide a minimum of three (3) references for similar services, to 
+include:  company name, contact name, title, telephone number and email address if available. 
+i) 
+A summary of sustainability initiatives (see Section 2.3 – Sustainability). 
+j) 
+A summary of any value added benefits or in-kind contributions, any opportunities for recognition, 
+must be approved under University Policy #5.07 see website:  
+https://policies.usask.ca/policies/advancement/gift-in-kind-identification-and-
+appraisal.php#AuthorizationandApproval  Discounts, “in-kind” contributions, value added benefits or 
+incentives in the form of laboratory consumables and/or chemicals cannot be considered as the 
+University has contracts in place for these commodities. 
+k) A clear indication of services that will be brokered to third parties, including usage of any USask in-
+house services. 
+l) 
+Completed Validation of Proposal and Acceptance of Contractual Provisions (see Appendix A).  
+Proposals shall automatically be deemed to include Proponent’s agreement to the preferred 
+Contractual Provisions which shall be incorporated by reference in the Contract, unless 
+expressly and specifically indicated otherwise. 
+m) Completed pricing structure in electronic format (Appendix D – Pricing Structure). 
+n) Completed HECVAT or Software As A Service Form (Appendix E – Software as a Service Vendor 
+Form) 
+o) Disclosure of any and all judgments, pending or expected litigation, or other real or potential reversals 
+which might materially affect the viability or stability of the Proponent’s organization; or warrant that 
+no such condition is known to exist. 
+ 
+2.2 
+SIGNING AUTHORITY 
+ 
+Proposals must be dated and signed in the firm or corporate name and must bear the signature of an 
+officer or agent duly authorized to execute contracts for the Proponent.  The Proponent’s name must be 
+fully stated.  Where Proposals are signed by an agent of the Proponent, evidence of authority to act as 
+the Proponent’s agent shall accompany the Proposal. 
+ 
+Joint Proposals must be dated and signed in the firm or corporate name of the primary Proponent and 
+must bear the signature of a principal duly authorized to execute contracts for the primary Proponent.  
+The primary Proponent will be responsible for all the duties and obligations of the RFP process and the 
+execution of any subsequent Contract. 
+ 
+2.3 
+SUSTAINABILITY 
+ 
+USask is committed to support principles of sustainability in procurement decisions, wherever practical.  
+This includes consideration of environmental, social, ethical and economic impacts. 
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 12 of 33 
+ 
+Proposals should include a description of any corporate sustainability policy and sustainability initiatives 
+currently in place, in process of being implemented or in the planning stages.  Sustainability initiatives 
+include both general initiatives within your organization and proposed initiatives specific to this 
+procurement. 
+ 
+2.4 
+PRICING STRUCTURE 
+ 
+Pricing structure must be shown in Canadian dollars, Goods and Services Tax (GST) and Provincial 
+Sales Tax (PST) excluded. Pricing structure quoted should be DDP Incoterms 2010 USask. 
+ 
+Costs should be inclusive of all relevant elements including, but not limited to the following: 
+ 
+ 
+Pricing structure in Canadian funds. 
+ 
+Taxes, shown separately if applicable. 
+ 
+Duty, if applicable. 
+ 
+Pricing formula(e). 
+ 
+D.D.P. Incoterms 2010 terms. 
+ 
+Installation charges. 
+ 
+Maintenance fees. 
+ 
+Upgrades. 
+ 
+Training. 
+ 
+Value added benefits. 
+ 
+2.5 
+FINANCIAL CAPABILITY 
+ 
+USask requires assurance that financial limitations do not exist that may cause failure to meet delivery 
+and installation schedules or withdrawal of the company from the marketplace.  USask reserves the right 
+to request additional information and/or clarification regarding all financial information submitted. 
+ 
+END OF SECTION 2.0 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 13 of 33 
+ 
+3.0 
+CONTRACTUAL PROVISIONS 
+ 
+The following conditions will substantially form the Contract that shall result from this RFP process.  
+Mandatory Contractual Provisions are indicated by double asterisks (**) and cannot be modified.  
+Preferred Contractual Provisions are desirable to USask but are negotiable. 
+ 
+3.1 
+PARTIES OF CONTRACT     
+ 
+This Contract, 
+ 
+BETWEEN:  
+The University of Saskatchewan, a body corporate incorporated 
+by Act of the Legislature of the Province of Saskatchewan, located in the 
+City of Saskatoon, in the Province of Saskatchewan. 
+(Hereinafter referred to as “USask” or “University”) 
+ 
+ 
+AND: 
+ 
+  
+ 
+ 
+ 
+ 
+3.2 
+DEFINITIONS    
+ 
+ 
+Throughout this Contract, terminology is used as follows and appears in italicized text beginning 
+with a capital letter: 
+ 
+a) Affiliates – USask specialized units, centres of excellence, global institutes, subsidiaries, and 
+related entities listed in Appendix F. 
+b) AI – Artificial Intelligence 
+c) Service Provider – The successful Proponent. 
+d) Contract – The agreement resulting from this RFP process. 
+e) Owner or USask or University – The University of Saskatchewan, as represented by 
+Procurement. 
+f) 
+Project/Construction Manager – The Proponent’s representative responsible for the 
+delivery of the Service. 
+g) Proposal – Documents submitted by Proponents in response to this RFP. 
+h) Request for Proposal or RFP – Request for Proposal No. CP-730126 including all attached 
+and referenced documents and subsequent addenda. 
+i) 
+SAEC – Saskatchewan Advanced Education Collaborative, comprised of the University of 
+Regina, University of Saskatchewan, and Saskatchewan Polytechnic 
+j) 
+Site Representative  or Coordinator – The University’s representative responsible for 
+liaising with the Service Provider . 
+k) Subcontractor/Subconsultant – Any firm/individual that the Service Provider  may contract 
+with to perform a portion or all of the Service. 
+l) 
+Service – The provision of Generative Artificial Intelligence (AI) Software.     
+ 
+3.3 
+PURPOSE  
+ 
+The purpose of this Contract, as further described herein, shall be for the provision and/or 
+installation of Generative Artificial Intelligence (AI) Software to USask, as requested in RFP No. 
+CP-730126, and as presented in the Service Provider ’s Proposal dated Month/Day/Year (and all 
+documents that affect this Contract).  This Contract is not a guarantee for the purchase of any 
+specific product in any quantity, nor a guarantee of the annual dollar expenditure of this Contract.  
+Any estimation of annual expenditure made by USask is provided without any assurance as to its 
+accuracy and the Service Provider specifically agrees that it may not rely upon such estimation in 
+designing its Proposal and waives any legal claim it may make in this regard. 
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 14 of 33 
+ 
+3.4 
+ENTIRE AGREEMENT  
+ 
+The Contract documents represent the entire agreement between the parties regarding the 
+subject matter herein and supercede all prior oral and written negotiations, representations or 
+agreements.  The Contract documents may not be amended except as may be allowed pursuant 
+to Section 3.6 - Amendments.  The Contract documents, in order of priority, consist of Contract 
+#CP-730126, the Proposal and RFP #CP-730126. 
+ 
+3.5 
+TERM  
+ 
+The term of Contract shall commence on or around MONTH/DAY/YEAR and shall remain in 
+effect until MONTH/DAY/YEAR, unless otherwise terminated in accordance with the terms 
+outlined herein.  USask reserves the right to extend the Contract for one additional three-year and 
+one additional two-year extension, for a maximum potential Contract period of ten (10) years, or 
+for subsequent project stages, or re-tender the Generative Artificial Intelligence (AI) Software.   
+ 
+3.6 
+AMENDMENTS **  
+ 
+Except as may be allowed pursuant to Section 3.7 Changes in the Service, all changes to this 
+Contract shall be mutually agreed to by the Site Representative  and the Service Provider , and 
+approved by USask.  No amendment of this Contract process shall be effective unless it is 
+produced in writing and executed by designated USask signing authorities, and signed by the 
+Service Provider authorized representative. 
+ 
+3.7 
+CHANGES IN THE SERVICE 
+ 
+USask may make changes to the Service without invalidating this Contract.  Changes to the 
+scope of Service shall be requested by written change order or change directive from USask.  
+The Service Provider  shall not perform any changes to the Service without an approved written 
+change order or change directive from USask. 
+ 
+When a change in the Service is proposed or required, the Site Representative  shall advise the 
+Service Provider of the change and request a written quotation adjusting the Contract price 
+and/or Service/Work schedule.  The Site Representative  will review the Service Provider ’s 
+change quotation and either issue an approved change order to the Service Provider , not 
+proceed with the proposed change or request clarification on the Service Provider ’s proposed 
+adjustment to the Contract price or Service schedule. 
+ 
+If USask requires the Service Provider to proceed with a change to the Service before agreement 
+on an adjustment to the Contract price or Service schedule between the parties has been 
+reached, the Site Representative shall issue a written change directive to the Service Provider .  
+Upon receipt of a written change directive, the Service Provider  shall promptly proceed with the 
+change in the Service.  Adjustments to the Contract price resulting from the issuance of a change 
+directive shall be determined based on the actual cost of expenditures and/or savings to perform 
+the Service.  The Service Provider  shall be required to document such expenditures or savings 
+to the satisfaction of the Site Representative.  
+ 
+3.8 
+TERMINATION  
+ 
+.1 
+This Contract may be terminated upon thirty (30) written notice for reason of:  
+ 
+a) 
+Non-conformance to the conditions of this Contract by one party, other than the 
+party seeking termination, or 
+b) 
+Failure of the parties to negotiate mutually acceptable adjustment of pricing/fee 
+structure if optional Contract extension is exercised, or 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 15 of 33 
+ 
+c) 
+Failure of the parties to agree on pricing and scope of work for subsequent stages 
+of the project, or 
+d) 
+Insolvency, declaration of bankruptcy or commitment of an act of bankruptcy by 
+either party, or 
+e) 
+Any non-disclosed conflicts of interest. 
+ 
+.2 
+This Contract may be terminated immediately for reason of: 
+ 
+a) 
+Mutually written agreement by both parties. 
+b) 
+Exercise of the right to exit pursuant to Section 3.17 – Right to Exit. 
+ 
+3.9 
+INDEMNITY  
+ 
+The Service Provider shall indemnify and hold harmless USask from and against all damages, 
+costs, charges or expenses suffered by USask as a result of any negligent act, omission or 
+wrongful act, including contractual breaches, of the Service Provider , the Service Provider ’s 
+employees or the Service Provider ’s Subcontractors, Subconsultants or agents.  Without 
+limitation, the Service Provider agrees to indemnify and hold harmless USask, its officers, 
+employees and agents from all claims, demands, losses, costs, damages, actions, suits, or 
+proceedings (including solicitor and USask costs of defence) initiated by third parties which arise, 
+result or are derived, directly or indirectly, from any negligent act, omission or wrongful act, 
+including contractual breaches, of the Service Provider, the Service Provider ’s employees or the 
+Service Provider ’s Subcontractors, Subconsultants or agents.     
+ 
+3.10 
+LIABILITY  
+ 
+Notwithstanding anything in this Contract, the Service Provider shall be liable to USask for all 
+losses, damages, costs and expenses of whatever nature or kind USask may suffer, sustain, pay 
+or incur as a result of a breach of this Contract by the Service Provider or as a result of the 
+negligence or willful misconduct of the Service Provider .     
+ 
+3.11 
+INSURANCE  
+ 
+The Service Provider shall meet the insurance requirements as set forth below and which shall be 
+valid for the duration of the Contract.  The Service Provider shall provide certificates of insurance, 
+duly signed by an authorized representative of the insurer, as evidence of coverage, upon 
+request. 
+ 
+.1 
+Commercial General Liability Insurance:  With a limit of not less than FIVE MILLION 
+CANADIAN DOLLARS ($5,000,000.00 CAD) inclusive per occurrence for bodily injury 
+(including death) and damage to property including loss of use thereof.  Such insurance 
+shall include coverage for broad form property damage, contractual liability, completed 
+operations, product liability and non-owned automobiles.  Such insurance shall also 
+include USask as an additional insured and shall contain a cross liability clause.     
+ 
+2.  
+Cybersecurity Liability Insurance: With a limit of not less than FIVE MILLION CANADIAN 
+DOLLARS ($5,000,000.00 CAD) inclusive per occurrence for cybercrime hacking, 
+viruses, worms, denial of service attacks, data breach and ransomware liability 
+insurance. 
+ 
+3.12 
+PERMITS, LICENSES, NOTICES, LAWS AND RULES  
+ 
+The Service Provider shall obtain and cover the costs for all permits, licenses and certificates of 
+inspection necessary for the execution of the Service, including liability for all applicable taxes; 
+shall give notices and comply with all laws, ordinances, codes, rules and regulations bearing on 
+the conduct of the Service; and shall pay all fees required by law. 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 16 of 33 
+ 
+ 
+The Service Provider is solely responsible for remittance of all required applications, reports, 
+payments and contributions required of an independent contractor, whether in respect of income 
+tax, Canada Pension Plan, Employment Insurance, Workers Compensation, Goods and Services 
+tax, any applicable liability insurance, or otherwise.  The Service Provider represents that, if the 
+services provided to the University under this Agreement are assessable by the Saskatchewan 
+Workers' Compensation Board (WCB), if required by WCB, the Service Provider is, or shall be, 
+registered with WCB and will pay all applicable WCB premiums and assessments.  The Service 
+Provider hereby indemnifies and holds the University harmless for any liability of the University 
+which may arise in connection with the said obligations of the Service Provider or anyone 
+retained by the Service Provider.     
+ 
+All product shall comply with all applicable provincial and federal regulations. 
+ 
+3.13 
+CONSULTANT'S PERSONNEL  
+ 
+The Service Provider shall assign a Project Manager who will be readily available to assist in 
+problem resolution and contract administration.  This individual should also be prepared to call on 
+the Department on a regular basis to market the contracted products and services.  The Service 
+Provider shall have a designated contact person for inside sales to handle daily inquiries, as well 
+as a designated contact person for accounts receivable.    
+ 
+The Service Provider shall advise USask regarding change in company ownership, Contract 
+related personnel or financial status.  USask reserves the right to meet with the Service Provider 
+to discuss how these changes may affect the performance and conditions of this Contract.  In the 
+event that the changes made by the Service Provider negatively affect the performance and/or 
+conditions of this Contract, USask may terminate the Service Provider ’s Contract (see Section 
+3.8 - Termination) and appoint another Service Provider . 
+ 
+3.14 
+INDEPENDENT CONTRACTOR **  
+ 
+All of the Service Provider ’s employees providing services to USask under this Contract, shall be 
+deemed employees solely of the Service Provider ’s and shall not be deemed for any purposes 
+whatsoever employees or agents of, acting for, or on behalf of USask.  The Service Provider shall 
+perform all services as an independent contractor and shall discharge all its liabilities as such.  
+No acts performed, or representations, whether oral or written, made by the Service Provider with 
+respect to third parties, shall be binding on USask. 
+ 
+3.15 
+SCOPE OF SERVICE  
+ 
+To be negotiated on the basis of the Service Provider ’s Proposal. 
+ 
+3.16 
+ROLES AND RESPONSIBILITIES  
+ 
+To be negotiated on the basis of the Service Provider ’s Proposal. 
+ 
+3.17 
+RIGHT TO EXIT  
+ 
+USask reserves the right, at its sole discretion, to exit this Contract for any reason it so chooses.  
+Should USask exercise its right to exit, USask will pay to the Service Provider  all fees and 
+disbursements for services rendered and incurred expenses up to the date of termination. 
+ 
+3.18 
+SERVICE AND SUPPORT  
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 17 of 33 
+ 
+Any subsequent service agreements addressing the work and/or products of this Contract shall 
+include liability and indemnification conditions that are no more limiting than the conditions of this 
+Contract. 
+ 
+3.19 
+PRICING STRUCTURE  
+ 
+To be negotiated on the basis of the Service Provider ’s Proposal.  Pricing structure is exclusive 
+of Goods and Services Tax (GST) and Provincial Sales Tax (PST). 
+ 
+Pricing structure should be firm for five (5) Year(s) of this Contract.  The Service Provider must be 
+prepared to provide a complete pricing structure schedule to all departments and/or participating 
+universities and affiliates per Appendix F – USask Affiliates and SAEC. 
+ 
+a) Adjustments increasing pricing structure shall be permitted in accordance with substantiated 
+changes in the Service Provider ’s costs.  Increases in pricing structure shall be not greater 
+than the rise in the Consumer Price Index (CPI).  Adjustments decreasing pricing structure 
+should be applied throughout the term of this Contract. 
+ 
+The Service Provider shall notify USask in writing of any proposed pricing structure changes for 
+Contract  services, no less than thirty (30) days prior to planned implementation of pricing 
+structure changes.  
+ 
+3.20 
+PAYMENT TERMS  
+ 
+To be negotiated on the basis of the Service Provider ’s Proposal.   
+ 
+Unless otherwise stated all monies payable by the purchaser shall be in Canadian funds.  Unless 
+otherwise stated and provided all terms and conditions have been met, invoice payment shall be 
+Net thirty (30) days from receipt of the invoice or after receipt of the goods, whichever is later. 
+ 
+3.21 
+AUDITS      
+ 
+The Service Provider shall comply with any requests from the University to audit the costs and/or 
+other pertinent records of the Service Provider, upon the premises of the Service Provider.  This 
+is optional and may or may not be requested. 
+ 
+3.22 
+REPORTS    
+ 
+To be negotiated on the basis of the Service Provider ’s Proposal.  The Service Provider shall 
+maintain a record of usage and expenditures for items supplied under this Contract to USask.  
+Such a report shall be supplied to USask within thirty (30) days from the date of the request of 
+USask and normally about one hundred and twenty (120) days prior to the expiration of this 
+Contract. 
+ 
+3.23 
+COPYRIGHT LICENCE/RIGHT TO USE  
+ 
+The Service Provider, at its own expense, will defend any suit which may be brought against 
+USask, its Board of Governors, students, employees, servants and/or agents for the infringement 
+of any copyrights, patents or trade secrets by equipment, software, publications, intellectual or 
+creative properties furnished pursuant to the Proposal.  USask shall give the Service Provider 
+prompt written notice of such suit and full right and opportunity to conduct the defence thereof, 
+together with full information and all reasonable cooperation.  If in the Service Provider ’s opinion 
+the equipment, software, publication, intellectual or creative property furnished hereunder is likely 
+to or does become the subject or claim of infringement of a copyright, patent or trade secret then 
+the Service Provider may, at its option, substitute for the alleged infringing equipment, software, 
+publications, intellectual or creative properties, modifications satisfactory to USask, in its sole 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 18 of 33 
+ 
+discretion, or at the Service Provider ’s option and expense, obtain the right for USask to continue 
+the use of such equipment, software, publications, intellectual or creative properties.  If the use of 
+such equipment, software, publications, intellectual or creative properties by USask shall be 
+prevented by injunction, the Service Provider agrees to take back the equipment, software, 
+publications, intellectual or creative properties and refund the total amount USask has paid to the 
+Service Provider . 
+ 
+3.24 
+OPERATIONAL PROBLEM RESOLUTION  
+ 
+When resolving problems, the Service Provider shall contact by telephone or email and if 
+requested, visit the concerned department.  The Service Provider shall then advise USask 
+regarding the action taken. 
+ 
+3.25 
+ALTERNATE DISPUTE RESOLUTION 
+ 
+If a dispute arises pertaining to an alleged breach of this agreement by either party, the parties 
+agree to meet without delay to resolve the dispute and shall retain a mediator to assist in 
+resolving the dispute if the parties are unable to resolve the dispute.  Each party shall bear its 
+own costs and one-half of the costs of the mediator.  If the dispute is not resolved, on request in 
+writing by either party, it shall be referred to a single arbitrator for decision.  The decision of such 
+arbitrator shall be final and binding.  The arbitrator shall be mutually agreed upon by the parties 
+and failing such agreement within thirty (30) days of the request for arbitration, the arbitrator shall 
+be appointed as provided by The Arbitration Act, 1992 of the Province of Saskatchewan.  The 
+arbitration shall be conducted in the manner provided by the said Act. 
+ 
+3.26 
+UNIVERSITY POLICIES, PROCEDURES AND REGULATIONS ** 
+ 
+Personnel of the Service Provider shall observe all policies, procedures and regulations of USask 
+made known to them. 
+ 
+All delivery vehicles shall be turned off when parked near or in building loading docks on the 
+University campus to alleviate problems with vehicle exhaust ingestion in the various buildings. 
+ 
+3.27 
+EXTERNAL MARKETING ** 
+ 
+The Service Provider shall not use the name, logo or image of USask for any external marketing 
+purposes whatsoever without express written permission from USask. 
+ 
+3.28 
+NOTICES     
+.1 
+All notices required under this Contract shall be in writing, and shall be deemed to have 
+been duly given and received either: 
+ 
+a) On the date of receipt, if delivered by hand or commercial courier, or 
+b) At the commencement of the next normal business day following the date of 
+transmission, if sent by email, or 
+c) Within three (3) business days from the date of mailing, if sent by mail. 
+ 
+ 
+.2 
+When such communications have been addressed as follows: 
+ 
+If to USask 
+With a copy to Department 
+Procurement, 
+Department 
+University of Saskatchewan 
+Address 
+110 Maintenance Rd 
+Attention:  
+Saskatoon SK S7N 5C5 
+Email: 
+Attention:  Procurement   
+   
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 19 of 33 
+ 
+Email:  fco.procurement@usask.ca  
+ 
+If to the Service Provider  
+Name 
+Address 
+Attention: 
+Phone: 
+Email: 
+ 
+3.29 
+CONFIDENTIALITY AND PRIVACY ** 
+ 
+For the purposes of this section, Confidential Information means information in any form 
+disclosed by one party (the “Discloser”) to the other (the “Recipient”) that is (i) marked as 
+confidential, (b) is identified at the time of disclosure as being confidential, or (c) should be 
+reasonably understood by the parties to be confidential or proprietary. The Service Provider , 
+during and after the term of this Contract, agrees that it shall maintain in confidence and use only 
+on behalf of USask in furtherance of its contractual duties and obligations, or in the enforcement 
+of the terms of this Contract, any and all Confidential Information provided to it by USask or 
+developed by the Service Provider in connection with performance of this Contract.  Confidential 
+Information shall not be disclosed by the Service Provider unless authorized in writing by USask. 
+Confidential information does not include information in the public domain or that comes into the 
+public domain through no fault of the Recipient; information that was previously known to the 
+Recipient; information independently developed by the Recipient; or information acquired by the 
+Recipient from a third party which is not, to its knowledge, under an obligation of confidence with 
+respect to such information.  
+ 
+The Service Provider acknowledges that USask is a public body subject to “The Local Authority 
+Freedom of Information and Protection of Privacy Act” (the “Act”) and that records in the 
+possession or under the control of USask may be accessed pursuant to the Act. USask shall use 
+all reasonable efforts to withhold from disclosure information demonstrated by the Service 
+Provider to be protected third party information, as defined in section 18 of the Act, but shall not 
+be liable for disclosures of non-protected third party information as may be required by the Act.  
+ 
+The Service Provider further acknowledges that it is an Information Management Service 
+Provider (“IMSP”) as defined by the Act, and agrees to meet the requirements of IMSPs pursuant 
+to subjections 23.2(3) and 23.2(4) of the Act. All personal information obtained by or disclosed to 
+the Service Provider by USask for the purpose of providing the Service under the terms of this 
+Contract shall be used for the purpose(s) for which it is obtained or disclosed, and shall not be 
+used or further disclosed by the Service Provider, except as required by law, or as authorized in 
+writing by USask. The Service Provider will take all reasonable measures to protect the personal 
+information, and will immediately notify USask in the event of unauthorized access, use or 
+disclosure of personal information and take all reasonable steps to recover the information and 
+prevent a recurrence. All personal information shall be returned to USask or destroyed upon 
+request, and shall, at minimum, be destroyed upon the completion of the Contract. 
+It is agreed that these obligations of non-disclosure and privacy will survive the termination of this 
+Contract. 
+ 
+3.30 
+COUNTERPART EXECUTION ** 
+ 
+This Contract may be executed in counterparts and the counterparts together shall be effective 
+and binding on the parties as if the same copy of this Contract was executed by the parties in 
+each others’ presence. 
+ 
+3.31 
+SURVIVAL ** 
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 20 of 33 
+ 
+The parties agree that where the context of any provision indicates an intent that it shall survive 
+the term or termination of this Agreement, then it shall survive the same. 
+ 
+3.32 
+ASSIGNMENT ** 
+ 
+This Contract or its rights, duties or obligations, shall not be assigned by either party without the 
+written consent of the other. 
+ 
+3.33 
+GOVERNING LAWS ** 
+ 
+This Contract shall be subject to, and governed by, and interpreted in accordance with the laws of 
+Canada and the Province of Saskatchewan.  The United Nations Convention on Contracts and 
+the International Sale of Goods does not apply to this Contract.  The courts of Saskatchewan 
+shall have exclusive jurisdiction in the event of any dispute arising out of this Contract.     
+ 
+ 
+END OF SECTION 3.0 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 21 of 33 
+ 
+  
+APPENDIX A: VALIDATION OF PROPOSAL AND ACCEPTANCE OF CONTRACTUAL PROVISIONS 
+ 
+A.1 
+Proponent confirms that its Proposal has taken into consideration all information provided in the 
+RFP including all attachments and subsequent addenda (if any).  The total number of addenda 
+received by the Proponent is      . 
+ 
+A.2 
+Proponent confirms the validity period of its irrevocable Proposal is one hundred and twenty (120) 
+days from the closing date.     
+ 
+A.3 
+Proponent accepts without modification all Contractual Provisions outlined in Section 3.0 and the 
+Conditions included. 
+ 
+ 
+  Yes 
+ 
+or 
+ 
+  Yes, with the following proposed revisions (attachments are acceptable if 
+there is insufficient space) 
+ 
+ 
+ 
+ 
+      
+ 
+Proponent  (Please print) 
+ 
+      
+ 
+Authorized Representative 
+ 
+      
+ 
+Title 
+ 
+ 
+ 
+Signature 
+ 
+      
+ 
+Date 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 22 of 33 
+ 
+APPENDIX B: BACKGROUND/ SCOPE OF SERVICE 
+ 
+B.1 Background 
+ 
+The main campus of the University of Saskatchewan is located in the heart of Saskatoon, Saskatchewan 
+on the picturesque banks of the South Saskatchewan River. Since 1907, the role of the University has 
+continually evolved, and we are now one of the top 15 medical-doctoral, research-intensive universities in 
+Canada. Our campus has 81 buildings over 450 hectares and roughly 25,000 students plus 5,000 faculty 
+and staff. Our facilities support a wide variety of activities including office and administrative work, 
+educational activities, research, veterinary care, and agricultural work. Our research, teaching, and 
+administrative systems – backed by our network and server infrastructure managed by the central ICT 
+department – are available 24/7 all year. For more information, please see our website: www.usask.ca. 
+USask is modernizing its IT infrastructure to streamline operations, improve efficiency, and better support 
+teaching, research, and administration. This includes consolidating existing, ad-hoc AI subscriptions into 
+a managed AI environment. To achieve this, USask plans to partner with specialized AI service providers. 
+This strategic decision is based on a thorough evaluation and aims to enhance service delivery, drive 
+innovation, and ensure comprehensive data protection. 
+ 
+B.2 Purpose 
+ 
+This RFP is to establish multiple master service agreements to accommodate the broad range of AI use 
+by the University. It will serve various Colleges, Administrative groups, University Affiliates and Alumni. 
+These Departments have distinct requirements, and for this reason, it is crucial for the University to 
+identify Suppliers capable of meeting the unique and diverse expectations of each group. 
+ 
+The University of Saskatchewan seeks to establish a non-exclusive list of Pre-Qualified Suppliers who 
+can provide AI platform services on an as-needed basis. The AI platform services include: 
+ 
+1. AI Chat and Data Analysis Services: Platforms that provide advanced chat functionalities and 
+the ability to store and analyze data. These services enable users to interact with AI models for 
+various tasks, including natural language processing, data interrogation, and generating insights. 
+2. AI Model Customization and Integration: Services that allow for the customization through 
+agents, MCP (Model Context Protocol), or integration of AI models into existing workflows and 
+applications. This may include fine-tuning models, integrating AI capabilities into enterprise 
+systems, and using AI APIs to augment application functionalities.  
+3. AI Consulting Services: Expert advice and support for planning, deploying, and managing AI 
+solutions. This includes consulting on best practices for AI adoption, continuous improvement, 
+and ensuring compliance with data protection regulations.  
+4. AI Enabling Infrastructure: Foundational services that support or extend agentic AI 
+capabilities—such as virtual machines for model development and deployment, platform-as-a-
+service (PaaS) offerings for scalable application hosting, serverless functions for event-driven 
+processing, and advanced data systems like graph and vector databases for contextual 
+awareness and semantic retrieval 
+The Proponent must be the direct provider of the services. Proposals from third-party resellers, 
+intermediaries, or distributors will not be considered. The Proponent must demonstrate direct ownership, 
+management, and delivery of the Services outlined in this RFP without reliance on external resellers. 
+USask makes no guarantee of the value or the volume of any of the items from any category to be 
+awarded to any successful Proponent(s). 
+ 
+Proponents must demonstrate the capacity to meet the following requirements during the anticipated term 
+of the Master Services Agreement (if awarded), expected to be 5 years: 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 23 of 33 
+ 
+ 
+1. Compliance with Intellectual Property and Privacy Regulations: An understanding and ability 
+to comply with applicable intellectual property and privacy regulations including the Copyright Act 
+(Canada), the Personal Information Protection and Electronic Documents Act (Canada), The 
+Local Authority Freedom of Information and Protection of Privacy Act (Saskatchewan) (LA FOIP) 
+and, where applicable, The Health Information Protection Act (Saskatchewan) (HIPA). This 
+includes ensuring that all material subject to copyright and all personal and sensitive data is 
+handled in accordance with these regulations, protecting the intellectual property rights 
+and privacy of individuals and maintaining the confidentiality of their information 
+2. Infrastructure Protection: Proponent is directly responsible for protecting the infrastructure 
+that runs all of the services offered in their Proposal. This infrastructure is composed of the 
+hardware, software, networking, and facilities that run the proposed AI platform services.  
+3. Security and Data Protection Requirements: The ability to meet or exceed the University of 
+Saskatchewan’s security requirements. Proponents must provide a completed USask SaaS Form 
+or alternatively a Higher Education Community Vendor Assessment Toolkit (HECVAT) with their 
+proposal. This includes demonstrating comprehensive data protection strategies such as 
+encryption, regular security audits, and compliance with industry best practices for data security.  
+4. Integration and User Management: Proponents must provide acceptable options for the 
+University to integrate with their solution for authorization and authentication management. This 
+includes demonstrating capabilities for Single Sign On (SSO), user account management, role 
+and access provisioning, and the ability to manage the enrolment of USask users.  
+ 
+B.3 Agreement Options 
+ 
+The University is interested in exploring flexible agreement options, including: 
+ 
+Enterprise Management with Individual Subscriptions: Setting up and managing the AI platform 
+infrastructure while allowing individual faculty, staff, and students to purchase their own 
+subscriptions. This approach relies on the vendor to provide capabilities to enroll new USask 
+subscribers under the USask Enterprise/Education Agreement and enable Single Sign On (SSO) 
+for those users.  
+ 
+Volume Licensing with Tiered Pricing: Securing cost savings through volume licensing with tiered 
+pricing based on the number of users. This approach relies on USask managing the enrollment of 
+USask subscribers under the USask Enterprise/Education Agreement and providing USask users 
+with Single Sign On (SSO). USask would manage account & role provisioning, preferably through 
+the vendor’s API. 
+For each of the flexible agreement options above, the University would also like to understand: 
+ 
+the Proponent’s recommended approach for onboarding existing USask subscribers under other 
+agreements to a USask Enterprise/Education Agreement. 
+ 
+the University’s ability to move between flexible pricing options based on user thresholds. 
+ 
+The University’s ability to have a combination of agreement options available for USask users. 
+ 
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 24 of 33 
+ 
+APPENDIX C:   QUESTIONNAIRE  
+ 
+ 
+Customer 
+Support  
+Questions  
+Information 
+Included in 
+Proposal 
+(Yes/No)
+Proposal 
+Page 
+Reference 
+Number
+ 
+Do you have any minimum service level agreements for 
+customer support? 
+ 
+ 
+ 
+Are there any mechanisms to escalate and raise a 
+support ticket's priority? 
+ 
+ 
+ 
+Is there a designated contact the buyer should address 
+when support issues arrive? 
+ 
+ 
+ 
+Are there any additional charges for customer support? 
+Are there different levels of customer support? 
+ 
+ 
+ 
+What are your average response and resolution times to 
+customer support tickets? 
+ 
+ 
+Customization
+ 
+What level of customization is available for generative AI 
+software? 
+ 
+ 
+ 
+Are there any additional costs associated with 
+customization? If so, what are they? 
+ 
+ 
+ 
+Is there a designated contact for questions and queries 
+related explicitly to customization? 
+ 
+ 
+Experience
+ 
+How long have you been involved in the generative AI 
+software market, both researching and providing 
+products? 
+ 
+ 
+ 
+Can you provide some examples of past instances in 
+which you have successfully handled requests from 
+Higher Educational Institutions? 
+ 
+ 
+ 
+What is your team's background in generative AI and 
+related fields? 
+ 
+ 
+Features 
+ 
+What are the key features of your generative AI 
+software? 
+ 
+ 
+ 
+How quickly does the software generate outputs? Is it 
+instantaneous? 
+ 
+ 
+ 
+Can you speak to the usability, including the software's 
+user interface and user experience? 
+ 
+ 
+Training 
+ 
+Types of training offered (i.e. self-learning, instructor led, 
+one on one, train the trainer). 
+ 
+ 
+ 
+Method of delivery. 
+ 
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 25 of 33 
+ 
+ 
+Number of hours of training included in the pricing 
+structure. 
+ 
+ 
+ 
+Number of people included for training in the pricing 
+structure. 
+ 
+ 
+ 
+Recommendations for training system administrator 
+users, technical integration specialists and developers 
+completing locally developed integrations. 
+ 
+ 
+ 
+Recommendations for training USask staff who might act 
+as internal trainers for other user groups. 
+ 
+ 
+ 
+Describe the resources available for various groups of 
+users, administrators, integration specialists and 
+developers such as user guides and help, administration 
+and operational procedures, detailed system integration 
+information. Also explain where the information is 
+located, the process to access it and the formats for 
+delivery, such as knowledge-base, videos, websites, etc. 
+ 
+ 
+ 
+Describe available community programs and services 
+which enable local application administrators and 
+developers to configure the product, offer user support 
+and develop integrations. 
+ 
+ 
+Service and 
+Maintenance  
+ 
+What is the typical uptime percentage? 
+ 
+ 
+ 
+How frequently is the software updated? 
+ 
+ 
+ 
+Do software updates require manual installation, or is the 
+software updated automatically? 
+ 
+ 
+ 
+Do you provide remote monitoring to ensure the software 
+is running as intended, without performance 
+degradation? 
+ 
+ 
+ 
+Are there any additional service and maintenance fees? 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 26 of 33 
+ 
+APPENDIX D: PRICING STRUCTURE 
+ 
+Vendors should provide a detailed breakdown of the price per user subscription. Additionally, they 
+should indicate whether any volume discounts are available based on the number of users. 
+Pricing structure should be shown in Canadian dollars, Goods and Services Tax (GST) and 
+Provincial Sales Tax (PST) excluded. Add additional line items to this Pricing Structure as 
+necessary. 
+*If costs are monthly, please include information within your Proposal’s pricing structure.  
+** Provide usage examples of how many tokens an average user consumes in a given month. 
+Attach detailed pricing model as necessary if additional cost or throttling would be incurred after 
+certain token or usage thresholds. 
+***Attach alternative pricing models as necessary.  
+ 
+Optional Extension Year Pricing  
+ 
+ 
+TIERED PRICING MODEL (IF APPLICABLE) 
+ 
+User Licensing
+Pricing Tiers
+Pricing
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+Cost Types
+Year 1 
+Year 2
+Year 3
+Year 4 
+Year 5 
+Total 
+Individual Subscription  
+Per Year* 
+ 
+ 
+ 
+ 
+ 
+ 
+Token Based  
+Pricing Model** 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise Management 
+Per Year 
+ 
+ 
+ 
+ 
+ 
+ 
+Implementation  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Training  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Additional/Other*** 
+(Please Describe) 
+ 
+ 
+ 
+ 
+ 
+ 
+Cost Types
+Year 6
+Year 7
+Year 8
+Year 9 
+Year 10 
+Total 
+Individual 
+Subscription  
+Per Year 
+ 
+ 
+ 
+ 
+ 
+ 
+Token Based  
+Pricing Model 
+ 
+ 
+ 
+ 
+ 
+ 
+Enterprise 
+Management Per 
+Year 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 27 of 33 
+ 
+OPTIONAL SERVICE AND SUPPORT FEES  
+ 
+#
+Role of Individual/Position Title
+Hourly Rate
+1 
+  
+  
+2 
+  
+  
+3 
+  
+  
+4 
+  
+  
+5 
+  
+  
+Include additional explanation of costs and list assumptions that could influence the cost of 
+change request pricing. 
+List explanations and assumptions 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 28 of 33 
+ 
+  
+APPENDIX E: SOFTWARE AS A SERVICE VENDOR FORM     
+(If Applicable, this form cannot be revised) 
+ 
+Software as a Service (SaaS) Vendor Form
+Part I: General Information
+In order to protect the institution and its systems, vendors whose products and/or services will access and/or 
+host institutional data must complete the SaaS Vendor Form.  Throughout this form, anywhere where the term 
+data is used, this is an all-encompassing term including at least data and metadata.  Institution security analysts, 
+privacy specialists, and enterprise architects will review answers upon submittal.  This process will assist the 
+institution in preventing breaches of protected information and comply with institution policy and relevant laws.  
+This form is intended for use by vendors and should be completed by a vendor. 
+1.  
+Vendor Name 
+ 
+2.  
+Product Name 
+ 
+3.  
+Product Description 
+ 
+4.  
+Web Link to Product Privacy Notice and Terms and 
+Conditions 
+ 
+5.  
+Vendor Contact Name 
+ 
+6.  
+Vendor Contact Title 
+ 
+7.  
+Vendor Contact Email 
+ 
+8.  
+Are there other Canadian universities that use this 
+service?  
+
+If so, please specify. 
+ 
+9.  
+How many paying customers does your 
+organisation have?  
+ 
+10.  
+What types of data can be entered, used, 
+processed, and stored by the service (i.e. personal 
+information, health information, course information, 
+etc.)? 
+ 
+11.  
+If credit card data will be processed, transmitted or 
+stored, please provide a current Self-Assessment 
+Questionnaire-D for Service Provider s (SAQ-D) 
+along with Attestation of Compliance (AOC) or 
+Report of Compliance (ROC) signed off by a 
+Qualified Security Assessor (QSA). 
+ 
+Part II: Privacy
+1. 
+Does your organization have a legal or contractual 
+requirement or authority to disclose university data? 
+(e.g. disclosure to law enforcement or government 
+agencies)  
+
+Is notice provided to the university?
+ 
+2. 
+Is your organisation able to restrict the jurisdiction 
+where university data is stored? 
+ 
+3. 
+Where are the service’s data centre(s) located, and 
+who are they hosted by? 
+ 
+ 
+ 
+4. 
+Are there third parties contracted by your 
+organization to provide any portion of the service or 
+support, including analytics, backups, address/geo 
+location services, etc.?  
+ 
+Please list which services are provided by 
+the third party  
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 29 of 33 
+ 
+ 
+If there are any changes in third party 
+Service Provider s, will the university 
+receive notification?  
+5. 
+How long will data be retained after a contract 
+expires? 
+ 
+Part III: Security and Events Audits
+1. 
+Please provide a high level architectural diagram of 
+the service including all infrastructure. 
+ 
+2. 
+How are the data centre(s) physically secured? 
+ 
+What environmental controls are in place in 
+the data centre(s)?  
+ 
+How is access to the data centre(s) 
+controlled?  
+ 
+Who is responsible for maintenance and 
+support of the data centre infrastructure? 
+e.g. servers, storage devices, networks, 
+network routers/switches, operating 
+systems, databases, etc.  
+ 
+3. 
+Is the service compliant with any security standards 
+or regulations? (i.e. PCI DSS, ISO, SSAE, CSA 
+STAR) 
+ 
+4. 
+Does your organization engage third-party services 
+for penetration testing and vulnerability scanning?  
+ 
+If so, on what interval?  
+ 
+Can you share your last results, along with 
+remediation plans for any remaining items? 
+ 
+5. 
+Does your organization allow customers to perform 
+penetration testing/security scans?   
+
+If so, in which environments?
+ 
+6. 
+How often does your organization review and 
+update its security policies?   
+ 
+What are the timelines for notification of 
+any changes to your organization’s security 
+policies? 
+ 
+7. 
+Have there been any past security breaches at your 
+organisation?  
+ 
+If so, have any of these involved identity 
+theft? 
+ 
+8. 
+What is your organization’s security incident 
+response plan? 
+ 
+What are the timelines for notifying the 
+university if there is breach or security 
+incident? 
+
+If so, how often is it tested?
+ 
+9. 
+How many environments are available for use?  
+ 
+Development, test, production, etc.? 
+
+Are all environments configured the same?
+ 
+10. 
+What are the server application patching policies?   
+ 
+Will the university receive notification of 
+downtimes for patching? 
+ 
+11. 
+Are the servers dedicated for our university’s data?  
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 30 of 33 
+ 
+ 
+If not, how is our university’s data 
+segregated from other customers? 
+12. 
+How is data secured during use, transmission, and 
+at rest? 
+ 
+Are data transmissions encrypted, including 
+server to server transmissions, within the 
+data centre? 
+ 
+13. 
+Is user access tracked?  
+ 
+If so, can the university audit the user 
+access logs of our users?   
+ 
+If so, does your organization keep an audit 
+trail of which users performed what actions 
+at both an API and UI level? 
+ 
+Part IV: Authentication/Authorization
+1. 
+Does the service support Single Sign-On (SSO)?  
+ 
+What standards does the service support 
+(CAS, Shib, SAMLv2, etc.)?  
+2. 
+How will user accounts be provisioned? 
+ 
+What capability does your system have that 
+would allow for automated account 
+creation, modification, and disabling? 
+ 
+What capability does your system have that 
+would allow for automated role assignment 
+/ revocation? 
+3. 
+Describe if and how the service is able to support 
+people with multiple roles in the system at the same 
+time? 
+ 
+For example: teaches a class and has 
+class admin access, but is a student in 
+another class and only has student rights? 
+ 
+Part V: Business Continuity and Disaster Recovery
+1. 
+Does your organization have a disaster recovery 
+plan?  
+ 
+If so, how long does it take to restore from 
+complete or partial disasters? 
+ 
+2. 
+Does your organization have failover servers?   
+ 
+Are these certified to the same standards 
+as the primary servers?    
+ 
+How is data synchronized to the failover 
+servers? 
+ 
+3. 
+Please describe the redundancy or failover in place 
+at the data centre. 
+ 
+4. 
+Are response time and performance of the service 
+actively monitored? 
+ 
+Can you provide performance metrics of a 
+client with a similar user base and product 
+configuration? 
+ 
+Does the SLA have metrics related to 
+support? 
+o 
+Mean time to issue resolution? 
+o 
+Mean time to respond? 
+o 
+Current customer satisfaction 
+scores?
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 31 of 33 
+ 
+ 
+Are performance and reliability guaranteed 
+for response and uptime? 
+Part VI: Backups
+1. 
+Is data backup part of the core service offered by 
+your organization?  
+ 
+If so, are there limits to the data that can be 
+recovered? i.e. lose last 4 hours 
+ 
+How quickly can the system be restored 
+from backup? 
+ 
+Are users able to restore their own data 
+from backups? 
+ 
+2. 
+What is the backup retention period?   
+ 
+Can the retention period for backups be 
+customized to the business requirements 
+for retention periods?  
+ 
+3. 
+How are backups protected?  
+ 
+Are they encrypted?  
+ 
+Will the data be permanently erased by the 
+Service Provider , including servers and 
+backups?  
+ 
+Will the university receive notification of 
+when this is occurs? 
+ 
+ 
+4. 
+How is backup media disposed of?   
+ 
+Are they disposed of by a third party to the 
+Service Provider ?   
+ 
+Are disposal records kept?  
+ 
+Are the disposal records sent to our 
+university or are they available upon 
+request? 
+ 
+Part VII: Integration 
+1. 
+What integration methods are available for 
+providing data to this system, or for sharing data 
+from this system with other units, business 
+processes or systems? 
+ 
+2. 
+Describe any limits around what data is modifiable 
+from API’s/external feeds? i.e. we only allow 
+modification to these specific modules/areas 
+ 
+3. 
+Describe any limits around what data is 
+consumable from API’s/external feeds? 
+ 
+4. 
+Do the limits change depending on batch or event 
+based methods? e.g. you can share data through 
+batch export but not via API, or you can modify all 
+data through API but there is no batch import 
+capability. 
+ 
+5. 
+Are there any performance limits or service level 
+limits?  
+ 
+For example: The service is throttled after 
+10,000 messages are sent, or API calls 
+made, or bandwidth used, etc. 
+ 
+Part VIII: Exit
+1. 
+What policies are in place to ensure data is 
+returned to the university?  
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 32 of 33 
+ 
+ 
+How soon can the university be provided 
+with their data at the end of a service 
+contract or insolvency? 
+ 
+What format(s) are the data exports 
+provided by the Service Provider ?    
+2. 
+What options are afforded if the company becomes 
+insolvent or the contract is cancelled?   
+ 
+What is the notice period if this occurs? 
+
+Is source code in escrow?
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+RFP No. CP-730126   Generative Artificial Intelligence (AI) Software 
+ 
+Page 33 of 33 
+ 
+APPENDIX F: USASK AFFILIATES 
+ 
+The University operates several uniquely organized centres of excellence, global institutes and 
+specialized units within its existing structure. Some of these operations may have dedicated their own 
+board of directors, but they are not a separate corporation. VIDO [Vaccine and Infectious Disease 
+Organization] is an example of an operation within the University that has its own Board of Directors. 
+ 
+ 
+Centres and Institutes: 
+• Canadian Centre for Health and Safety in Agriculture (CCHSA) 
+• Centre for Forensic Behavioural Sciences and Justice Studies 
+• Centre for Quantum Topology and Its Applications (quanTA) 
+• Centre for the Study of Co–operatives 
+• Centre for the Study of Co-operatives Website 
+• Community-University Institute for Social Research (CUISR) 
+• Confucius Institute 
+• Diefenbaker Canada Centre 
+• Division of Biomedical Engineering 
+• Global Institute for Water Security 
+• Global Institute for Food Security 
+• Gwenna Moss Centre for Teaching and Learning (GMCTL) 
+• Indigenous Land Management Institute (ILMI) 
+• Indigenous Peoples’ Health Research Centre (IPHRC) 
+• Saskatchewan Population Health and Evaluation Research Unit, Inc. (SPHERU) 
+• Saskatchewan Structural Sciences Centre (SSSC) 
+• Student Learning Services 
+• Toxicology Centre 
+• University of Saskatchewan Language Centre 
+• University of Saskatchewan Process Philosophy Research Unit (USPPRU) 
+• Vaccine and Infectious Disease Organization (VIDO) 
+• W. Brett Wilson Centre for Entrepreneurial Excellence 
+ 
+The University also participates in the operations of a variety of special purpose corporations via direct 
+ownership or membership. A subsidiary is a registered corporation with the University as the only member 
+or shareholder. A related entity is a registered corporation with the University as one of two or more 
+members or shareholders.  
+ 
+Subsidiaries: 
+ 
+• 621602 Saskatchewan Ltd. 
+• Agrivita Canada Inc. 
+• Canadian Light Source Inc. 
+• Prairie Swine Centre Inc. 
+• The Sylvia Fedoruk Canadian Centre for Nuclear Innovation Inc. 
+ 
+Related Entities: 
+ 
+• Prairie Diagnostic Services Inc. 
+• Pan-Provincial Vaccine Enterprise Inc. (PREVENT) 
+• Saskatchewan Food Industry Development Centre Inc 
+ 

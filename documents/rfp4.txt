@@ -1,0 +1,1268 @@
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 1 of 27
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Request for Proposals 
+for 
+Enterprise Resource Planning (ERP) System  
+ 
+ 
+ 
+ 
+Request for Proposals No.: RFP.24.25.04 
+Issued: March 3, 2025 
+Submission Deadline: April 14, 2025 11:59:59 PM PST 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 2 of 27
+ 
+TABLE OF CONTENTS 
+PART 1 – INVITATION AND SUBMISSION INSTRUCTIONS .................................................... 3 
+1.1 Invitation to Proponents ................................................................................................... 3 
+1.2 RFP Contact .................................................................................................................... 4 
+1.3 Contract for Deliverables ................................................................................................. 4 
+1.4 RFP Timetable ................................................................................................................ 5 
+1.5 Submission of Proposals ................................................................................................. 5 
+PART 2 – EVALUATION, NEGOTIATION AND AWARD........................................................... 7 
+2.1 Stages of Evaluation and Negotiation .............................................................................. 7 
+2.2 Stage I – Mandatory Submission Requirements .............................................................. 7 
+2.3 Stage II – Mandatory Technical Requirements ................................................................ 7 
+2.4 Stage III – Evaluating the Functional Requirements ........................................................ 7 
+2.5 Stage IV – Evaluating the Narrative and Pricing ................................................................ 7 
+2.6 Stage V – Vendor Demonstrations .................................................................................. 8 
+2.7 Stage VI – Final Ranking and Contract Negotiations ....................................................... 8 
+PART 3 – TERMS AND CONDITIONS OF THE RFP PROCESS ............................................. 10 
+3.1 General Information and Instructions ............................................................................. 10 
+3.2 Communication after Issuance of RFP .......................................................................... 10 
+3.3 Notification and Debriefing ............................................................................................. 11 
+3.4 Conflict of Interest and Prohibited Conduct .................................................................... 12 
+3.5 Confidential Information ................................................................................................. 14 
+3.6 Procurement Process Non-Binding ................................................................................ 14 
+3.7 Governing Law and Interpretation .................................................................................. 15 
+APPENDIX A – FORM OF AGREEMENT ................................................................................ 16 
+APPENDIX B – RFP PARTICULARS ....................................................................................... 18 
+A. THE DELIVERABLES ....................................................................................................... 18 
+B. MATERIAL DISCLOSURES .............................................................................................. 22 
+C. MANDATORY SUBMISSION REQUIREMENTS .............................................................. 22 
+D. MANDATORY TECHNICAL REQUIREMENTS................................................................. 22 
+E. PRE-CONDITIONS OF AWARD ....................................................................................... 22 
+F. EVALUATION CRITERIA .................................................................................................. 23 
+G. PRICE EVALUATION METHOD ....................................................................................... 23 
+APPENDIX C – SUBMISSION FORM ...................................................................................... 25 
+  
+Additional Attachments: 
+Cowichan Tribes ERP Pricing.xlsx 
+Cowichan Tribes ERP Requirements.xlsx 
+ 
+ 
+ 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 3 of 27
+ 
+PART 1 – INVITATION AND SUBMISSION INSTRUCTIONS 
+1.1 
+Invitation to Proponents 
+1.1.1 Invitation 
+This Request for Proposals (the “RFP”) is an invitation by Cowichan Tribes to prospective 
+proponents to submit proposals for an Enterprise Resource Planning (ERP) System, as 
+further described in Section A of the RFP Particulars (Appendix B) (the “Deliverables”).  
+Cowichan Tribes is a First Nation band in British Columbia, with over 5,500 members. They are 
+part of the Coast Salish peoples and speak the Hul'q'umi'num language. Cowichan Tribes are 
+located in the Cowichan Valley on Vancouver Island, with their main reserve near Duncan, BC. 
+Historically, the Cowichan people have lived in their territory for thousands of years, with 
+archaeological evidence dating back 4,500 years. They have a rich cultural heritage, 
+maintaining many traditional practices and customs while evolving into a modern society. 
+Cowichan Tribes are involved in various activities to support their community, including 
+education, health services, economic development, and cultural preservation. They operate 
+several programs and initiatives aimed at improving the well-being of their members and 
+fostering a strong, vibrant community.  
+Cowichan Tribes is seeking to procure a cloud-based ERP system(s) to enhance 
+operational efficiency across key functions including finance, procurement, human 
+resources, payroll, and asset management. The solution should be aligned with industry best 
+practice, provide features to automate processes, provide staff and leadership access to the 
+information needed to effectively plan and operate, and be adaptable to evolving business 
+needs.  
+Current ERP Context and Modernization Goals 
+Cowichan Tribes currently utilizes a custom-built platform known as TIFIS (Tribal Information 
+and Financial Information System) to manage key corporate functions including finance, 
+procurement, and payroll but also is used to manage other services specific to first nations 
+including housing, band membership, social services and others. TIFIS has been tailored over 
+time to address the unique requirements of Cowichan Tribes, supporting essential business 
+processes and data management needs. 
+While TIFIS has successfully served as the core operational system for more than 25 years, 
+Cowichan Tribes has made the strategic decision to move to a commercially supported cloud-
+based ERP platform.  The scope of this RFP is to not replace all TIFIS capabilities, but only the 
+functionality identified in the ERP requirements.  The table below provides a summary 
+perspective of current state and desired future state. 
+Function
+Current State
+Target State for RFP
+Finance
+TIFIS
+New ERP
+Procurement 
+TIFIS 
+New ERP 
+HR
+TIFIS and Excel
+New ERP
+Payroll 
+TIFIS 
+New ERP 
+Asset Management
+Managed in Excel
+New ERP
+All other TIFIS Processes 
+(Housing, Membership, 
+etc.) 
+TIFIS 
+TIFIS 
+ 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 4 of 27
+ 
+Key Notes: 
+1. While services to build an integration between the new ERP and TIFIS is not in scope for 
+this RFP, integration capabilities will be assessed and are included in the requirements. 
+ 
+2. Cowichan Tribes acknowledges that their needs may not be best met within one platform 
+and is therefore open to an ERP solution that may involve multiple integrated systems.  
+Data Conversion Details 
+Cowichan Tribes will be looking to the vendor to include costs for data conversion. Details on 
+records counts are below. Cowichan Tribes would like the vendor to use best practices to 
+determine years of data to convert unless otherwise specified.   
+Function
+Approximate Record Counts and Notes
+Finance 
+ Detailed transactions for one year  
+ Summarized balances for previous 3 years 
+ Possible restructure to GL structure 
+Procurement 
+ Vendors Records: 10,000  
+(includes active/inactive as well as citizens)
+HR 
+
+Active Employee Records: 500
+Payroll 
+
+Current year-to-date payroll data
+Asset 
+Management
+ Asset Records: 250 
+ 
+1.1.2 Primary Proponent 
+The proposal must be submitted by a single legal entity that will serve as the primary proponent. 
+If the proposal involves a partnership or joint submission from two (2) or more entities, one (1) 
+entity must be designated as the primary proponent, responsible for negotiating and entering 
+into the contract with Cowichan Tribes. The primary proponent will be accountable for the 
+overall performance and delivery of the specified Deliverables.  
+1.2 
+RFP Contact 
+For the purposes of this procurement process, the “RFP Contact” will be:   
+Jeremy Elliott  
+procurement@cowichantribes.com  
+ 
+Proponents and their representatives are not permitted to contact any employees, officers, 
+agents, elected or appointed officials, or other representatives of Cowichan Tribes, other than 
+the RFP Contact, concerning matters regarding this RFP. Failure to adhere to this rule may 
+result in the disqualification of the proponent and the rejection of the proponent’s proposal. 
+1.3 
+Contract for Deliverables 
+1.3.1 Type of Contract  
+The selected proponent will be requested to enter into direct contract negotiations to finalize an 
+agreement with Cowichan Tribes for the provision of the Deliverables. The terms and conditions 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 5 of 27
+ 
+found in the Form of Agreement (Appendix A) are to form the basis for commencing 
+negotiations between Cowichan Tribes and the selected proponent. 
+1.3.2 Term of Contract  
+The contract will involve two parts.  The first part will be for the implementation of the ERP and 
+the second part will be for the licensing.  The term of the licensing and support agreement is to 
+be for a period of five years, with an option in favour of Cowichan Tribes to extend the 
+agreement on the same terms and conditions. 
+1.4 
+RFP Timetable 
+1.4.1 Key Dates 
+ 
+Issue Date of RFP 
+March 3, 2025  
+Deadline for Questions 
+March 17, 2025 11:59:59 PM PST 
+Deadline for Issuing Addenda 
+March 24, 2025 11:59:59 PM PST 
+Submission Deadline 
+April 14, 2025 11:59:59 PM PST 
+Stage I and Stage II: Mandatory & Technical Submission Review 
+April 14 – April 21 
+Mandatories Rectification Period Deadline 
+April 24 
+Stage III: Functional Requirements Review 
+April 24 – April 28 
+Functional Requirements Rectification Period Deadline 
+May 2 
+Stage IV: Narrative Proposal and Pricing Evaluation 
+May 23 
+Notification of Shortlisting 
+May 26 
+Stage V: Vendor Demonstrations  
+June 
+Stage VI: Final Ranking and Contract Negotiations
+July 
+Anticipated Execution of Agreement 
+Fall 2025 
+ 
+The RFP timetable is tentative only and may be changed by Cowichan Tribes at any time. For 
+greater clarity, business days means all days that Cowichan Tribes is open for business. 
+1.4.2 Site Visit / Pre-Bid Meeting (if applicable) 
+There is no requirement for a site visit or pre-bid meeting in relation to this RFP. 
+1.5 
+Submission of Proposals 
+1.5.1 Proposals to be Submitted at Prescribed Location 
+Proposals are to be submitted directly through the BCBid platform where the RFP is posted. No 
+physical submission will be accepted unless specifically requested. 
+1.5.2 Proposals to be Submitted on Time 
+Proposals must be submitted at the location set out above on or before the Submission 
+Deadline. Proposals submitted after the Submission Deadline will be rejected.  
+1.5.3 Proposals to be Submitted in Prescribed Format 
+Proponents must submit their proposals in the prescribed format, with all required forms and 
+narrative responses provided in PDF format and pricing details and requirements submitted in 
+Excel format as provided as additional documentation.  
+1.5.4 Amendment of Proposals 
+Proponents may amend their proposals prior to the Submission Deadline by submitting the 
+amendment in a sealed package prominently marked with the RFP title and number and the full 
+legal name and return address of the proponent to the location set out above. Any amendment 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 6 of 27
+ 
+should clearly indicate which part of the proposal the amendment is intended to amend or 
+replace. 
+1.5.5 Withdrawal of Proposals  
+At any time throughout the RFP process until the execution of a written agreement for provision 
+of the Deliverables, a proponent may withdraw a submitted proposal. To withdraw a proposal, a 
+notice of withdrawal must be sent to the RFP Contact and must be signed by an authorized 
+representative of the proponent. Cowichan Tribes is under no obligation to return withdrawn 
+proposals. 
+[End of Part 1] 
+ 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 7 of 27
+ 
+PART 2 – EVALUATION, NEGOTIATION AND AWARD 
+2.1 
+Stages of Evaluation and Negotiation 
+Cowichan Tribes will conduct proposal evaluations and negotiations in the following stages:   
+2.2 
+Stage I – Mandatory Submission Requirements 
+Stage I will consist of a review to determine which proposals comply with all of the mandatory 
+submission requirements in Section C of the RFP Particulars (Appendix B). If a proposal fails to 
+satisfy all of the mandatory submission requirements, Cowichan Tribes will issue the proponent 
+a rectification notice identifying the deficiencies and providing the proponent an opportunity to 
+rectify the deficiencies. If the proponent fails to satisfy the mandatory submission requirements 
+within the Rectification Period, its proposal will be rejected. The Rectification Period will begin to 
+run from the date and time that Cowichan Tribes issues a rectification notice to the proponent.  
+2.3 
+Stage II – Mandatory Technical Requirements 
+Cowichan Tribes will review proposals to determine compliance with the mandatory technical 
+requirements in Section D of the RFP Particulars (Appendix B). If a proposal fails to meet these 
+requirements, Cowichan Tribes will issue a rectification notice outlining the deficiencies and 
+allowing for correction. This process may follow the rectification of mandatory submission 
+requirements. Proposals not rectified within the Rectification Period will be rejected. 
+2.4 
+Stage III – Evaluating the Functional Requirements 
+In this stage, each Proponent’s Functional Requirements sheet will be evaluated, with scores 
+assigned to functional areas and an overall score. To advance, a proposal must score at least 
+80% for functional fit. If it falls short, the vendor will be notified of deficiencies and given a 
+rectification period. This process follows mandatory submission requirements in Section C of the 
+RFP Particulars (Appendix B). Proposals still below 80% after rectification will not proceed 
+further. 
+2.5 Stage IV – Evaluating the Narrative and Pricing 
+This stage will consist of two sub-stages including: 
+2.5.1   Narrative 
+Cowichan Tribes will review the Narrative Proposal for adherence to the instructions and 
+content requirements in Section A of the RFP Particulars (Appendix B). Proposals that fail to 
+address the specified content will be considered non-compliant and may not proceed to the next 
+stage of evaluation. Vendors must present their solutions clearly and concisely, addressing 
+each section in Section A. Proposals that fail to meet formatting or content requirements may 
+require clarification during the rectification period. 
+2.5.1   Pricing 
+Cowichan Tribes will calculate a score for the pricing of each qualified proposal based on the 
+method in Section G of the RFP Particulars (Appendix B). Price evaluation will occur after 
+assessing mandatory submission and technical requirements, the requirements sheet, and the 
+narrative proposal. 
+If a proponent’s pricing appears abnormally low, Cowichan Tribes may request a detailed 
+explanation to ensure all Deliverables are accounted for. Failure to justify the pricing may result 
+in rejection. Proposals with unbalanced pricing—such as nominal prices for some Deliverables 
+and inflated prices for others, including “front-loaded” pricing—may also be rejected. 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 8 of 27
+ 
+ 
+At the conclusion of the evaluation, Cowichan Tribes will conduct a cumulative assessment and 
+invite the top two or three vendors to provide a demonstration at their discretion. 
+2.6 
+Stage V – Vendor Demonstrations 
+Vendors selected for the demonstration stage will be required to present their proposed 
+solutions in accordance with the demo script that will be provided by Cowichan Tribes. The 
+script will outline the key functionalities and scenarios that must be addressed during the 
+demonstration. To successfully pass this stage, vendors must demonstrate how their solution 
+meets the specified requirements and effectively addresses the use cases outlined in the script. 
+Failure to follow the script or demonstrate the required capabilities may impact the evaluation 
+and progression to the next stage. 
+2.7 
+Stage VI – Final Ranking and Contract Negotiations 
+2.7.1 Ranking of Proponents 
+After the completion of Stage V, scores from all previous stages: Stage III through Stage V will 
+be aggregated and the proponents will be ranked based on their total scores. The top-ranked 
+proponent will receive a written invitation to enter into direct contract negotiations to finalize the 
+agreement with Cowichan Tribes. In the event of a tie, the selected proponent will be the 
+proponent with the highest score on the non-price-rated criteria (Narrative Proposal and 
+Functional Fit). 
+2.7.2 Contract Negotiation Process 
+Any negotiations will be subject to the process rules contained in the Terms and Conditions of 
+the RFP Process (Part 3) and will not constitute a legally binding offer to enter into a contract on 
+the part of Cowichan Tribes or the proponent, and there will be no legally binding relationship 
+created with any proponent prior to the execution of a written agreement. The terms and 
+conditions found in the Form of Agreement (Appendix A) are to form the basis for commencing 
+negotiations between Cowichan Tribes and the selected proponent. Negotiations may include 
+requests by Cowichan Tribes for supplementary information from the proponent to verify, clarify, 
+or supplement the information provided in its proposal or to confirm the conclusions reached in 
+the evaluation, and may include requests by Cowichan Tribes for improved pricing or 
+performance terms from the proponent.  
+2.7.3 Time Period for Negotiations 
+Cowichan Tribes intends to conclude negotiations and finalize the agreement with the top-
+ranked proponent during the Contract Negotiation Period, commencing from the date Cowichan 
+Tribes invites the top-ranked proponent to enter negotiations. A proponent invited to enter into 
+direct contract negotiations should therefore be prepared to satisfy the pre-conditions of award 
+listed in Section E of the RFP Particulars (Appendix B), provide requested information in a 
+timely fashion, and conduct its negotiations expeditiously. 
+2.7.4 Failure to Enter into Agreement 
+If the pre-conditions of award listed in Section E of the RFP Particulars (Appendix B) are not 
+satisfied or if the parties cannot conclude negotiations and finalize the agreement for the 
+Deliverables within the Contract Negotiation Period, Cowichan Tribes may discontinue 
+negotiations with the top-ranked Proponent and may invite the next-best-ranked Proponent to 
+enter into negotiations. This process will continue until an agreement is finalized, until there are 
+no more proponents remaining that are eligible for negotiations, or until Cowichan Tribes elects 
+to cancel the RFP process.  
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 9 of 27
+ 
+2.7.5 Notification of Negotiation Status  
+Waitlisted Proponents that become eligible for contract negotiations may be notified at the 
+commencement of the negotiation process with the top-ranked proponent.  
+2.8 
+Reservation of Rights and Discretion Authority 
+Notwithstanding any other provision of this RFP, Cowichan Tribes reserves the right, in its sole 
+discretion, to take any action it deems necessary or appropriate at any stage of the procurement 
+process. This includes, without limitation, the right to modify the process, waive non-material 
+deficiencies or requirements, reject any or all proposals, negotiate with any or all proponents, or 
+cancel the RFP in whole or in part, without liability or obligation to any proponent. Cowichan 
+Tribes' decisions will be final and binding, and the exercise of its discretion will be in the best 
+interest of Cowichan Tribes. 
+ 
+[End of Part 2] 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 10 of 27
+ 
+PART 3 – TERMS AND CONDITIONS OF THE RFP PROCESS 
+3.1 
+General Information and Instructions 
+3.1.1 Proponents to Follow Instructions 
+Proponents should structure their proposals in accordance with the instructions in this RFP. 
+Where information is requested in this RFP, any response made in a proposal should reference 
+the applicable section numbers of this RFP. 
+A proponent who submits conditions, options, variations, or contingent statements, either as 
+part of its proposal or after receiving notice of selection, may be disqualified. 
+3.1.2 Proposals in English 
+All proposals are to be in English only.  
+3.1.3 No Incorporation by Reference  
+The entire content of the proponent’s proposal should be submitted in a fixed format, and the 
+content of websites or other external documents referred to in the proponent’s proposal, but not 
+attached, will not be considered to form part of its proposal. 
+3.1.4 Past Performance 
+In the evaluation process, Cowichan Tribes may consider the proponent’s past performance or 
+conduct on previous contracts with Cowichan Tribes or other institutions.  
+3.1.5 Information in RFP Only an Estimate 
+Cowichan Tribes and its advisers make no representation, warranty, or guarantee as to the 
+accuracy of the information contained in this RFP or issued by way of addenda. Any quantities 
+shown or data contained in this RFP or provided by way of addenda are estimates only and are 
+for the sole purpose of indicating to proponents the general scale and scope of the Deliverables. 
+It is the proponent’s responsibility to obtain all the information necessary to prepare a proposal 
+in response to this RFP. 
+3.1.6 Proponents to Bear Their Own Costs 
+The proponent will bear all costs associated with or incurred in the preparation and presentation 
+of its proposal, including, if applicable, costs incurred for interviews or demonstrations.  
+3.1.7 Proposal to be Retained by Cowichan Tribes  
+Cowichan Tribes will not return the proposal or any accompanying documentation submitted by 
+a proponent. 
+3.1.8 No Guarantee of Volume of Work or Exclusivity of Contract  
+Cowichan Tribes makes no guarantee of the value or volume of work to be assigned to the 
+selected proponent. The agreement to be negotiated with the selected proponent will not be an 
+exclusive contract for the provision of the described Deliverables. Cowichan Tribes may contract 
+with others for goods and services the same as or similar to the Deliverables or may obtain such 
+goods and services internally. 
+3.2 
+Communication after Issuance of RFP 
+3.2.1 Proponents to Review RFP 
+Proponents should promptly examine all of the documents comprising this RFP and may direct 
+questions or seek additional information in writing by email to the RFP Contact on or before the 
+Deadline for Questions. No such communications are to be sent or initiated through any other 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 11 of 27
+ 
+means. Cowichan Tribes is under no obligation to provide additional information, and Cowichan 
+Tribes is not responsible for any information provided by or obtained from any source other than 
+the RFP Contact. It is the responsibility of the proponent to seek clarification on any matter it 
+considers to be unclear. Cowichan Tribes is not responsible for any misunderstanding on the 
+part of the proponent concerning this RFP or its process. 
+3.2.2 All New Information to Proponents by Way of Addenda  
+This RFP may be amended only by addendum in accordance with this section. If Cowichan 
+Tribes, for any reason, determines that it is necessary to provide additional information relating 
+to this RFP, such information will be communicated to all proponents by addendum. Each 
+addendum forms an integral part of this RFP and may contain important information, including 
+significant changes to this RFP. Proponents are responsible for obtaining all addenda issued by 
+Cowichan Tribes.  
+3.2.3 Post-Deadline Addenda and Extension of Submission Deadline 
+If Cowichan Tribes determines that it is necessary to issue an addendum after the Deadline for 
+Issuing Addenda, Cowichan Tribes may extend the Submission Deadline for a reasonable 
+period of time. 
+3.2.4 Verify, Clarify, and Supplement 
+When evaluating proposals, Cowichan Tribes may request further information from the 
+proponent or third parties in order to verify, clarify, or supplement the information provided in the 
+proponent’s proposal. Cowichan Tribes may revisit, re-evaluate, and rescore the proponent’s 
+response or ranking on the basis of any such information. 
+3.3 
+Notification and Debriefing 
+3.3.1 Notification to Other Proponents  
+Once an agreement is executed by Cowichan Tribes and a proponent, the other proponents 
+may be notified directly in writing and will be notified by public posting of the outcome of the 
+procurement process. 
+3.3.2 Debriefing 
+Proponents may request a debriefing after receipt of a notification of the outcome of the 
+procurement process. All requests must be in writing to the RFP Contact and must be made 
+within thirty (30) days of such notification. The RFP Contact will contact the proponent’s 
+representative to schedule the debriefing. Debriefings may occur in person at Cowichan Tribes’ 
+location or by way of conference call or other remote meeting format as prescribed by Cowichan 
+Tribes. 
+3.3.3 Procurement Protest Procedure 
+Any proponent with concerns about the RFP process is required to attend a debriefing prior to 
+proceeding with a protest.  
+If, after attending a debriefing, the proponent wishes to challenge the RFP process, it should 
+provide written notice to the RFP Contact in accordance with applicable procurement protest 
+procedures. The written notice must contain: 
+(a) a clear statement as to which procurement the proponent wishes to challenge;  
+(b) a clear explanation of the proponent’s concerns with the procurement, including specifics 
+as to why it disagrees with the procurement process or its outcome; and 
+(c) the proponent’s contact details, including name, telephone number, and email address. 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 12 of 27
+ 
+Cowichan Tribes will send an initial response to acknowledge receipt of the proponent’s notice 
+and indicate the date by which Cowichan Tribes will provide the proponent with a formal 
+response.  
+3.4 
+Conflict of Interest and Prohibited Conduct 
+3.4.1 Conflict of Interest 
+For the purposes of this RFP, the term “Conflict of Interest” includes, but is not limited to, any 
+situation or circumstance where: 
+(a) 
+in relation to the RFP process, the proponent has an unfair advantage or engages in 
+conduct, directly or indirectly, that may give it an unfair advantage, including, but not 
+limited to: 
+(i) 
+having or having access to confidential information of Cowichan Tribes in the 
+preparation of its proposal that is not available to other proponents;  
+(ii) 
+having been involved in the development of the RFP, including having provided 
+advice or assistance in the development of the RFP;  
+(iii) 
+receiving advice or assistance in the preparation of its response from any 
+individual or entity that was involved in the development of the RFP;  
+(iv) 
+communicating with any person with a view to influencing preferred treatment in 
+the RFP process (including, but not limited to, the lobbying of decision-makers 
+involved in the RFP process); or  
+(v) 
+engaging in conduct that compromises, or could be seen to compromise, the 
+integrity of the open and competitive RFP process or render that process non-
+competitive or unfair; or 
+(b) 
+in relation to the performance of its contractual obligations under a contract for the 
+Deliverables, the proponent’s other commitments, relationships, or financial interests:  
+(i) 
+could, or could be seen to, exercise an improper influence over the objective, 
+unbiased, and impartial exercise of its independent judgement; or  
+(ii) 
+could, or could be seen to, compromise, impair, or be incompatible with the 
+effective performance of its contractual obligations. 
+3.4.2 Disqualification for Conflict of Interest 
+Cowichan Tribes may disqualify a proponent for any conduct, situation, or circumstances, 
+determined by Cowichan Tribes, in its sole and absolute discretion, to constitute a Conflict of 
+Interest as defined above.  
+An existing supplier of Cowichan Tribes may be precluded from participating in the RFP process 
+in instances where Cowichan Tribes has determined that the supplier has a competitive 
+advantage that cannot be adequately addressed to mitigate against unfair advantage. This may 
+include, without limitation, situations in which an existing supplier is in a position to create 
+unnecessary barriers to competition through the manner in which it performs its existing 
+contracts, or situations where the incumbent fails to provide the information within its control or 
+otherwise engages in conduct obstructive to a fair competitive process. 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 13 of 27
+ 
+3.4.3 Disqualification for Prohibited Conduct 
+Cowichan Tribes may disqualify a proponent, rescind an invitation to negotiate, or terminate a 
+contract subsequently entered into if Cowichan Tribes determines that the proponent has 
+engaged in any conduct prohibited by this RFP. 
+3.4.4 Prohibited Proponent Communications 
+Proponents must not engage in any communications that could constitute a Conflict of Interest 
+and should take note of the Conflict of Interest declaration set out in the Submission Form 
+(Appendix C).  
+3.4.5 Proponent Not to Communicate with Media 
+Proponents must not, at any time directly or indirectly, communicate with the media in relation to 
+this RFP or any agreement entered into pursuant to this RFP without first obtaining the written 
+permission of the RFP Contact. 
+3.4.6 No Lobbying 
+Proponents must not, in relation to this RFP or the evaluation and selection process, engage 
+directly or indirectly in any form of political or other lobbying whatsoever to influence the 
+selection of the selected proponent(s).  
+3.4.7 Illegal or Unethical Conduct 
+Proponents must not engage in any illegal business practices, including activities such as bid-
+rigging, price-fixing, bribery, fraud, coercion, or collusion. Proponents must not engage in any 
+unethical conduct, including lobbying, as described above, or other inappropriate 
+communications; offering gifts to any employees, officers, agents, elected or appointed officials, 
+or other representatives of Cowichan Tribes; deceitfulness; submitting proposals containing 
+misrepresentations or other misleading or inaccurate information; or any other conduct that 
+compromises or may be seen to compromise the competitive process provided for in this RFP. 
+3.4.8 Supplier Suspension  
+Cowichan Tribes may suspend a supplier from participating in its procurement processes for 
+prescribed time periods based on past performance or based on inappropriate conduct, 
+including, but not limited to, the following:  
+(a) 
+illegal or unethical conduct as described above;  
+(b) 
+the refusal of the supplier to honour its submitted pricing or other commitments;  
+(c) 
+engaging in litigious conduct, bringing frivolous or vexatious claims in connection with 
+Cowichan Tribes’ procurement processes or contracts, or engaging in conduct 
+obstructive to a fair competitive process; or 
+(d) 
+any conduct, situation, or circumstance determined by Cowichan Tribes, in its sole and 
+absolute discretion, to have constituted an undisclosed Conflict of Interest.  
+In advance of a decision to suspend a supplier, Cowichan Tribes will notify the supplier of the 
+grounds for the suspension and the supplier will have an opportunity to respond within a 
+timeframe stated in the notice. Any response received from the supplier within that timeframe 
+will be considered by Cowichan Tribes in making its final decision. 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 14 of 27
+ 
+3.5 
+Confidential Information 
+3.5.1 Confidential Information of Cowichan Tribes  
+All information provided by or obtained from Cowichan Tribes in any form in connection with this 
+RFP either before or after the issuance of this RFP: 
+(a) 
+is the sole property of Cowichan Tribes and must be treated as confidential; 
+(b) 
+is not to be used for any purpose other than replying to this RFP and the performance of 
+any subsequent contract for the Deliverables; 
+(c) 
+must not be disclosed without prior written authorization from Cowichan Tribes; and 
+(d) 
+must be returned by the proponent to Cowichan Tribes immediately upon the request of 
+Cowichan Tribes. 
+3.5.2 Confidential Information of Proponent 
+A proponent should identify any information in its proposal or any accompanying documentation 
+supplied in confidence for which confidentiality is to be maintained by Cowichan Tribes. The 
+confidentiality of such information will be maintained by Cowichan Tribes, except as otherwise 
+required by law or by order of a court or tribunal. Proponents are advised that their proposals 
+will, as necessary, be disclosed, on a confidential basis, to advisers retained by Cowichan 
+Tribes to advise or assist with the RFP process, including the evaluation of proposals. If a 
+proponent has any questions about the collection and use of personal information pursuant to 
+this RFP, questions are to be submitted to the RFP Contact. 
+3.6 
+Procurement Process Non-Binding 
+3.6.1 No Contract A and No Claims 
+This procurement process is not intended to create and will not create a formal, legally binding 
+bidding process and will instead be governed by the law applicable to direct commercial 
+negotiations. For greater certainty, and without limitation:  
+(a) 
+this RFP will not give rise to any Contract-A-based tendering law duties or any other 
+legal obligations arising out of any process contract or collateral contract; and  
+(b) 
+neither the proponent nor Cowichan Tribes will have the right to make any claims (in 
+contract, tort, or otherwise) against the other with respect to the award of a contract, 
+failure to award a contract, or failure to honour a proposal submitted in response to this 
+RFP.  
+3.6.2 No Contract until Execution of Written Agreement 
+This RFP process is intended to identify prospective suppliers for the purposes of negotiating 
+potential agreements. No legal relationship or obligation regarding the procurement of any good 
+or service will be created between the proponent and Cowichan Tribes by this RFP process until 
+the successful negotiation and execution of a written agreement for the acquisition of such 
+goods and/or services.  
+3.6.3 Non-Binding Price Estimates 
+While the pricing information provided in proposals will be non-binding prior to the execution of a 
+written agreement, such information will be assessed during the evaluation of the proposals and 
+the ranking of the proponents. Any inaccurate, misleading, or incomplete information, including 
+withdrawn or altered pricing, could adversely impact any such evaluation or ranking or the 
+decision of Cowichan Tribes to enter into an agreement for the Deliverables.  
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 15 of 27
+ 
+3.6.4 Cancellation 
+Cowichan Tribes may cancel or amend the RFP process without liability at any time. 
+3.7 
+Governing Law and Interpretation 
+These Terms and Conditions of the RFP Process (Part 3):  
+(a) 
+are intended to be interpreted broadly and independently (with no particular provision 
+intended to limit the scope of any other provision);  
+(b) 
+are non-exhaustive and will not be construed as intending to limit the pre-existing rights 
+of the parties to engage in pre-contractual discussions in accordance with the common 
+law governing direct commercial negotiations; and  
+(c) 
+are to be governed by and construed in accordance with the laws of the province of 
+British Columbia and the federal laws of Canada applicable therein. 
+[End of Part 3] 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 16 of 27
+ 
+APPENDIX A – FORM OF AGREEMENT 
+BETWEEN: 
+Cowichan Tribes 
+AND: 
+[The selected Vendor] 
+(referred to as the “Vendor”) 
+In consideration of their respective agreements set out herein, the parties covenant and agree 
+as follows: 
+1. Contract Documents 
+The contract between the parties in respect of: 
+Enterprise Resource Planning (ERP) System  
+Is comprised of the following documents, which are collectively referred to as the “Contract”: 
+(a) This Agreement; 
+(b) The Deliverables, Mandatory Submission Requirements, Mandatory Technical 
+Requirements, Pre-conditions of Award, and Evaluation Criteria attached hereto as 
+Appendix B – RFP Particulars; 
+(c) The Terms and Conditions of the RFP process attached in Part 3; 
+(d) The Enterprise Resource Planning (ERP) System, RFP-[Enter RFP #], including any 
+addenda; and 
+(e) All the documentation submitted by the Vendor in response to this RFP. 
+ 
+2. Interpretive Value of Contract Documents 
+Any ambiguity, conflict, or inconsistency between or among the documents comprising the 
+Contract will be resolved by giving precedence to the express terms of the documents in the 
+order in which they appear in Appendix B – RFP Particulars, so that a first-mentioned 
+document shall prevail notwithstanding any term or aspect of a later-mentioned document. 
+3. Execution 
+This Agreement may be executed and (i) delivered by facsimile transmission or (ii) scanned and 
+delivered by electronic transmission, and when so executed and delivered, will be deemed an 
+original. 
+ 
+ 
+ 
+ 
+ 
+ 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 17 of 27
+ 
+IN WITNESS WHEREOF the parties hereto have executed this Agreement as of the date 
+written below. 
+ 
+Cowichan Tribes 
+Signature: 
+Name: 
+Title: 
+Date of Signature: 
+I have the authority to bind Cowichan Tribes. 
+ 
+[**Insert Vendor’s Full Legal Name**] 
+Signature: 
+Name: 
+Title: 
+Date of Signature: 
+I have the authority to bind the Vendor. 
+ 
+ 
+ 
+ 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 18 of 27
+ 
+APPENDIX B – RFP PARTICULARS 
+ 
+A. THE DELIVERABLES 
+The deliverables for this RFP are detailed in the table below. 
+Deliverable (Attachment Format) 
+Details and Location 
+Signed Submission Form (PDF) 
+Form located in Appendix C. 
+Narrative Response (PDF) 
+Required content detailed in Narrative Response Request, 
+located just below. 
+Pricing Sheet (Excel) 
+Described in Appendix B – Section G.  Template for 
+workbook provided - Cowichan Tribes ERP Pricing.xlsx 
+Requirements (Excel) 
+Instructions are in the provided requirements workbook - 
+Cowichan Tribes ERP Requirements.xlsx 
+ 
+Narrative Response Request 
+Proponents are requested to organize their narrative response as follows: 
+Section 1 
+Executive 
+Summary  
+• 
+Provide an understanding of the industry and regulatory 
+environment in which Cowichan Tribes operates in. 
+• 
+Provide a high-level understanding of the scope, objectives, and 
+requirements presented in the RFP.  
+Section 2 
+Proponent 
+Overview and 
+Capabilities 
+• 
+Proponent background, organizational structure, and location of 
+head office in Canada 
+• 
+Address and location of the office(s) from which work will be 
+performed 
+• 
+Number of years in business 
+• 
+Size of organization by annual operating revenue, number of 
+employees 
+• 
+Description of the range of activities and services provided by 
+the Proponent 
+• 
+Account and contract management structure  
+• 
+Description of how the corporate-wide experience and expertise 
+will be brought to bear on the proposed work 
+Section 3 
+Finance 
+Overview 
+• 
+In addition to the Requirements Sheet responses, provide a 
+brief overview of how the system addresses the following 
+Finance-related functionalities and requirements of Cowichan 
+Tribes: 
+o 
+Core Finance 
+o 
+Budgeting 
+o 
+Fixed Assets & Job Cost 
+o 
+General Accounting 
+o 
+Property Management 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 19 of 27
+ 
+o 
+Reporting 
+Section 4 
+Procurement 
+Overview 
+• 
+In addition to the Requirements Sheet responses, provide a 
+brief overview of how the system addresses the following 
+Procurement-related functionalities and requirements of 
+Cowichan Tribes: 
+o 
+Expense Management 
+o 
+Inventory Management 
+o 
+P-card Management 
+o 
+Purchase Order and Requisition 
+o 
+Vendor Management 
+Section 5 
+Human 
+Resources (HR) 
+Overview 
+• 
+In addition to the Requirements Sheet responses, provide a 
+brief overview of how the system addresses the following HR-
+related functionalities and requirements of Cowichan Tribes: 
+o 
+Talent Acquisition / Recruitment Process 
+o 
+Employee Lifecycle  
+ 
+Onboarding to Offboarding 
+ 
+Record Maintenance 
+ 
+Educational development 
+ 
+Tracking educational / professional credentials 
+ 
+Succession 
+o 
+Benefits Management 
+o 
+Organization Chart 
+o 
+Timesheet Management 
+o 
+Recruitment, Operations and Timesheet Reporting 
+ 
+• 
+If the solution does not include a HR management and 
+timesheet component, please indicate how these features would 
+be either integrated or implemented with the proposed system. 
+(i.e. through an HCM or Payroll partner) 
+Section 6 
+Payroll Overview
+• 
+In addition to the Requirements Sheet responses, provide an 
+overview of how the system addresses the following Payroll-
+related functionalities and requirements of Cowichan Tribes: 
+o 
+Community Rent Payments 
+o 
+Payroll Management 
+o 
+Payroll Reporting 
+ 
+• 
+If the solution does not include a Payroll and timesheet 
+component, please indicate how these features would be either 
+integrated or implemented with the proposed system. (i.e. 
+through an HCM or Payroll partner) 
+Section 7 
+Asset 
+Management 
+Overview 
+• 
+In addition to the Requirements Sheet responses, provide a 
+brief overview of how the system addresses the following 
+Asset Management-related functionalities and requirements 
+of Cowichan Tribes: 
+o 
+Asset Records 
+o 
+Asset Maintenance 
+o 
+Work Order Management 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 20 of 27
+ 
+o 
+Reporting 
+Section 8 
+Technical 
+• 
+Hosting and Solution Overview and Diagrams: Provide an 
+overview (including supporting diagrams) of the proposed 
+system(s) including information on all system modules, cloud 
+hosting platform(s), the version of the system(s) proposed, and 
+any third-party products.  
+  
+• 
+Third Party Integrations: Provide any relevant technical details 
+on any third-party integrations, detailing if they out of the box or 
+custom and how they will be managed.  
+ 
+• 
+Custom Integrations Development Capabilities:  Describe the 
+capabilities of the platforms to integrate with other systems, 
+including any on premise custom solutions at Cowichan Tribes.  
+Detail capabilities such as APIs or tools (export/imports) that 
+would enable other system integrations beyond the ones 
+proposed as part of the RFP response. 
+ 
+• 
+Platform and Operational Security: Provide a description of 
+how the proposed systems meet or exceed industry security 
+standards and how the Proponent addresses on-going and 
+emerging privacy and cybersecurity risks. Provide a list of third-
+party vendors who support cybersecurity practices within the 
+organization 
+Section 9 
+Implementation 
+Services 
+Respondents must describe the methodology they propose for the ERP 
+implementation. The description must include: 
+• 
+Overall Approach 
+o 
+Indicate whether the methodology is waterfall, agile, 
+hybrid, or another framework. 
+o 
+Justify the suitability of the proposed methodology for 
+our organization’s context. 
+ 
+• 
+Project Phases 
+Describe each phase, including but not limited to: 
+o 
+Planning & Initiation: Requirements gathering, 
+resource planning, and risk management. 
+o 
+Design & Configuration: How design decisions will be 
+validated with key stakeholders. 
+o 
+Build & Integration: Approach to iterative 
+development, configuration, and testing of integrations. 
+o 
+Data Migration: 
+ 
+Approach to data mapping, cleansing, 
+transformation, and validation. 
+ 
+Strategy for multiple rounds of data migration 
+testing. 
+ 
+Final cutover data migration plan, ensuring 
+minimal disruption. 
+ 
+Ongoing reconciliation and issue resolution 
+processes. 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 21 of 27
+ 
+o 
+Testing & Validation: How functional, integration, 
+performance, and user acceptance testing will be 
+conducted. 
+o 
+Deployment & Go-Live Support: Cutover plans, 
+training approach, and post-implementation support. 
+o 
+Change Management: Approach to stakeholder 
+engagement, communications, and training. 
+ 
+• 
+Agile Elements (If Applicable) 
+o 
+How user stories will be developed and prioritized. 
+o 
+Sprint cadence and structure. 
+o 
+Role of product owners and end users in sprint reviews 
+and backlog grooming. 
+ 
+• 
+Governance & Quality Assurance 
+o 
+Project governance structure, including steering 
+committee involvement. 
+o 
+Mechanisms for ensuring quality, meeting timelines, 
+and adhering to scope. 
+ 
+• 
+Risk Management 
+o 
+Approach to identifying, tracking, and mitigating risks 
+throughout the project lifecycle. 
+ 
+• 
+Tools & Technology 
+o 
+Specify tools used for project tracking (e.g., Jira, Azure 
+DevOps), documentation, and testing. 
+Section 10 
+Transition to 
+Ongoing 
+Support / 
+Application 
+Maintenance 
+Detail the services you will provide to transition the implementation to a 
+support team and what services that support team will provide. Provide 
+specific on: 
+• 
+Support desk service and standard service level agreement 
+• 
+Process to upgrade/transition to new releases of the platform(s) 
+• 
+If there are integrations, how the integrations will be maintained 
+as individual systems are upgraded 
+Section 11 
+References 
+At least two and at most five references for implementations involving 
+the proposed solutions in Canada.  Preference is for references to be 
+First Nation clients.  Each reference must include: 
+• 
+Name of organization 
+• 
+Contact details of reference including name, title, email, and 
+phone number 
+• 
+Description of the products implemented 
+• 
+Brief description of the services provided 
+• 
+Timeframe for the work completed 
+Section 12 
+Legal, Litigation, 
+and Terms and 
+Conditions 
+• 
+Provide a letter or a certificate of clearance from the Worker’s 
+Compensation Board that demonstrates the Proponent is in 
+good standing 
+• 
+Provide information regarding any relevant litigation within the 
+last five years or any pending litigation that could impact the 
+Proponent’s ability to provide the work 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 22 of 27
+ 
+• 
+Provide sample Service Level Agreement(s) proposed for this 
+system(s) support 
+Note: The successful Proponent must meet credit requirements as 
+established by Cowichan Tribes in its sole discretion. 
+ 
+B. MATERIAL DISCLOSURES 
+MNP provided consulting support to gather requirements and develop the RFP. 
+C. MANDATORY SUBMISSION REQUIREMENTS 
+Each Proposal must also consist of the following components: 
+1. The Proposal must be received by the Submission Deadline indicated in 1.4 RFP 
+Timetable and must be submitted using the submission method set out in 1.5 
+Submission of Proposals. 
+2. The Proposal must be in English. 
+3. A completed Submission Form in PDF format which is signed by an authorized 
+representative of the proponent described in Appendix C.  
+4. A completed Narrative Response in PDF format which follows the table contents in 
+Appendix B – Section A. 
+5. A completed Pricing Excel Workbook described in Appendix B – Section G.  Template 
+for workbook provided. 
+6. A completed Requirements Excel Workbook.  Instructions are in the provided 
+requirements workbook. 
+D. MANDATORY TECHNICAL REQUIREMENTS 
+The following sets out the mandatory technical requirements of the proponent and the proposed 
+solution: 
+1. Support for organizations operating in Canada including support for Canadian taxes and 
+Canadian Payroll. 
+2. Vendor has experience implementing solutions for First Nations in Canada. 
+3. The solution must be hosted in Canada and stores all data within Canada. 
+4. Implementation vendor(s) can demonstrate they have at least five years' experience 
+implementing Finance, HR, Payroll, and Asset Management solutions. 
+5. Solution is cloud based. 
+6. The solutions are SOC2 Type 2 compliant or equivalent.   
+Failure to meet the mandatory technical will result in disqualification from consideration. 
+E. PRE-CONDITIONS OF AWARD 
+Pre-conditions of Award are assessed on a pass/fail basis and are required only from the 
+selected proponent and must be met as a pre-condition to signing and awarding the tendered 
+contract. Pre-conditions include:  
+ 
+Reference Checks: Cowichan Tribes will follow up with the references you submitted.  
+Details on reference submission requirements are in section 10 of the Narrative 
+response.  
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 23 of 27
+ 
+ 
+Confirm Project Team Members: Confirm the designated project team members, 
+including their roles and qualifications. Any substitutions of team members must be 
+approved by Cowichan Tribes. 
+ 
+Signed Contract: Execute a contract based on the terms and conditions agreed upon, 
+including deliverables, timelines, and payment schedules. 
+F. EVALUATION CRITERIA 
+The following sets out the categories, weightings, and descriptions of the rated criteria of the 
+RFP.  
+Cowichan Tribes may disqualify a vendor that does not meet the threshold noted for each 
+category. 
+ 
+Criteria Category 
+Weighting (Points) 
+Threshold 
+Functional Fit (Requirements Worksheet) 
+35 
+28 (80%) 
+Narrative Proposal 
+20 
+14 (70%) 
+Pricing (see Section G below) 
+15 
+10.5 (70%) 
+Vendor Demonstration 
+30 
+21 (70%) 
+Total Points 
+100 
+ 
+ 
+G. PRICE EVALUATION METHOD 
+Pricing is worth 15 points of the total score. 
+Pricing will be scored based on a pricing formula using the rates set out in the Proponent’s 
+submitted Pricing Sheet (Attachment 2). Each proponent will receive a percentage of the total 
+possible points allocated to price, which will be calculated in accordance with the following 
+formula: 
+(𝑝𝑟𝑖𝑐𝑒 𝑡ℎ𝑟𝑒𝑠ℎ𝑜𝑙𝑑÷ 𝑝𝑟𝑜𝑝𝑜𝑛𝑒𝑛𝑡ᇱ𝑠 𝑝𝑟𝑖𝑐𝑒) × 𝑤𝑒𝑖𝑔ℎ𝑡𝑖𝑛𝑔= 𝑝𝑟𝑜𝑝𝑜𝑛𝑒𝑛𝑡ᇱ𝑠 𝑝𝑟𝑖𝑐𝑖𝑛𝑔 𝑝𝑜𝑖𝑛𝑡𝑠 
+Note on Threshold: Cowichan Tribes will not be publishing the price threshold that will be used 
+in this calculation.  However, the threshold will be based upon the projected costs and budget 
+available for the implementation, licensing, and support of their ERP for the next five years. 
+ 
+Instructions on How to Provide Pricing 
+(a) 
+Proponents should submit their pricing information by completing the attached Pricing 
+Sheet and including it in their proposals.  This includes details for implementing and 
+supporting the solution over a 5-year period. 
+(b) 
+Rates must be provided in Canadian funds, inclusive of all applicable duties and taxes. 
+(c) 
+Unless otherwise indicated in the requested pricing information, rates quoted by the 
+proponent must be all-inclusive and must include all labour and material costs, all travel 
+and carriage costs, all insurance costs, all costs of delivery, all costs of installation and 
+set-up, including any pre-delivery inspection charges, and all other overhead, including 
+any fees or other charges required by law. 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 24 of 27
+ 
+Cowichan Tribes is also requesting that proponents provide resource rates in the event 
+additional scope needs to be costed as part of the implementation. 
+ 
+ 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 25 of 27
+ 
+ 
+APPENDIX C – SUBMISSION FORM 
+1. Proponent Information 
+Please fill out the following form, naming one (1) person to be the proponent’s contact for the 
+RFP process and for any clarifications or communication that might be necessary. 
+Full Legal Name of Proponent: 
+ 
+Any Other Relevant Name under 
+which Proponent Carries on Business: 
+ 
+Street Address: 
+ 
+City, Province/State: 
+ 
+Postal Code: 
+ 
+Phone Number: 
+ 
+Company Website (if any): 
+ 
+Proponent Contact  
+Name and Title: 
+ 
+ 
+Proponent Contact Phone: 
+ 
+Proponent Contact Email: 
+ 
+ 
+2. Acknowledgment of Non-Binding Procurement Process 
+The proponent acknowledges that the RFP process will be governed by the terms and 
+conditions of the RFP, and that, among other things, such terms and conditions confirm that this 
+procurement process does not constitute a formal, legally binding bidding process (and for 
+greater certainty, does not give rise to a Contract A bidding process contract), and that no legal 
+relationship or obligation regarding the procurement of any good or service will be created 
+between Cowichan Tribes and the proponent unless and until Cowichan Tribes and the 
+proponent execute a written agreement for the Deliverables.  
+3. Ability to Provide Deliverables 
+The proponent has carefully examined the RFP documents and has a clear and comprehensive 
+knowledge of the Deliverables required. The proponent represents and warrants its ability to 
+provide the Deliverables in accordance with the requirements of the RFP for the rates set out in 
+its proposal.  
+4. Non-Binding Pricing 
+The proponent has submitted its pricing in accordance with the instructions in the RFP. The 
+proponent confirms that the pricing information provided is accurate. The proponent 
+acknowledges that any inaccurate, misleading, or incomplete information, including withdrawn 
+or altered pricing, could adversely impact the acceptance of its proposal or its eligibility for future 
+work.  
+5. Addenda 
+The proponent is deemed to have read and taken into account all addenda issued by Cowichan 
+Tribes prior to the Deadline for Issuing Addenda. 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 26 of 27
+ 
+6. Communication with Competitors 
+For the purposes of this RFP, the word "competitor" includes any individual or organization, 
+other than the proponent, whether or not related to or affiliated with the proponent, who could 
+potentially submit a response to this RFP. 
+Unless specifically disclosed below under Disclosure of Communications with Competitors, the 
+proponent declares that: 
+(a) it has prepared its proposal independently from, and without consultation, communication, 
+agreement, or arrangement with any competitor, including, but not limited to, consultation, 
+communication, agreement, or arrangement regarding: 
+(i) 
+prices; 
+(ii) 
+methods, factors, or formulas used to calculate prices; 
+(iii) 
+the quality, quantity, specifications, or delivery particulars of the Deliverables;  
+(iv) 
+the intention or decision to submit, or not to submit, a proposal; or 
+(v) 
+the submission of a proposal which does not meet the mandatory technical 
+requirements or specifications of the RFP; and 
+(b) it has not disclosed details of its proposal to any competitor and it will not disclose details of 
+its proposal to any competitor prior to the notification of the outcome of the procurement 
+process. 
+Disclosure of Communications with Competitors 
+If the proponent has communicated or intends to communicate with one (1) or more competitors 
+about this RFP or its proposal, the proponent discloses below the names of those competitors 
+and the nature of, and reasons for, such communications: 
+ 
+ 
+ 
+ 
+ 
+ 
+7. No Prohibited Conduct 
+The proponent declares that it has not engaged in any conduct prohibited by this RFP. 
+8. Conflict of Interest 
+The proponent must declare all potential Conflicts of Interest, as defined in Section 3.4.1 of the 
+RFP. This includes disclosing the names and all pertinent details of all individuals (employees, 
+advisers, or individuals acting in any other capacity) who (a) participated in the preparation of 
+the proposal; AND (b) were employees of Cowichan Tribes within twelve (12) months prior to 
+the Submission Deadline. 
+RFP (Consecutive Negotiations) – Enterprise Resource Planning (ERP) System 
+Page 27 of 27
+ 
+If the box below is left blank, the proponent will be deemed to declare that (a) there was no 
+Conflict of Interest in preparing its proposal; and (b) there is no foreseeable Conflict of Interest 
+in performing the contractual obligations contemplated in the RFP.  
+Otherwise, if the statement below applies, check the box.  
+ The proponent declares that there is an actual or potential Conflict of Interest relating to 
+the preparation of its proposal, and/or the proponent foresees an actual or potential 
+Conflict of Interest in performing the contractual obligations contemplated in the RFP.  
+If the proponent declares an actual or potential Conflict of Interest by marking the box above, 
+the proponent must set out below details of the actual or potential Conflict of Interest:  
+ 
+ 
+9. Disclosure of Information  
+The proponent hereby agrees that any information provided in this proposal, even if it is 
+identified as being supplied in confidence, may be disclosed where required by law or by order 
+of a court or tribunal. The proponent hereby consents to the disclosure, on a confidential basis, 
+of this proposal by Cowichan Tribes to the advisers retained by Cowichan Tribes to advise or 
+assist with the RFP process, including with respect to the evaluation of this proposal.  
+ 
+ 
+ 
+Signature of Proponent Representative
+ 
+ 
+ 
+Name of Proponent Representative 
+ 
+ 
+ 
+Title of Proponent Representative 
+ 
+ 
+ 
+Date
+ 
+ 
+I have the authority to bind the proponent.
+ 

@@ -1,0 +1,23 @@
+apiVersion: v1
+kind: Service
+
+metadata:
+  name: rfp-dual-serving
+  namespace: team
+
+spec:
+  selector:
+    app: rfp-dual-serving
+
+  type: ClusterIP
+
+  ports:
+    - name: granite
+      protocol: TCP
+      port: 8000
+      targetPort: 8000
+
+    - name: qwen
+      protocol: TCP
+      port: 8001
+      targetPort: 8001

@@ -1,0 +1,1801 @@
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 1 of 39 
+Request for Proposals 
+For 
+ERP Requirements Analysis and Readiness 
+Review
+Request for Proposals No.: RFP 25-004 
+Issued: March 27, 2025 
+Submission Deadline:   May 14, 2025, 2.00 PM MST Alberta Time 
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 2 of 39 
+TABLE OF CONTENTS 
+Request for Proposals No.: RFP 25-004 .................................................................................. 1 
+Issued: April 02, 2025, .............................................................................................................. 1 
+Submission Deadline:   May 14, 2025, 2.00 PM MST Alberta Time ........................................ 1 
+1.1Invitation to Proponents ...................................................................................................... 3 
+1.2RFP Contact ....................................................................................................................... 4 
+1.3Type of Contract for Deliverables ....................................................................................... 4 
+1.4RFP Timetable.................................................................................................................... 4 
+1.5Submission of Proposals .................................................................................................... 5 
+PART 2 – EVALUATION, NEGOTIATION AND AWARD........................................................... 6 
+2.1Stages of Evaluation and Negotiation ................................................................................. 6 
+2.2Stage I – Mandatory Submission Requirements ................................................................. 6 
+2.3Stage II – Evaluation .......................................................................................................... 6 
+2.4Stage III – Pricing ............................................................................................................... 6 
+2.5Stage IV – Ranking and Contract Negotiations ................................................................... 6 
+2.6. Interview with All or shortlisted Proponent ........................................................................ 7 
+PART 3 – TERMS AND CONDITIONS OF THE RFP PROCESS ............................................... 8 
+3.1General Information and Instructions .................................................................................. 8 
+3.2Communication after Issuance of RFP ............................................................................... 9 
+3.3Notification and Debriefing .................................................................................................. 9 
+3.4Conflict of Interest and Prohibited Conduct ....................................................................... 10 
+3.5Confidential Information .................................................................................................... 12 
+3.6Procurement Process Non-Binding ................................................................................... 13 
+3.7Governing Law and Interpretation ..................................................................................... 13 
+APPENDIX A – FORM OF AGREEMENT ................................................................................ 15 
+APPENDIX B – SUBMISSION FORM ...................................................................................... 16 
+APPENDIX C – PRICING ......................................................................................................... 19 
+APPENDIX D – Scope of Work /RFP PARTICULARS ............................................................ 20 
+A1.PROJECT OVERVIEW: ................................................................................................... 20 
+A2. BACKGROUND INFORMATION: .................................................................................... 20 
+A3. PROJECT SCOPE: ......................................................................................................... 21 
+A4. PROJECT TEAM ............................................................................................................ 27 
+B. MANDATORY SUBMISSION REQUIREMENTS ............................................................... 29 
+C. RATED CRITERIA ............................................................................................................ 29 
+D. CONFIDENTIALITY OF EVALUATION ............................................................................ 35 
+E. ACCEPTANCE OR REJECTION OF PROPOSALS ......................................................... 35 
+F. PRICING SCHEDULE ...................................................................................................... 36 
+Appendix E .............................................................................................................................. 37 
+Organizational Chart ............................................................................................................... 37 
+Appendix F............................................................................................................................... 38 
+Current Financial System and Other Standalone ................................................................. 38 
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 3 of 39 
+PART 1 – INVITATION AND SUBMISSION INSTRUCTIONS 
+1.1 Invitation to Proponents 
+This Request for Proposals (the “RFP”) is an invitation by Rocky View County (the “County”) to 
+qualified prospective proponents to submit proposals for the County’s ERP Requirements 
+Analysis and Readiness Review, as further described in Section A of Appendix D of this RFP. 
+Through this RFP Rocky View County seeks to: 
+(a) Select the Preferred Proponent with whom to negotiate a contract.
+(b) Specify the requirements that would govern any resulting agreement(s).
+(c) Determine costs.
+It is the County’s intention to enter into a contract with one proponent. The County is using a 
+multi-stage, Negotiated Request for Proposal procurement process to select a proponent: 
+(a) Proposals will be submitted and evaluated as described in this RFP.
+(b) Evaluations will be multi-stage as described further in this document under Part 2 –
+Evaluation, Negotiation, and Award.
+(c) After evaluations, the proponent with the highest overall score will become the County’s
+preferred proponent for negotiation into a Contract.
+(d) Should a Contract not be reached to the County’s satisfaction with the preferred
+proponent, the County may select another proponent for negotiation.
+(e) Contract and pricing negotiations will be entered into with the preferred proponent.
+It is the County’s intention to conduct negotiations with proponents based on rankings resulting 
+from the evaluation of the proposals. These negotiations may be with respect to the description 
+of work, price, terms, conditions, or any other matter forming part of this RFP. The negotiation 
+stage of the RFP will not provide proponents the opportunity to submit information that should 
+have been included prior to the proposal deadline. If contract negotiations with the Preferred 
+Proponent are unsuccessful, the County will discontinue negotiations with the Preferred 
+Proponent and may begin the negotiation process anew with the proponent with the next highest 
+overall score, who then becomes the Preferred Proponent, and so on. 
+Rocky View County is located in the southern portion of the Province of Alberta. With its land 
+area of 972,264 acres or 3,934km².  Rocky View County borders the City of Calgary on three 
+sides, north, west, and east. It has one of the largest common boundaries between any adjacent 
+municipality in Canada. It has numerous farms, small acreages, commercial developments, 
+natural resource extraction sites, and some light industries relating to the oil and gas sector. It 
+envelops a number of small urban centers, such as the cities of Airdrie and Chestermere, the 
+Towns of Cochrane, Irricana, and Crossfield as well as the Hamlet of Langdon and the Village 
+of Beiseker.  
+Rocky View County is nestled at the base of the foothills just east of the Rocky Mountains. Its 
+varied landscape consists of prairie, rolling foothills, and spectacular views of the white capped 
+Rocky Mountains. Rocky View County has beautiful scenery and is proximate to the City of 
+Calgary, which boasts a world class International Airport. Moreover, the convenience and 
+abundance of outdoor activities, in addition to well-located non-farmland suitable for 
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 4 of 39 
+development, makes Rocky View County one of the most desirable places in which to live and 
+do business in all of mid-western Canada. 
+For more information about Rocky View County, please refer to: www.rockyview.ca 
+1.2 RFP Contact 
+For the purposes of this procurement process, the “RFP Contact” will be  Indra Ghosh, Supervisor 
+of Purchasing and Treasury.  
+PublicBids@rockyview.ca 
+Proponents and their representatives are not permitted to contact any employees, officers, 
+agents, elected or appointed officials, or other representatives of the County, other than the RFP 
+contact, concerning matters regarding this RFP. Failure to adhere to this rule may result in the 
+disqualification of the proponent and the rejection of the proponent’s proposal. 
+When communicating to PublicBids@rockyview.ca: please use as a reference for the recipient, 
+the Request for Proposals No. found on the cover page of this RFP. 
+1.3 Type of Contract for Deliverables 
+The selected proponent will be requested to enter into direct contract negotiations to finalize an 
+agreement with the County for the provision of the Deliverables. The terms and conditions found 
+in the Sample Form of Agreement in Appendix A of this RFP are to form the basis for commencing 
+negotiations between the County and the selected proponent. It is the County’s intention to enter 
+into an agreement with only one (1) legal entity. The agreement resulting from this RFP shall be 
+in effect from the date of official acceptance by the County until December 31, 2025, subject to 
+the following: 
+(a) When mutually agreeable between the County and the successful proponent, this
+agreement may be renewed under the same terms and conditions for a period of up to
+one (1) additional year and said option to renew this agreement for an additional one (1)
+year period, shall be in effect for each year thereafter for a total period not to exceed three
+(3) years.
+(b) For annual renewals to this agreement, this proposal shall be used as the basis for
+negotiations. Price adjustments shall be negotiated annually to reflect current market
+conditions, revised quantities, changes to specifications, etc. Any price increase or
+decrease must be substantiated to the County by the proponent by February 1 (tentative)
+of the following year.
+1.4 RFP Timetable 
+The following RFP timetable is based on the best available information and will govern the process 
+unless amended by the County: 
+Issue Date of RFP 
+March 27, 2025 
+Deadline for Questions 
+ April 17, 2025, 2 PM MST 
+Issuing Addenda 
+April 23, 2025 
+Proposal Submission Deadline 
+ May 14, 2025, 2 PM MST 
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 5 of 39 
+Rectification Period 
+“2” business days 
+Proposal Review Period 
+“7” business days (Tentative) 
+Interview and Presentation 
+“7” business days (Tentative) 
+Contract Negotiation Period 
+“15” business days (Tentative) 
+Anticipated Execution of Agreement 
+June 30, 2025 (Tentative) 
+The RFP timetable is tentative only and may be changed by the County at any time. For greater 
+clarity, business days mean all days that the County is open for business. 
+1.5 Submission of Proposals 
+1.5.1 Proposals to be Submitted Electronically 
+Proposals must be addressed to:   
+Purchasing Department  
+Rocky View County 
+Attention: Indra Ghosh, 
+Email: PublicBids@rockyview.ca 
+1.5.2 Proposals to be Submitted on Time 
+Proposals must be received electronically on or before the Submission Deadline May 14, 2025, 
+2:00 PM MST. Subject to the process described below, proposals submitted after the Submission 
+Deadline will be rejected.  
+1.5.3 Proposals to be Submitted in Prescribed Format 
+Proposals must be submitted in PDF and received electronically and should be prominently 
+marked with the RFP title and number (see RFP cover), with the full legal name and return 
+address of the proponent. Proponent to complete Submission Form set out in Appendix B of this 
+RFP and include it as part of the proposal submission. 
+1.5.4 Amendment of Proposals 
+Proponents may amend their proposals before the Submission Deadline by submitting the 
+amendment electronically by mail: PublicBids@rockyview.ca. Any amendment should clearly 
+indicate which part of the proposal the amendment is intended to amend or replace. 
+1.5.5 Withdrawal of Proposals 
+At any time throughout the RFP process until the execution of a written agreement for 
+the provision of the Deliverables, a proponent may withdraw a submitted proposal. To withdraw 
+a proposal, a notice of withdrawal must be sent to the RFP Contact and must be signed by an 
+authorized representative of the proponent. The County is under no obligation to return withdrawn 
+proposals. 
+[End of Part 1] 
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 6 of 39 
+ PART 2 – EVALUATION, NEGOTIATION AND AWARD 
+2.1 Stages of Evaluation and Negotiation 
+The County will conduct the evaluation of proposals and negotiations in the following stages: 
+2.2 Stage I – Mandatory Submission Requirements 
+Stage I will consist of a review to determine which proposals comply with all of the mandatory 
+submission requirements. If a proposal fails to satisfy all of the mandatory submission 
+requirements, the County will issue the proponent a rectification notice identifying the deficiencies 
+and providing the proponent an opportunity to rectify the deficiencies. If the proponent fails to 
+satisfy the mandatory submission requirements within the Rectification Period, its proposal will be 
+rejected. The Rectification Period will begin to run from the date and time that the County issues 
+a rectification notice to the proponent. The mandatory submission requirements are set out in 
+Section B of Appendix D of this RFP.    
+2.3 Stage II – Evaluation 
+Stage II will consist of evaluating each qualified proposal on the basis of the non-price rated 
+criteria as set out in Section C of Appendix D of this RFP. 
+2.4 Stage III – Pricing 
+Stage III will consist of a scoring of the submitted pricing of each qualified proposal in accordance 
+with the price evaluation method set out in Appendix C of this RFP. The evaluation of price will 
+be undertaken after the evaluation of mandatory requirements and rated criteria has been 
+completed. 
+2.5 Stage IV – Ranking and Contract Negotiations 
+2.5.1 Ranking of Proponents 
+After the completion of Stage III, all scores from Stage II and Stage III will be added together and 
+the proponents will be ranked based on their total scores. The top-ranked proponent will receive 
+a written invitation to enter into direct contract negotiations to finalize the agreement with the 
+County.  In the event of a tie, the selected proponent will be the proponent with the highest score 
+on the non-price-rated criteria. 
+2.5.2 Contract Negotiation Process 
+Any negotiations will be subject to the process rules contained in the Terms and Conditions of the 
+RFP process as set out in Part 3 of this RFP and will not constitute “Contract A” a legally binding 
+offer to enter into a contract on the part of the County or the proponent and there will be no legally 
+binding relationship created with any proponent prior to the execution of a written agreement. The 
+terms and conditions found in the Sample Form of Agreement in Appendix A of this RFP are to 
+form the basis for commencing negotiations between the County and the selected proponent. 
+Negotiations may include requests by the County for supplementary information from the 
+proponent to verify, clarify, or supplement the information provided in its proposal or to confirm 
+the conclusions reached in the evaluation, and may include requests by the County for improved 
+pricing or performance terms from the proponent.  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 7 of 39 
+2.5.3 Time Period for Negotiations 
+The County intends to conclude negotiations and finalize the agreement with the top-ranked 
+proponent during the Contract Negotiation Period, commencing from the date the County invites 
+the top-ranked proponent to enter negotiations. A proponent invited to enter into direct contract 
+negotiations should therefore be prepared to provide requested information in a timely fashion 
+and conduct its negotiations expeditiously. 
+2.5.4 Failure to Enter into an Agreement 
+If the County and the top-ranked proponent cannot conclude negotiations and finalize the 
+agreement for the Deliverables within the Contract Negotiation Period, the County may 
+discontinue negotiations with the top-ranked proponent and may invite the next-best-ranked 
+proponent to enter into negotiations. This process will continue until an agreement is finalized, 
+until there are no more proponents remaining that are eligible for negotiations, or until the County 
+elects to cancel the RFP process.   
+2.5.5 Notification of Negotiation Status 
+Other proponents that may become eligible for contract negotiations may be notified at the 
+commencement of the negotiation process with the top-ranked proponent. 
+2.6.  Interview with All or shortlisted Proponent 
+After completion of the initial review, the 2nd level evaluation may be conducted through 
+presentation and Interview. If required Rocky View County’s evaluation team may call all the 
+proponents or shortlisted proponents for 2nd level interview. After 1st level evaluation and 2nd level 
+evaluation, the total score will be determined, and a successful proponent will be selected. [End 
+of Part 2] 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 8 of 39 
+ 
+PART 3 – TERMS AND CONDITIONS OF THE RFP PROCESS 
+3.1 General Information and Instructions 
+3.1.1 Proponents to Follow Instructions 
+Proponents should structure their proposals in accordance with the instructions in this RFP. 
+Where information is requested in this RFP, any response made in a proposal should reference 
+the applicable section numbers of this RFP. 
+3.1.2 Proposals in English 
+All proposals are to be in English only.  
+3.1.3 No Incorporation by Reference  
+The entire content of the proponent’s proposal should be submitted in a fixed form, and the 
+content of websites or other external documents referred to in the proponent’s proposal but not 
+attached will not be considered to form part of its proposal. 
+3.1.4 References and Past Performance 
+In the evaluation process, the County may include information provided by the proponent’s 
+references and may also consider the proponent’s past performance or conduct on previous 
+contracts with the County or other institutions.  
+3.1.5 Information in RFP Only an Estimate 
+The County and its advisers make no representation, warranty, or guarantee as to the accuracy 
+of the information contained in this RFP or issued by way of addenda. Any quantities shown or 
+data contained in this RFP or provided by way of addenda are estimates only and are for the sole 
+purpose of indicating to proponents the general scale and scope of the Deliverables. It is the 
+proponent’s responsibility to obtain all the information necessary to prepare a proposal in 
+response to this RFP. 
+3.1.6 Proponents to Bear Their Own Costs 
+The proponent will bear all costs associated with or incurred in the preparation and presentation 
+of its proposal, including, if applicable, costs incurred for interviews or demonstrations.  
+3.1.7 Proposal to be Retained by the County  
+The County will not return the proposal or any accompanying documentation submitted by a 
+proponent. 
+3.1.8 No Guarantee of Volume of Work or Exclusivity of Contract  
+The County makes no guarantee of the value or volume of work to be assigned to the successful 
+proponent. The agreement to be negotiated with the selected proponent will not be an exclusive 
+contract for the provision of the described Deliverables. The County may contract with others for 
+goods and services the same as or similar to the Deliverables or may obtain such goods and 
+services internally. 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 9 of 39 
+ 
+3.2 Communication after Issuance of RFP 
+3.2.1 Proponents to Review RFP 
+Proponents should promptly examine all of the documents comprising this RFP and may direct 
+questions or seek additional information in writing by email to the RFP Contact on or before the 
+Deadline for Questions. No such communications are to be directed to anyone other than the 
+RFP Contact. The County is under no obligation to provide additional information, and the County 
+is not responsible for any information provided by or obtained from any source other than the RFP 
+Contact. It is the responsibility of the proponent to seek clarification from the RFP Contact on any 
+matter it considers to be unclear. The County is not responsible for any misunderstanding on the 
+part of the proponent concerning this RFP or its process. 
+3.2.2 All New Information to Proponents by Way of Addenda  
+This RFP may be amended only by addendum in accordance with this section. If the County, for 
+any reason, determines that it is necessary to provide additional information relating to this RFP, 
+such information will be communicated to all proponents by addendum. Each addendum forms 
+an integral part of this RFP and may contain important information, including significant changes 
+to this RFP. Proponents are responsible for obtaining all addenda issued by the County. In the 
+Submission Form in Appendix B of this RFP, proponents should confirm their receipt of all 
+addenda by setting out the number of each addendum in the space provided. 
+3.2.3 Post-Deadline Addenda and Extension of Submission Deadline 
+If the County determines that it is necessary to issue an addendum, the County may extend the 
+Submission Deadline for a reasonable period of time. 
+3.2.4  Verify, Clarify and Supplement 
+When evaluating proposals, the County may request further information from the proponent or 
+third parties in order to verify, clarify or supplement the information provided in the proponent’s 
+proposal. The County may revisit, re-evaluate, and rescore the proponent’s response or ranking 
+on the basis of any such information. 
+3.3 Notification and Debriefing 
+3.3.1 Notification to Other Proponents  
+Once an agreement is executed by the County and a proponent, the other proponents may be 
+notified directly in writing and will be notified by public posting in the same manner that this RFP 
+was originally posted of the outcome of the procurement process. 
+3.3.2 Debriefing 
+Proponents may request a debriefing after receipt of a notification of the outcome of the 
+procurement process. All requests must be in writing to the RFP Contact and must be made within 
+thirty (30) days of such notification.  
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 10 of 39 
+ 
+3.3.3 Procurement Protest Procedure 
+If a proponent wishes to challenge the RFP process, it should provide written notice to the RFP 
+Contact in accordance with the County’s procurement protest procedures and any applicable 
+trade agreement or other applicable bid protest procedures. The notice must provide a detailed 
+explanation of the proponent’s concerns with the procurement process or its outcome. 
+3.4 Conflict of Interest and Prohibited Conduct 
+3.4.1 Conflict of Interest 
+For the purposes of this RFP, the term “Conflict of Interest” includes, but is not limited to, any 
+situation or circumstance where: 
+(a) in relation to the RFP process, the proponent has an unfair advantage or engages in conduct, 
+directly or indirectly, that may give it an unfair advantage, including but not limited to:  
+ 
+(i) 
+having, or having access to, confidential information of the County in the preparation 
+of its proposal that is not available to other proponents. 
+(ii) 
+communicating with any person with a view to influencing preferred treatment in the 
+RFP process (including but not limited to the lobbying of decision makers involved in 
+the RFP process), or  
+(iii) 
+engaging in conduct that compromises, or could be seen to compromise, the integrity 
+of the open and competitive RFP process or render that process non-competitive or 
+unfair; or 
+(b) in relation to the performance of its contractual obligations under a contract for the 
+deliverables, the proponent’s other commitments, relationships, or financial interests  
+ 
+(i) 
+could, or could be seen to, exercise an improper influence over the objective, 
+unbiased, and impartial exercise of its independent judgement; or  
+ 
+(ii) 
+could, or could be seen to, compromise, impair or be incompatible with the effective 
+performance of its contractual obligations. 
+Proponents must: 
+(a) avoid any Conflict of Interest in relation to the RFP. 
+ 
+(b) immediately disclose to the County any actual or potential Conflict of Interest that arises during 
+the RFP process; and 
+ 
+(c) comply with any requirements prescribed by the County to resolve any Conflict of Interest. 
+If a proponent considers that a particular circumstance, situation, relationship, or association does 
+not create a Conflict of Interest and will not create a perception of a Conflict of Interest, but is 
+concerned that the County could arrive at a different conclusion, the proponent should fully 
+disclose the circumstances to the County at the earliest possible date, and request that the County 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 11 of 39 
+ 
+provide an advance interpretation as to whether it creates a Conflict of Interest or a perception of 
+Conflict of Interest. The County will provide confidential responses to such inquiries. 
+3.4.2 Ineligible Persons 
+The following individuals are not eligible to participate, either directly or indirectly, as a proponent 
+or as a proponent’s team member or subcontractor (the “Ineligible Persons”):  
+(a) any individual that is currently employed by the County or that was formerly employed by the 
+County any time within 12 months preceding the Submission Deadline; or 
+ 
+(b) any member of County Council or any closely connected person (as defined in applicable 
+legislation). 
+Proponents must disclose if any of their proposed or intended team members or subcontractors 
+are associated with any Ineligible Person. The County may, in its sole discretion determine that 
+the association constitutes a potential or perceived Conflict of Interest, and the County may, in its 
+sole discretion: 
+(a) prohibit the participation of the associated entity; or  
+ 
+(b) disqualify the proponent in accordance with section 3.4.3 below; or, 
+ 
+(c) prescribe requirements to resolve the Conflict of Interest and allow the participation of the 
+associated entity. 
+3.4.3 Disqualification for Conflict of Interest 
+The County may disqualify a proponent where any conduct, circumstance, situation, relationship, 
+or association is determined by the County, in its sole and absolute discretion, to constitute a 
+Conflict of Interest and: 
+(a) the proponent has failed to disclose the Conflict of Interest. 
+ 
+(b) the proponent or any of its team members or subcontractors fails to comply with any 
+requirements prescribed by the County to resolve a Conflict of Interest; or 
+ 
+(c) the County determines, in its sole discretion, that the Conflict-of-Interest issue cannot be 
+resolved. 
+3.4.4 Disqualification for Prohibited Conduct 
+The County may disqualify a proponent, rescind an invitation to negotiate or terminate a contract 
+subsequently entered into if the County determines that the proponent has engaged in any 
+conduct prohibited by this RFP. 
+3.4.5 Prohibited Proponent Communications 
+Proponents must not engage in any communications that could constitute a Conflict of Interest 
+and should take note of the Conflict-of-Interest declaration set out in the Submission Form in 
+Appendix B of this RFP. 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 12 of 39 
+ 
+3.4.6 Proponent Not to Communicate with Media 
+Proponents must not at any time directly or indirectly communicate with the media in relation to 
+this RFP or any agreement entered into pursuant to this RFP without first obtaining the written 
+permission of the RFP Contact. 
+3.4.7 No Lobbying 
+Proponents must not, in relation to this RFP or the evaluation and selection process, engage 
+directly or indirectly in any form of political or other lobbying whatsoever to influence the selection 
+of the successful proponent(s).  
+3.4.8 Illegal or Unethical Conduct 
+Proponents must not engage in any illegal business practices, including activities such as bid-
+rigging, price-fixing, bribery, fraud, coercion, or collusion. Proponents must not engage in any 
+unethical conduct, including lobbying, as described above, or other inappropriate 
+communications; offering gifts to any employees, officers, agents, elected or appointed officials 
+or other representatives of the County; deceitfulness; submitting proposals containing 
+misrepresentations or other misleading or inaccurate information; or any other conduct that 
+compromises or may be seen to compromise the competitive process provided for in this RFP. 
+3.4.9 Past Performance or Past Conduct  
+The County may prohibit a supplier from participating in a procurement process based on past 
+performance or based on inappropriate conduct in a prior procurement process, including but not 
+limited to the following:  
+(a) 
+illegal or unethical conduct as described above.  
+(b) 
+the refusal of the supplier to honour its submitted pricing or other commitments; or  
+(c) 
+any conduct, situation, or circumstance determined by the County, in its sole and absolute 
+discretion, to have constituted an undisclosed Conflict of Interest.  
+3.5 Confidential Information 
+3.5.1 Confidential Information of the County  
+All information provided by or obtained from the County in any form in connection with this RFP 
+either before or after the issuance of this RFP 
+(a) 
+is the sole property of the County and must be treated as confidential; 
+(b) 
+is not to be used for any purpose other than replying to this RFP and the performance of 
+any subsequent contract for the deliverables; 
+(c) 
+must not be disclosed without prior written authorization from the County; and 
+(d) 
+must be returned by the proponent to the county immediately upon the county's request. 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 13 of 39 
+ 
+3.5.2 Confidential Information of Proponent 
+A proponent should identify any information in its proposal, or any accompanying documentation 
+supplied in confidence for which confidentiality is to be maintained by the County. The 
+confidentiality of such information will be maintained by the County, except as otherwise required 
+by law or by order of a court or tribunal. Proponents are advised that their proposals will, as 
+necessary, be disclosed, on a confidential basis, to advisers retained by the County to advise or 
+assist with the RFP process, including the evaluation of proposals. If a proponent has any 
+questions about the collection and use of personal information pursuant to this RFP, questions 
+are to be submitted to the RFP Contact. 
+3.6 Procurement Process Non-Binding 
+ 
+3.6.1 No Contract A and No Claims 
+This procurement process is not intended to create and will not create a formal, legally binding 
+bidding process and will instead be governed by the law applicable to direct commercial 
+negotiations. For greater certainty and without limitation:  
+(a) 
+this RFP will not give rise to any Contract A–based tendering law duties or any other legal 
+obligations arising out of any process contract or collateral contract; and  
+(b) 
+neither the proponent nor the County will have the right to make any claims (in contract, 
+tort, or otherwise) against the other with respect to the award of a contract, failure to award 
+a contract, or failure to honour a proposal submitted in response to this RFP.  
+3.6.2 No Contract until Execution of Written Agreement 
+This RFP process is intended to identify prospective suppliers for the purposes of negotiating 
+potential agreements. No legal relationship or obligation regarding the procurement of any good 
+or service will be created between the proponent and the County by this RFP process until the 
+successful negotiation and execution of a written agreement for the acquisition of such goods 
+and/or services.  
+3.6.3 Non-Binding Price Estimates 
+While the pricing information provided in proposals will be non-binding prior to the execution of a 
+written agreement, such information will be assessed during the evaluation of the proposals and 
+the ranking of the proponents. Any inaccurate, misleading, or incomplete information, including 
+withdrawn or altered pricing, could adversely impact any such evaluation or ranking or the 
+decision of the County to enter into an agreement for the deliverables.  
+3.6.4 Cancellation 
+The County may cancel or amend the RFP process without liability at any time. 
+3.7 Governing Law and Interpretation 
+These Terms and Conditions of the RFP Process as set out in Part 3 of this RFP:  
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 14 of 39 
+ 
+(a) 
+are intended to be interpreted broadly and independently (with no particular provision 
+intended to limit the scope of any other provision).  
+(b) 
+are non-exhaustive and will not be construed as intending to limit the pre-existing rights of 
+the parties to engage in pre-contractual discussions in accordance with the common law 
+governing direct commercial negotiations; and  
+(c) 
+are to be governed by and construed in accordance with the laws of the province of Alberta 
+and the federal laws of Canada applicable therein. 
+[End of Part 3] 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 15 of 39 
+ 
+APPENDIX A – FORM OF AGREEMENT 
+ 
+The County shall use an Independent Contractor Agreement as a form of agreement, attached.  
+Proponents shall not submit or substitute their own form of agreement. 
+Upon acceptance of the proposal by email or letter of understanding by the County, the selected 
+proponent shall complete and sign the Independent Contractor Agreement (See below sample 
+Independent Contractor Agreement and a Non-Disclosure Agreement Separately Uploaded in the 
+APC). If during the course of the project, it is apparent the Upset Fee or milestone dates will not 
+be met, the selected proponent shall immediately contact the County in writing, stating the 
+reasons for the cost overrun and additional time required. The Proponent shall make every effort 
+to review all procedures and explore all options, to avoid cost overruns and delays, and provide 
+proof that additional fees and time are required.  Approval for overruns and extension of milestone 
+dates must be obtained before the additional work is carried out.  
+ 
+Proponents are instructed to download this Sample Service Agreement and Non-Disclosure 
+Agreement from the APC site.  
+ 
+ 
+RFX Services 
+Agreement.pdf
+NDA #1.pdf
+ 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 16 of 39 
+ 
+ 
+APPENDIX B – SUBMISSION FORM 
+Proponents are instructed to complete the Submission Form below and include it in their proposal 
+submission. 
+1. Proponent Information 
+Please fill out the following form, naming one person to be the proponent’s contact for the 
+RFP process and for any clarifications or communication that might be necessary. 
+Full Legal Name of 
+Proponent: 
+ 
+Any Other Relevant Name 
+under which the Proponent 
+Carries on Business: 
+ 
+Street Address: 
+ 
+County, Province/State: 
+ 
+Postal Code: 
+ 
+Phone Number: 
+ 
+Fax Number: 
+ 
+Company The countryside 
+(if any): 
+ 
+Proponent Contact  
+Name and Title: 
+ 
+ 
+Proponent Contact Phone: 
+ 
+Proponent Contact Fax: 
+ 
+Proponent Contact Email: 
+ 
+2. Acknowledgment of Non-Binding Procurement Process 
+The proponent acknowledges that the RFP process will be governed by the terms and conditions 
+of the RFP, and that, among other things, such terms and conditions confirm that this procurement 
+process does not constitute a formal, legally binding bidding process (and for greater certainty, 
+does not give rise to a Contract A bidding process contract), and that no legal relationship or 
+obligation regarding the procurement of any good or service will be created between the County 
+and the proponent unless and until the County and the proponent execute a written agreement 
+for the Deliverables.  
+3. Ability to Provide Deliverables 
+The proponent has carefully examined the RFP documents and has a clear and comprehensive 
+knowledge of the Deliverables required. The proponent represents and warrants its ability to 
+provide the Deliverables in accordance with the requirements of the RFP for the rates set out in 
+its proposal.  
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 17 of 39 
+ 
+4. Non-Binding Pricing 
+The proponent has submitted its pricing in accordance with the instructions in the RFP and in 
+accordance with Appendix C of this RFP. The proponent confirms that the pricing information 
+provided is accurate. The proponent acknowledges that any inaccurate, misleading, or incomplete 
+information, including withdrawn or altered pricing, could adversely impact the acceptance of its 
+proposal or its eligibility for future work.  
+5. Addenda 
+The proponent is deemed to have read and taken into account all addenda issued by the County 
+prior to the RFP submission deadline. The proponent must set out below the number of each 
+addendum received: 
+ 
+ 
+ 
+6. No Prohibited Conduct 
+The proponent declares that it has not engaged in any conduct prohibited by this RFP. 
+7. Conflict of Interest 
+Proponents must declare all potential Conflicts of Interest, as defined in section 3.4.1 of the RFP. 
+This includes disclosing the names and all pertinent details of all individuals (employees, advisers, 
+or individuals acting in any other capacity) who (a) participated in the preparation of the proposal; 
+AND (b) were employees of the County within twelve (12) months prior to the Submission 
+Deadline. 
+If the box below is left blank, the proponent will be deemed to declare that (a) there was no Conflict 
+of Interest in preparing its proposal, and (b) there is no foreseeable Conflict of Interest in 
+performing the contractual obligations contemplated in the RFP.  
+Otherwise, if the statement below applies, check the box.  
+❑ The proponent declares that there is an actual or potential Conflict of Interest relating to 
+the preparation of its proposal, and/or the proponent foresees an actual or potential 
+Conflict of Interest in performing the contractual obligations contemplated in the RFP.  
+If the proponent declares an actual or potential Conflict of Interest by marking the box above, the 
+proponent must set out below the details of the actual or potential Conflict of Interest:  
+ 
+ 
+ 
+ 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 18 of 39 
+ 
+ 
+8. Disclosure of Information  
+The proponent hereby agrees that any information provided in this proposal, even if it is identified 
+as being supplied in confidence, may be disclosed where required by law or by order of a court 
+or tribunal. The proponent hereby consents to the disclosure, on a confidential basis, of this 
+proposal by the County to the advisers retained by the County to advise or assist with the RFP 
+process, including with respect to the evaluation of this proposal.  
+ 
+ 
+ 
+ 
+ 
+Signature of Witness 
+ 
+ 
+Signature of Proponent Representative 
+ 
+ 
+ 
+ 
+Name of Witness 
+ 
+Name of Proponent Representative 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Title of Proponent Representative 
+ 
+ 
+ 
+ 
+ 
+ 
+Date 
+ 
+ 
+ 
+ 
+ 
+I have the authority to bind the proponent. 
+ 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 19 of 39 
+ 
+APPENDIX C – PRICING 
+1. Instructions on How to Provide Pricing 
+(a) 
+Proponents are to complete the Pricing Schedule as set out in Section F of Appendix D of 
+this RFP and include it in their proposal. The Pricing Schedule must be completed by filling 
+in the blank spaces under the headings “Unit Price” and “Total Bid” for each item and filling 
+in the blank space for the overall “Total Bid” amount.  If a unit price is not filled in by the 
+proponent for an item, but an amount is stated in the “Total Bid” column, then the County 
+will determine the unit price by dividing the extended amount by the estimated quantity 
+and this unit price value will be considered as representing the proponent’s intentions. 
+(b) 
+Rates must be provided in Canadian ($) funds, inclusive of all applicable duties and taxes 
+except for applicable sales taxes, which should be itemized separately. 
+(c) 
+Rates quoted by the proponent must be all-inclusive and must include all labour, 
+equipment, and material costs, all travel and carriage costs, all insurance costs, all costs 
+of delivery, all costs of installation and set-up, including any pre-delivery inspection 
+charges, and all other overhead, including any fees or other charges required by law. 
+2. Evaluation of Pricing 
+Pricing is one of five (5) criteria of the RFP that proponents will be evaluated on for which points 
+will be awarded on a scale of 0 to 5 and will carry a weighting of 25% of the total RFP score.  A 
+complete list of the rated criteria including description, maximum number of points, and weighting 
+for each criterion is set out in Section C of Appendix D of this RFP. 
+**Please download the Pricing Schedule for RFP# 24-021 ERP Requirement Analysis and 
+Readiness Review from the APC website** 
+ 
+Tasks or 
+Dliverables 
+Resources/Perso
+nnel *
+Estimated 
+Hours
+Unit Price 
+($/hr 
+CAD)
+Lump 
+Sum ($ 
+CAD)
+Comments
+01
+02
+03
+04
+05
+06
+07
+08
+09
+$
+$
+Sample Pricing Schedule for RFP#24-021
+Please note: Kindly define the pricing in detail (for example, Project coordination cost, Administration cost, Resources: Junior, 
+intermediate and Expert)
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 20 of 39 
+ 
+APPENDIX D – SCOPE OF WORK /RFP PARTICULARS 
+ 
+A1. PROJECT OVERVIEW: 
+Rocky View County is embarking on a transformative journey to enhance operational 
+efficiency and streamline business processes. To pursue this goal, the County is seeking 
+proposals from experienced and qualified consultants to conduct a comprehensive Enterprise 
+Resource Planning (ERP) Requirements Analysis and Readiness Review, followed by the 
+development of a Request for Proposal (RFP) document (Scope of work) in collaboration with 
+the County’s appointed project team members, and to serve as an advisor for the ERP 
+evaluation and selection process. This integrated approach aims to ensure a seamless 
+transition towards modernizing the County's systems and processes. 
+ 
+The primary objective of this initiative is to evaluate the County's current systems, functional 
+processes, and infrastructure in-depth, focusing on assessing the County's requirements and 
+readiness for ERP implementation. The assessment will delve into various aspects, including 
+but not limited to, the County's technological capabilities, data management practices, 
+operational workflows, and organizational readiness for change. By conducting this thorough 
+evaluation, the County aims to gain valuable insights into its strengths, weaknesses, 
+opportunities, and potential challenges in new ERP adoption. 
+ 
+The findings and recommendations derived from the ERP needs analysis and readiness 
+assessment will be pivotal in guiding the County's decision-making process regarding the 
+adoption of a new ERP solution. These insights will inform strategic decisions related to 
+system upgrades, process optimizations, and resource allocations, ultimately paving the way 
+for enhanced efficiency, transparency, and accountability within the County's operations. 
+ 
+Furthermore, following the completion of the ERP Requirements Analysis and Readiness 
+Review, the selected Consultant will spearhead the development of a robust RFP scope of 
+work document that will be issued to the open market (through Alberta Purchasing 
+Connection-APC) for the selection and implementation of a new ERP system. This RFP will 
+serve as a comprehensive blueprint outlining the County's requirements, expectations, and 
+evaluation criteria for selecting an ERP vendor. Additionally, the Consultant will serve as an 
+advisor for the ERP RFP evaluation and selection process, ensuring alignment with the 
+County's strategic objectives and budgetary considerations. 
+ 
+This multifaceted initiative underscores Rocky View County's commitment to embracing 
+innovation, optimizing resources, and delivering enhanced services to its residents and 
+stakeholders. By leveraging the expertise of qualified Consultants and adopting a strategic 
+approach to ERP implementation, the County aims to position itself for long-term success and 
+sustainability in an ever-evolving digital landscape. 
+ 
+A2. BACKGROUND INFORMATION: 
+The County has been utilizing Microsoft Dynamics GP since 1996, initially implementing its 
+core financial functions. As the County expanded, the county integrated additional solutions 
+such as Mekorma for cheque printing and Diamond to handle processes like cash receipts, 
+property tax, utility billing, and project costing. 
+  
+In response to the growing demand for online services, including payment management and 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 21 of 39 
+ 
+utility enrollments, the county launched the myRockyview platform in 2022. However, over the 
+years, the county have faced challenges with system integrations, upgrades, and ensuring 
+seamless data accuracy across enterprise systems. The limitations of our current tools no 
+longer adequately meet our evolving business needs. 
+ 
+Considering its commitment to efficiency and innovation, Rocky View County is now 
+exploring the possibility of modernizing its systems by adopting a new ERP solution. Before 
+embarking on this transformative journey, the County recognizes the importance of 
+thoroughly assessing its current state to identify any gaps or challenges that must be 
+addressed. This assessment will serve as the foundation for informed decision-making and 
+strategic planning as the County endeavors to enhance its operational efficiency and service 
+delivery capabilities in the years ahead.  
+ 
+The organizational chart for Rocky View County can be found in Appendix E. 
+The County’s current financial system and other standalone solutions used by the County have 
+been specified in Appendix F. 
+ 
+A3. PROJECT SCOPE: 
+This project's scope is multifaceted and encompasses a comprehensive assessment and 
+strategic planning initiative to modernize Rocky View County's systems and processes by 
+adopting a new Enterprise Resource Planning (ERP) solution. The project is divided into 
+several distinct yet interconnected components, each tailored to achieve specific objectives 
+and deliver tangible outcomes. 
+Phase 1 – Enterprise Resource Planning (ERP) Requirements Analysis and 
+Readiness Review (Expected Completion Date: on or before December 31, 2025) 
+ 
+ . 
+Assessment of readiness and ERP needs will be completed in consultation 
+with the County’s ERP project team and applicable service areas within each 
+division of the County. 
+ . 
+Deliverables in this phase include: 
+ ) Completion of a readiness and needs assessment to aid the development 
+of ERP business requirements. 
+ ) Identify and document functional/technical requirements and business 
+processes. 
+ 
+ . 
+Through facilitated workshops with service areas and stakeholders, the 
+successful Proponent will identify the functional requirements necessary to 
+support the County’s operations and streamline its business processes. The 
+emphasis will be on enabling service areas to meet business outcomes 
+efficiently rather than merely transferring current practices to a new system. 
+The County’s ERP project team will support this effort. 
+ 
+ . 
+Migrating to a new ERP system represents a transformational change in the 
+County’s operations. It requires a management approach that will effectively 
+support users during the transition while cost-effectively meeting business and 
+service needs. The successful Proponent is expected to provide 
+recommendations on preparatory work the County should undertake for the 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 22 of 39 
+ 
+ERP migration, such as restructuring the chart of accounts, data cleaning, and 
+implementing change management strategies, etc. 
+ 
+ . 
+The deliverables for this project phase are as follows: 
+ ) 
+Organizational Readiness Assessment: Evaluate the County's 
+organizational readiness for ERP implementation, including change 
+management capabilities, leadership support, and staff training needs. 
+Assess stakeholder engagement and communication strategies to 
+facilitate buy-in and ensure successful adoption of the new ERP solution. 
+ ) 
+Technological Capabilities Evaluation: Conduct a thorough assessment 
+of the County's current technological infrastructure, including hardware, 
+software, and network systems. Evaluate existing technologies' 
+scalability, compatibility, and performance to determine their readiness 
+for integration with an ERP solution. 
+ ) 
+Data Management Practices Review: Assess the County's data 
+management practices, including data governance, quality, and 
+security protocols. Evaluate the integrity, accessibility, and reliability of 
+data repositories and identify areas for improvement to ensure 
+alignment with ERP requirements. 
+ ) 
+Identify data migration requirements and readiness. 
+ ) 
+Operational Workflow Analysis: Analyze the County's operational 
+workflows and business processes across various departments. 
+Identify inefficiencies, bottlenecks, and areas for optimization to 
+streamline operations and enhance productivity. Evaluate how existing 
+processes can be integrated with an ERP system to achieve 
+operational excellence. 
+ ) 
+Cloud Readiness Assessment: Evaluate the County's readiness for a 
+potential cloud-based ERP solution. This assessment should include: 
+• 
+Network infrastructure and internet connectivity 
+capabilities to support cloud-based operations 
+• 
+Security measures and compliance requirements for cloud 
+data storage and transmission 
+• 
+Potential impact on existing on-premises systems and 
+integration requirements 
+• 
+Cost-benefit analysis of cloud vs. on-premises solutions, 
+including long-term scalability and maintenance 
+considerations 
+ ) 
+Assessment of data residency requirements and compliance with 
+relevant regulations for cloud-stored data Identification of Strengths, 
+Weaknesses, Opportunities, and Challenges: Identify and analyze the 
+strengths, weaknesses, opportunities, and potential challenges 
+associated with ERP adoption. Develop a SWOC analysis to provide a 
+holistic view of the County's readiness and highlight areas for 
+improvement and strategic intervention. 
+ ) 
+Gap Analysis and Improvement Identification: Conduct a meticulous 
+examination of the current system to pinpoint existing gaps and areas 
+ripe for enhancement. This critical assessment should ascertain how a 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 23 of 39 
+ 
+new ERP solution can bridge these gaps and align with evolving 
+business and customer needs, driving service delivery and operational 
+efficiency improvements. 
+ ) 
+Consultation and Requirement Identification: Engage in comprehensive 
+consultations with service areas and users across the County to identify 
+requirements for enabling efficient business processes. This inclusive 
+process extends to identifying standalone applications necessitating core 
+ERP functionality integration. Emphasis is placed on explaining how a 
+modern system can streamline processes and yield significant benefits 
+for the County and its stakeholders. 
+ ) 
+Functional/Technical Recommendations and Integration Analysis: 
+Provide strategic recommendations regarding the functionality/technical 
+requirement that should be incorporated into the ERP solution and/or 
+integrated with standalone applications. These recommendations are 
+informed by a thorough cost-benefit analysis, focusing on optimizing 
+the migration to a new system. 
+ ) 
+Technical requirements for stand-alone applications must be 
+determined to ensure secure connectivity to the final ERP solution. 
+ ) 
+Actionable Insights and Recommendations: Based on the ERP needs 
+analysis and readiness assessment findings, provide actionable 
+insights and recommendations. Propose strategies, initiatives, and 
+interventions to address identified gaps, mitigate risks, and capitalize 
+on opportunities to optimize the County's readiness for ERP 
+implementation 
+ ) 
+Provide a “Market Intelligence Report” to the County’s project team 
+before the RFP development process, which will provide a high-level 
+overview of the ERP market for small, medium, and large-scale 
+enterprises, the market maturity of available ERP solutions, standard 
+ERP modules available within each ERP solution, ERP module add-ons 
+(if available) within each ERP solution, and “price points” of ERP 
+solutions available within the marketplace. 
+Phase 2 – Development of Request for Proposal (RFP) for ERP 
+Solution (Expected Completion Date: on or before February 02, 
+2026) 
+ . 
+Phase 2 of the project signifies a pivotal advancement in transforming insights 
+from Phase 1 into tangible documentation essential for the procurement 
+process. Through close collaboration with key stakeholders, the focus 
+transitions towards delineating the County's requirements, objectives, and 
+evaluation criteria for selecting an ERP vendor. This phase will run parallel to 
+Phase 1 and thoroughly explores functional and technical aspects, ensuring 
+the development of a robust Request for Proposal (RFP) aligned with the 
+County's strategic goals and operational requisites. 
+ . 
+Deliverables in this phase are carefully structured to ensure clarity, 
+comprehensiveness, and alignment with the County's strategic objectives 
+and financial constraints, which encompass the following: 
+ ) 
+Comprehensive Scope of Work Development: Create a detailed scope 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 24 of 39 
+ 
+of work delineating tasks, deliverables, and timelines for the ERP 
+implementation project. This includes defining project milestones, 
+dependencies, and resource requirements indispensable for achieving 
+project objectives. 
+ ) 
+Identification of Functional and Operational Requirements: Specify the 
+functions or tasks imperative for the ERP system to fulfill to meet the 
+County's functional and operational needs. 
+ ) 
+Prioritization of Functions: Prioritize identified functions based on their 
+significance and relevance to the County's operations. This ensures a 
+clear comprehension of critical functionalities vis-à-vis secondary or 
+optional ones. 
+ ) 
+Reporting Objectives and Data Analytics Capabilities: Define reporting 
+objectives, encompassing the types of reports needed and the 
+requisite level of detail. Additionally, identify the data analytics 
+capabilities essential for extracting insights from the ERP system to 
+support informed decision-making. 
+ ) 
+Data Migration Requirements: Outline the prerequisites for migrating 
+data from existing systems to the new ERP solution. This includes 
+identifying the types of data to be migrated, data cleansing, 
+transformation processes, and ensuring data integrity during migration. 
+ ) 
+Security Protocols: Define the security protocols and measures necessary 
+to safeguard sensitive information stored within the ERP system. This 
+encompasses role-based access controls, data encryption, audit trails, 
+and compliance with data protection regulations. 
+ ) 
+Project Approach, Timelines, and Vendor Experience: Articulate the 
+project approach, methodologies, tools, and frameworks for ERP 
+implementation. Define project timelines, milestones, and dependencies 
+to ensure timely delivery. Specify desired Vendor experience and 
+qualifications to validate track record and expertise. 
+ ) 
+Additional Requirements: Incorporate any other specific requirements 
+recommended by the Consultant to ensure the ERP RFP document 
+provides a comprehensive understanding of the County's expectations to 
+potential Proponents. This may encompass industry-specific 
+functionalities, customization needs, or regulatory compliance 
+requirements. 
+ ) 
+RFP Specification Development: Draft a comprehensive set of 
+functional and technical requirements, financial considerations, and 
+project-related parameters crucial for soliciting proposals from 
+potential Vendors. 
+ 
+ ) 
+Benchmarking and Peer Consultation: The Consultant will identify 
+and engage with comparable municipalities and government 
+agencies that have recently implemented ERP solutions to gather 
+insights, lessons learned, and best practices. This benchmarking 
+exercise should include documentation of implementation 
+approaches, challenges encountered, success factors, and 
+realized benefits. The findings should inform the RFP development 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 25 of 39 
+ 
+process and be summarized as part of the deliverables to provide 
+contextual reference for the County's ERP selection process. This 
+consultation should include both technical and operational 
+stakeholders from peer organizations to ensure comprehensive 
+understanding of real-world implementation experiences. 
+ 
+ ) 
+RFP Financial Considerations: In collaboration with the ERP Working 
+Group, the Consultant will develop a pricing matrix for the ERP RFP 
+which represents all one-time and recurring system costs and 
+encompasses options for Proponents responding to the ERP RFP to 
+provide clear and comprehensive pricing for on-premises, hosted, or 
+hybrid solutions. The pricing matrix shall be inclusive of ERP installation 
+and implementation costs, training costs, project management fees, 
+professional and technical services, data migration, and associated 
+expenses. Additionally, the pricing matrix must ensure clarity on ongoing 
+maintenance and support costs, which align with the County's budgetary 
+considerations and fiscal periods. 
+ ) 
+The Consultant will be responsible for drafting the RFP (scope of work), 
+which will then be reviewed and revised by Rocky View County's 
+Purchasing Department and the ERP Working Group. The Procurement 
+personnel, appointed by the Purchasing Department, will oversee the 
+review process and guide the RFP Development Team on the RFP 
+development, bidding, and evaluation processes. 
+ ) 
+Definition of Objective Evaluation Criteria: In collaboration with the ERP 
+Working Group and the Procurement personnel, define objective 
+evaluation criteria and weighting factors to assess Vendor proposals 
+effectively, and ensure alignment with the County's strategic goals and 
+operational requirements to facilitate informed decision-making. 
+ ) 
+Development of RFP Distribution List: Compile a comprehensive 
+distribution list encompassing ERP solution provider for organizations 
+of Rocky View County’s scale. This list will serve as a foundation for 
+soliciting proposals and fostering Vendor competition. 
+ ) 
+Technical Assistance: Assist the County in responding to Vendor 
+inquiries and developing corresponding Addenda to the RFP. Ensure 
+clarity and transparency in communication to facilitate a thorough 
+understanding of the County's requirements among potential 
+Vendors. 
+ ) 
+Pre-Proposal Meeting: If the County deems it necessary, participate in 
+a pre-proposal meeting designed to allow Vendors to seek clarification 
+on RFP requirements and engage in dialogue with County 
+representatives. 
+Phase 3 – ERP Vendor Evaluation and Selection 
+Process (Expected Completion Date: on or before May 
+29, 2026) 
+ . 
+Phase 3 of the project aims to provide comprehensive support to the 
+County in evaluating proposal responses and selecting a new ERP 
+solution that aligns meticulously with the specifications outlined in the 
+Request for Proposal (RFP). Leveraging expertise in ERP solutions and 
+procurement processes, the objective is to ensure the County's 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 26 of 39 
+ 
+procurement decisions are informed, strategic, and aligned with its 
+overarching goals. 
+ . 
+The deliverables in this phase, targeted for completion by December 
+31, 2025, will encompass the following: 
+ ) Proposal Review and Analysis: Review all technical and financial 
+proposals meticulously, identifying any issues, risks, exceptions, 
+omissions, or objections. Evaluate proposals against predefined criteria 
+outlined in the RFP, focusing on each Vendors' ability to meet minimum 
+requirements and align with evaluation criteria. 
+ ) Compatibility Assessment: Evaluate each proposed ERP solution's 
+compatibility with the County's existing software and hardware 
+infrastructure and identify any apparent / suspected compatibility issues 
+(if any) in each ERP proposal to allow for clarification to be sought from 
+the ERP Vendor by the Procurement Personnel. Ensuring compatibility 
+guarantees seamless integration and interoperability, minimizing 
+disruptions and maximizing efficiency. 
+ ) Vendor Reference Checks: With guidance from the Procurement 
+Personnel, assist the RFP Evaluation Committee with developing a set of 
+standard questions that will be used to complete Vendor reference 
+checks, assess each Vendor’s market presence and qualifications, and 
+confirm each Vendor’s capabilities. 
+ ) The RFP Evaluation Committee will be responsible for validating and 
+compiling each Proponent’s technical score and pricing score to 
+determine Proponent ranking and short-listing. 
+ ) Vendor Shortlisting and Demonstration Preparation: The RFP Evaluation 
+Committee will select the Vendors that will be shortlisted to provide a 
+product demonstration and assist the County in clarifying any outstanding 
+queries with shortlisted Vendors prior to the product demonstration 
+process. 
+ ) With guidance from the Procurement Personnel, the Consultant will 
+assist the County’s evaluation team in developing a meeting agenda 
+and product demonstration requirements/scenarios, as well as the 
+evaluation criteria and weighting that will be used for the product 
+demonstration process. 
+ 
+ ) Vendor Demonstration Facilitation: Assist the Procurement Personnel 
+with organizing and facilitating each Vendor demonstration, ensuring 
+alignment with the predefined agenda and objectives and that the 
+County provides a conducive environment for practical demonstrations. 
+ 
+This task will include a review of the selected Proponent’s proposed 
+contract-related documents, which may include, but not be limited to, 
+Service Level Agreements (SLA), Maintenance Agreements, Fee 
+Schedules, Statement of Work, Warranty documents, and Supplementary 
+Terms and Conditions (if applicable), to identify any areas of concern or 
+identify areas which require further clarification. A review of these 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 27 of 39 
+ 
+documents will also be carried out by various County personnel from Legal 
+Services, Purchasing, Information Technology, Finance, etc. 
+ 
+A4. PROJECT TEAM 
+The successful Proponent will receive direction and feedback from a project team comprised of 
+staff from the County representing several areas of County services, with the Business and 
+Technical Project Managers acting as the key liaisons to the Proponent. 
+The proposed work plan and project schedule submitted by the successful Consultant will 
+be subject to final review and input from the ERP Project team during the start-up meeting 
+and adjusted accordingly by the Consultant to develop a final work plan and project 
+schedule. 
+ 
+A5. PROJECT MEETINGS:  
+At a minimum, the successful Consultant must be prepared for and attend at least six (6) in-
+person meetings, which may include: 
+ ) Project Team: Start-up meeting. 
+ ) Project Team: Discuss data/information gathering and preparation of the 
+stakeholders’ workshop(s). 
+ ) Project Team: Discuss data/information gathering findings from the 
+stakeholders’ workshop(s). 
+ ) Project Team: Present the draft report of Phase 1. 
+ ) Leadership Team Meeting: Assist with presenting the final report and responding to 
+questions. 
+ ) County Council Meeting: Assist with presenting the final report to the County 
+Council and responding to questions. 
+The successful Consultant may be required to attend additional meetings to assist with 
+unanticipated matters that may occur throughout the project. When applicable and at the 
+Project Manager's discretion, meetings may be held virtually, or in person. The Consultant 
+shall be compensated for additional meetings in accordance with the Hourly Rate 
+Schedule and Miscellaneous Cost Schedule included as part of their RFP submission. 
+Unlimited telephone and email communication must be included. 
+ 
+A6. PROJECT ASSUMPTIONS: 
+The County will provide the consulting team with a dedicated point of contact who will facilitate 
+information requests. Requisite information and data will be readily available to the consulting 
+team at the outset of the project. Additional requests for data will be fulfilled within five (5) 
+business days, whenever possible. 
+ 
+The County will be responsible for all scheduling and logistics about stakeholder engagement, 
+in collaboration/consultation with the consulting team. 
+ 
+Draft reports and final reports submitted by the Consultant will be reviewed by County 
+personnel, and all comments/questions from the ERP Working Group will be compiled and 
+submitted to the Consultant within five (5) business days. 
+ 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 28 of 39 
+ 
+A7. PROJECT MANAGEMENT SERVICES: 
+Project Management shall be a key responsibility and continuous function of the successful 
+Consultant for each phase of the project. Therefore, the Proponent must designate a 
+dedicated Project Manager who will be committed to the project for the duration of the project 
+and will have the authority to make commitments and decisions that are binding on the 
+Proponent. 
+Proponents shall identify the Lead Project Manager (and Back-Up Project Manager) that will be 
+designated for this project in their Proposal submission (Evaluation Criterion Guidelines). 
+The successful Consultant’s Lead Project Manager shall: 
+ 
+ ) Develop a master plan/schedule and monitor project progress, schedule, and 
+budget. 
+ ) Be responsible for all work performed by the Consultant’s team members, 
+including all Sub-Contractors / Sub-Consultants. 
+ ) Be responsible for the completion of all contract deliverables and quality assurance. 
+ ) Prepare progress reports and attend progress meetings with the County’s 
+appointed Project Leads and Stakeholders. 
+ ) Ensure the County’s required tasks and activities are completed to align with 
+the master schedule and plan. 
+ ) Serve as the single point of contact for the County. 
+ ) Other activities agreed to during Project Initiation. 
+The Consultant’s Lead Project Manager and the County’s ERP Working Group will confirm 
+the responsibilities of the County, the Consultant, and the County’s / Consultant’s team(s) 
+during the Project Initiation Phase. For planning purposes, the County requires the Consultant 
+to provide an overview of their expectations regarding the County’s level of effort in terms of 
+time and personnel resources. 
+The Lead Project Manager’s tasks required under the scope of this Contract shall include, 
+but not be limited to, the following: 
+ ) Coordinate all services with the county’s appointed ERP project managers. 
+ ) Ensure any substitutions in the Proponent’s team personnel are submitted for 
+review and approval by the County’s appointed ERP Project Managers. 
+ ) Provide a written monthly progress report which consists of the actual schedule 
+achieved overlaid on the approved schedule developed by the Consultant in 
+collaboration with the ERP Working Group at the beginning of the Contract. 
+ ) For instances where the schedule has not been achieved, a brief written 
+explanation as to why should be included. The progress report can be 
+submitted via e-mail to the ERP Project Managers. 
+ 
+A8. CHANGES TO THE PROPOSED SCOPE OF WORK: 
+Some conditions may require additional or varied work relative to that described in the 
+Specifications; therefore, Change Orders may be required to accommodate these 
+conditions. The successful Proponent will be asked to submit pricing for any additional or 
+deleted items, which will be subject to review and approval by the Manager of Information 
+Technology or their Designate, through the issue of a written Change Order, and subsequent 
+amendment to the Purchase Order or written Agreement. 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 29 of 39 
+ 
+ 
+A9. ADDITIONAL ERP ADVISORY SERVICES: 
+The County may exercise an option to retain the successful Consultant to provide additional 
+ERP advisory services during the ERP implementation phase. The County will enter into 
+negotiations with the Consultant to define the scope of work and establish either a fixed fee for 
+advisory services OR retain the services of the Consultant on an “as required” basis, in 
+accordance with an “Hourly Rate(s) Schedule” agreed upon by both parties. 
+ 
+B. MANDATORY SUBMISSION REQUIREMENTS 
+B.1 
+ Submission Form  
+Proponents are instructed to complete the Submission Form set out in Appendix B of this RFP 
+and include it in their proposal submission. The Submission Form is to be signed by an authorized 
+representative of the proponent.  
+B.2  
+Pricing  
+Proponents are instructed to complete the Pricing Schedule as set out in Section F of Appendix 
+D of this RFP and include it in their proposal submission.  Instructions on how to complete the 
+Pricing Schedule are set out in Appendix C of this RFP.  
+B.3  Other Mandatory Submission Requirements 
+Proponents are instructed to complete and submit the Mandatory Evaluation Table below for their 
+proposal. Proponents will be evaluated based on their responses to the criteria listed within the 
+Mandatory Evaluation Table below. Any ‘No’ answers within the table will result in automatic 
+disqualification unless the included justification satisfies the evaluation committee. 
+Mandatory Evaluation Table 
+Criterion 
+Yes 
+No 
+Understanding of Scope, Excellent Understanding of the scope and 
+desired outcomes.  Has demonstrated knowledge of the proposed 
+project and has demonstrated their understanding in the Proposal 
+ 
+ 
+Proposed Methodology: Excellent Proposed Methodology, including 
+samples and examples included in the Proposal Document 
+ 
+ 
+Proposed Schedule: Well, thought out, comprehensive schedule with a 
+high likelihood of success 
+ 
+ 
+Proposed Team: Strong Team Credentials. Strong Project Lead with 
+previous experience conducting similar work. Strong Project team 
+members with deep background in conducting similar Projects with 
+appropriate professional certification(s) 
+ 
+ 
+Previous Similar Work: High degree of similarity between the County’s 
+requested project and previously completed work 
+ 
+ 
+Budgetary Control: Within the estimated With 10% variance 
+ 
+ 
+All required Insurance and Documents and References: Insurance 
+Certificate and Past references.  
+ 
+ 
+ 
+C. RATED CRITERIA 
+Proposals submitted by non-eligible Proponents, incomplete Proposals, or Proposals that do 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 30 of 39 
+ 
+not comply with the requirements of this RFP, contain false information, or contents that do 
+not permit a full analysis thereof, will not be considered by the County. General statements 
+or restatements of the conditions of the RFP will not be satisfactory to the County. 
+ 
+Proponent selection will be based on those Proponents providing the greatest overall benefit 
+to the County and will include, but not be limited to, the completeness of the RFP response, 
+compliance with all Specifications / Terms of Reference, and any other factors which the 
+County deems appropriate in the determination of the Proponent as a responsive and 
+responsible Proponent and best value to the County. 
+The table below sets out the categories, weightings, and descriptions of the rated criteria of 
+the RFP.   
+Rated Criteria Category 
+Points 
+ 
+The 
+countyighting 
+(%) 
+PROPONENT’S EXPERIENCE AND QUALIFICATIONS 
+• 
+Insufficient understanding 
+• 
+Has a moderate understanding of the scope? 
+In some cases, has demonstrated that they 
+have knowledge of the requirements, and  
+• 
+Excellent Understanding of the scope and 
+desired outcomes.  Has demonstrated 
+knowledge of the proposed project and has 
+demonstrated their understanding of the 
+Proposal. 
+ 
+0 - 5 
+10 
+SERVICE TEAM QUALIFICATIONS AND EXPERIENCE:  
+• 
+Limited qualifications and Experience > 5 
+years 
+• 
+Medium and standard qualifications and 
+Experience < 5 years or equal to 5 years 
+• 
+Highly qualified and rich experience, <8 years  
+0 - 5 
+25 
+CLIENT REFERENCES AND PAST EXPERIENCE:  
+• 
+Insufficient Detail and 2 or less references 
+• 
+2 or more references and sufficient 
+experience. 
+• 
+3 or more references and excellent past 
+experience 
+0 - 5 
+10 
+WORK PLAN, METHODOLOGY, AND QUALITY 
+ASSURANCE 
+• 
+Insufficient Detail or not likely to achieve the 
+desired plan and schedule. 
+• 
+Well thought-out, comprehensive plan and 
+schedule with a high likelihood of success 
+• 
+Innovative Ideas excellent Understanding of 
+the scope and desired outcomes 
+0 - 5 
+30 
+PRICING  
+0 - 5 
+25 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 31 of 39 
+ 
+• 
+Pricing Evaluation will be on the Unit rate and 
+the total cost basis 
+• 
+pricing formula: {(Submitted cost /Lowest 
+cost) *Weight i.e.  25%} 
+• 
+A modular pricing template has been 
+provided in the Appendix “C” 
+ 
+Total Points 
+0-5 
+100 
+Points will be assigned for each criterion based on the information provided in the proponent’s 
+submission.  Scoring will be consistently applied by the County’s evaluation team using the 
+specified scoring system noted below.  Points will be awarded on a scale of 0 to 5 as noted below. 
+Score 
+Description 
+0 
+UNACCEPTABLE: The proposal is non-compliant or does not satisfy any 
+requirements of the criterion. 
+1 
+POOR:  Addresses the requirements of the criterion but lacking in critical areas. 
+2 
+MARGINAL:  Meets some requirements to a minimum acceptable level. 
+3 
+SATISFACTORY:  Average capabilities and performance and meets most of the 
+requirements of the criterion. 
+4 
+ABOVE AVERAGE:  Meets most if not all requirements of the criterion. 
+5 
+SUPERIOR:  Exceeds the requirements of the criterion. 
+The County will have the sole discretion to award up to the maximum number of points for 
+each noted criterion.  By submitting a proposal, the proponent acknowledges and agrees that 
+the County has and is hereby entitled to exercise its sole discretion to award the points for the 
+evaluation of the noted criteria and the proponent waives any right to contest in any legal 
+proceedings the decision of the County to award points in respect of the noted criteria. 
+ 
+EVALUATION CRITERIA GUIDELINES: 
+Each Proposal submission shall include, but not be limited to, the following information: 
+Proponent’s Qualifications and Experience (VALUE: 10%) 
+This criterion evaluates the Proponent's overall experience and qualifications in delivering 
+similar projects or services. It assesses the Proponent’s track record, industry experience, and 
+demonstrated ability to successfully execute projects of comparable scope and complexity. 
+( ) Proponents shall provide an overview of their company’s business history, 
+number of years in operation, experience, membership/affiliation with professional 
+associations, financial stability, number of personnel employed, and any notable 
+awards or recognition achieved by the firm in the field of providing similar or 
+identical services as those described herein. 
+( ) Proponents shall demonstrate the firm’s in-depth knowledge and understanding of 
+the mandates, organizational structure, services, and operations of municipal 
+government entities, and provide, in detail, their firm’s qualifications relative to 
+providing ERP consulting services within a municipal environment for commercial 
+ERP systems such as Oracle, SAP, Microsoft Dynamics, etc. 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 32 of 39 
+ 
+( ) Proponents may identify any special knowledge, skills, programs, or service 
+delivery processes that may be helpful to the County in the delivery and execution 
+of the products and/ or services requested herein. Proponents may also describe 
+any specialized method or technological means that they may have at their 
+disposal to ensure quick, efficient, and professional execution of the services 
+required to complete all installations/implementations, testing commissioning, 
+and/or delivery processes. 
+ 
+( ) Proponents may provide any additional information that they feel would aid the 
+County in evaluating their proposal submission, which describes which 
+methods, experience, expertise, or other qualifications are unique to their firm, 
+or that differentiate their firm from possible competitors. 
+Team Qualifications and Experience (VALUE: 25%) 
+Proponents need to demonstrate their firm’s capacity and capabilities in terms of 
+expertise, technical/professional qualifications, and professional support services, as 
+it relates to completing ERP projects of similar scope and complexity, for public sector 
+clients, most notably those at the municipal level.   
+This criterion assesses the qualifications, expertise, and experience of the specific team 
+members proposed for the project. It focuses on the ability of the team to deliver the 
+required services effectively and efficiently. 
+(a) The Proponent’s appointed Project Manager (and back-up Project Manager) 
+shall have a minimum of five (5) years of experience on ERP-related projects, 
+with demonstrated experience in having led a minimum of two (2) ERP 
+projects from readiness assessment through to implementation within the last 
+seven (7) year period. Preference will be given to Project Managers with 
+professional project management certification(s) from recognized, accredited 
+3rd party organizations (i.e. the Project Management Institute (PMI)) or post-
+secondary academic institutions. 
+ 
+(b) Project team members must have a minimum of three (3) years of experience 
+on ERP-related projects, with demonstrated experience in readiness 
+assessment through to implementation within the last seven (7) year period. 
+Diversity of expertise within the team will be evaluated to ensure 
+comprehensive coverage in all areas of the project scope. 
+ 
+(c) Proponents shall provide a comprehensive list of the key personnel (which 
+may include but not be limited to subject-matters specialists in such areas as 
+Change Management, Data Migration, and Systems Integration), and Sub-
+Consultants (if any) that will be assigned to the project described herein, and 
+include a description of each person’s role in the project, as well as an 
+organizational chart which identifies the reporting structure between the 
+Proponent’s project team, and the key stakeholders that will be involved in the 
+project. 
+ 
+(d) Proponents shall also include an applicable project listing and professional 
+résumé for each project team member which clearly outlines their post-
+secondary education, years of work experience, technical certifications, 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 33 of 39 
+ 
+membership/affiliation with professional associations, notable awards or 
+recognition achieved by the individual, and their roles/responsibilities on 
+projects which are similar or identical to the professional assignment 
+described herein. 
+ 
+(e) Identify any Sub-Contractors / Sub-Consultants that will be retained by your 
+firm as part of the Project Team. Proponents shall include a description of 
+each Subcontractor / sub-consultant’s role in the delivery of services under 
+the scope of this agreement.  
+ 
+(f) Proponents shall also include an applicable project listing and professional 
+résumé that demonstrates each Sub-Contractor / Sub-Consultant’s post-
+secondary education, experience, qualifications, and roles/responsibilities on 
+projects that are similar or identical to the services described herein. 
+ 
+(g) Proponents need to demonstrate the capacity and capabilities of each Project 
+Team member, and Sub-Contractors / Sub-Consultants, in terms of their 
+expertise, knowledge, and technical/professional qualifications as it relates to 
+completing ERP projects of a similar scope and complexity, for public sector 
+clients, most notably those at the municipal level. 
+ 
+Client References and Past Experience (VALUE: 10%) 
+This criterion evaluates the feedback and satisfaction levels of past clients regarding the 
+Vendor’s performance. It provides insights into the Vendor’s reliability, project 
+management skills, communication skills, and problem resolution skills, and their ability 
+to meet client expectations, deliverables, project milestones, and budgetary constraints. 
+( ) 
+Proponents shall provide a MINIMUM OF THREE (3) (preferably PUBLIC 
+SECTOR) client references for whom they have provided SIMILAR/ 
+IDENTICAL SERVICES WITHIN THE LAST SEVEN (7) YEARS. 
+( ) 
+Preference will be given to Canadian public sector clients in the municipal sector. 
+( ) 
+Proponents shall provide, at minimum, the following information for each 
+client reference: 
+• 
+Client name and contact information (telephone number/e-mail address) 
+• 
+Approximate total contract value 
+• 
+Duration of contract (project commencement and completion dates) 
+• 
+A brief description of the specific services provided / project scope 
+• 
+Name of Project Manager / Project Lead employed by the 
+Proponent to ensure successful delivery of all products and/or 
+services to the Client  
+• 
+Name of Senior / Key Project Team Members 
+( ) 
+Sub-contractors or Sub-Consultants (if any) used on the project proponents 
+may also include written testimonials/letters of recommendation received 
+from past clients for whom your firm has provided similar or identical 
+services to those specified herein if so desired. 
+ 
+Work Plan, Methodology, and Quality Assurance (VALUE: 30%) 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 34 of 39 
+ 
+This criterion assesses the Proponent’s proposed approach to executing the project 
+and evaluates how well the Proponent’s plan aligns with the project objectives, 
+requirements, and deliverables, and that methods are in place to ensure the quality 
+and timeliness of the project deliverables. 
+(a) Proponents shall describe their approach to the provision of the professional 
+services required herein. Consideration is to be given to whether the 
+Proponent has effectively identified major phases of the project, thoroughly 
+understands the requirements of this professional assignment, has a keen 
+comprehension of the challenges and risks associated with the assignment, 
+and can ensure the assignment receives the best overall value for money 
+during the service delivery process. 
+(b) The use of established methodologies such as Agile, Waterfall, or Hybrid 
+approaches, may be employed, with justification for their applicability to the 
+project. 
+(c) The Work Plan shall also include the Proponent’s proposed stakeholder 
+engagement strategies to ensure continuous alignment with project 
+objectives and client expectations. 
+ 
+(d) Proponents shall include a graphic work plan (Gantt Chart) that provides a 
+clear description of the tasks proposed to carry out the various aspects of the 
+work and to fulfill the objectives identified within the scope of this RFP. The 
+Gantt Chart shall also indicate the proposed duration of each project 
+phase/milestone. 
+ 
+(e) Proponents shall also provide a PERSON-HOUR SCHEDULE with their 
+technical proposal detailing the estimated hours that will be spent by the firm 
+and all intended Sub-consultants FOR EACH PROJECT PHASE. The 
+person-hour schedule included with the TECHNICAL proposal submission 
+shall NOT include pricing details, as all pricing information must be submitted 
+as a separate digital file (refer to Article 6.2(d)). 
+ 
+(f) In the methodology section, the Proponent is invited to identify any potential 
+problems that may be encountered (i.e. project delays, resource constraints, 
+etc.) and how they would, if appointed, deal with them. The Proponent is also 
+invited to describe any specialized method or technological means that they 
+may have at their disposal to ensure quick, efficient, and professional 
+execution of the services. 
+ 
+(g) The RFP Evaluation Committee will be considering and evaluating any 
+proposed innovative suggestions provided by the Proponent in their RFP 
+response. Such suggestions may be evaluated based on an increase in the 
+level of service provided by the Proponent, an improvement in 
+communications, alternate methods to deliver the product or improve planning 
+and design activities, technological advancements, methods to improve quality 
+control and quality assurance, etc. 
+ 
+(h) Submit information relative to your firm’s quality assurance (QA) processes, 
+and identify any current, internationally recognized thirty-party QA certification 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 35 of 39 
+ 
+achieved (i.e. ISO 9001, ISO 14001) by the firm. Proponents shall also 
+describe how and where QA has been implemented throughout their 
+organization’s processes. At a minimum, the Proponent’s QA processes 
+should include regular reviews, testing, and validation steps to ensure 
+deliverable quality and timeliness. 
+ 
+Pricing/ Professional Fees: (VALUE: 25%) 
+This criterion evaluates the cost of the services provided by the Proponent, including the 
+competitiveness and transparency of the pricing structure. It also considers the alignment 
+of costs with the proposed scope of work. 
+The Proponent shall provide a TASK-FEE SCHEDULE (Unit price and Lump-sum 
+price structure) showing the following, at a minimum: 
+(a) Proposed Professional Fees (PER PROJECT PHASE) to complete the work 
+described herein, including any required Sub-Consultants. Sample Price Chart 
+at Appendix #C 
+(b) Estimated expenses/disbursements for each phase of the project. 
+(c) Service fees and rates shall be inclusive of all labour, materials, equipment, 
+tools, consumables, indirect costs, insurance, Workers' Compensation, 
+Vacation Pay Assessment, Canada Pension Plan, Employment Insurance, and 
+all other payroll burdens, together with all applicable transportation and set-up 
+costs to and from the job site(s), the Proponent’s overhead and profit, and any 
+other costs detailed or implied in these documents (except as otherwise 
+specified 
+ 
+D.  CONFIDENTIALITY OF EVALUATION 
+Rocky View County reserves the right to seek clarification regarding any submitted proposals and 
+such clarification shall be deemed an amendment to such proponent’s proposal. 
+Evaluation scores and rankings are confidential and apart from identifying the top-ranked 
+proponent, no details of the proposal or score ranking of any proponent will be released. 
+E.  ACCEPTANCE OR REJECTION OF PROPOSALS 
+Without limiting the generality of the foregoing Rocky View County reserves the right to reject any 
+or all proposals.  Rocky View County may reject a proposal which: 
+(i) is incomplete, obscure, irregular, or unrealistic 
+(ii) has erasures or corrections 
+(iii) omits a price on any one or more items in any Schedule 
+(iv) fails to complete the information requested 
+(v)  
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 36 of 39 
+ 
+F.  PRICING SCHEDULE 
+Proponents are instructed to download from the APC site the Pricing Schedule (Pricing 
+Schedule for RFP# 24-021 ERP Requirements Analysis and Readiness Review).  Proponents 
+are to complete the Pricing Schedule in accordance with the instructions set out in Appendix C of 
+this RFP and include the completed Pricing Schedule in their proposal submission. 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 37 of 39 
+ 
+APPENDIX E 
+ORGANIZATIONAL CHART 
+ 
+ 
+ 
+ 
+ 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 38 of 39 
+ 
+ 
+APPENDIX F 
+  CURRENT FINANCIAL SYSTEM AND OTHER STANDALONE 
+Current Financial System and Other Standalone 
+Departments 
+Application 
+Functions 
+Enforcement 
+MRF 
+Records Management 
+MRF 
+Dog Licensing 
+MRF 
+e-Ticketing 
+Finance 
+Great Plains 
+Purchasing / Inventory 
+Great Plains 
+Accounts Receivable / Utility Billing 
+Great Plains 
+Accounts Payable 
+Great Plains 
+Cash Receipts 
+Great Plains 
+Project Costing, Property Tax 
+Questica 
+Budgeting/ Financial Statement 
+Great Plains 
+General Accounting/General Ledger 
+Mekorma 
+Cheque Print 
+SharePoint 
+Document Management 
+F9 
+Balance Sheet 
+Smartlist / Report Writer 
+Reporting 
+Paymentus 
+Online Payment 
+Great Plains/Diamond 
+Resident Portal  
+Great Plains 
+Sales & Billings 
+Great Plains 
+Fixed Assets 
+Fleet 
+Cityworks 
+Inventory 
+Cityworks 
+Work Orders including labour 
+Cityworks 
+Asset Management 
+GIR 
+Fuel management 
+Human 
+Resources/Payroll 
+Dayforce 
+Human capital management 
+Industrial Alliance 
+Benefits Administration 
+Dayforce 
+Compensation Management 
+Dayforce 
+Employee Information Management 
+Dayforce 
+Payroll Management 
+Dayforce 
+Performance Management 
+Dayforce 
+Recruitment and Onboarding 
+Dayforce 
+Time and Attendance in ADP/Labour hours on WO in 
+Infor 
+Dayforce 
+Integration with Team Dynamix ESM 
+Dayforce 
+Time and attendance for all other areas 
+Dayforce / BisTrainer 
+Training and Development 
+  
+RFP# 25-004 ERP Requirements Analysis and Readiness Review 
+Page 39 of 39 
+ 
+Planning & 
+Development 
+CityView 
+Development Permits (Inspections, reviews) 
+Cityworks 
+Track counter visit 
+CityView 
+Planning & Engineering 
+Water & 
+Wastewater 
+Neptune360 
+Water Utility Billing and Collections 
+SCADA 
+Water system design 
+KP System 
+Meter Reading 
+ArcGIS 
+Asset Management 
+Transportation 
+Cityworks 
+Work Orders including labour, equipment, materials 
+Asset 
+Management 
+Cityworks 
+Work Management 
+ArcGIS 
+Asset Management 
+Facilities 
+InfoPath Form 
+Work Management / Service Request 
+InfoPath Form 
+Work Orders including labour 
+Ag Services 
+CityView 
+Weed Inspection 
+CityView 
+Pest Inspection 
+Cityworks 
+Work Order & Service Request 
+Building Services 
+CityView 
+Permits & Inspections 
+CityView 
+Public portal & online payment 
+Solid Waste & 
+Recycling 
+Cityworks 
+Work Order & Service Request 
+ArcGIS 
+Asset management 
+Cemetery 
+Stone Orchard 
+Plot management & Sales 
+Fire Services 
+FirePro 
+Burn Permit 
+ 
