@@ -36,7 +36,8 @@ RFP Document → Text Processing → Chunking → AI Extraction → Validation �
 
 
 ## User Interface
-A user interface for uploading RFP documents, viewing extracted information, and comparing model results.
+The interface allows users to upload RFP documents, extract the required information, and review model evaluation results.
+(https://rfp-demo-kyieztneqv8xhhfdugxefh.streamlit.app/)
 
 ### RFP Extraction
 <img width="626" height="449" alt="Screenshot 2026-09-27 133749" src="https://github.com/user-attachments/assets/a5d3d7de-0cf6-45e4-841f-ef8c10762f7f" />
